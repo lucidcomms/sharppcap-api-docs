@@ -1,0 +1,66 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <!-- The configuration and platform will be used to determine which
+         assemblies to include from solution and project documentation
+         sources -->
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5dbe558e-67eb-4cc5-84ec-775ae0c7a190}</ProjectGuid>
+    <SHFBSchemaVersion>1.8.0.0</SHFBSchemaVersion>
+    <!-- AssemblyName, Name, and RootNamespace are not used by SHFB but Visual
+         Studio adds them anyway -->
+    <AssemblyName>Documentation</AssemblyName>
+    <RootNamespace>Documentation</RootNamespace>
+    <Name>Documentation</Name>
+    <!-- SHFB properties -->
+    <OutputPath>.\Help\</OutputPath>
+    <HtmlHelpName>Documentation</HtmlHelpName>
+    <HelpFileFormat>Help1xAnd2xAndWebsite</HelpFileFormat>
+    <DocumentationSources>
+      <DocumentationSource sourceFile="..\..\bin\Debug\SharpPcap.dll" xmlns="" />
+      <DocumentationSource sourceFile="..\Api\SharpPcap.xml" xmlns="" />
+    </DocumentationSources>
+    <NamingMethod>MemberName</NamingMethod>
+    <Preliminary>True</Preliminary>
+    <PresentationStyle>vs2005</PresentationStyle>
+    <SyntaxFilters>Standard</SyntaxFilters>
+    <HelpTitle>A packet capture framework for the .NET environment</HelpTitle>
+    <MissingTags>Parameter, Returns, AutoDocumentCtors, Namespace, TypeParameter</MissingTags>
+    <KeepLogFile>True</KeepLogFile>
+    <CppCommentsFixup>True</CppCommentsFixup>
+    <IncludeFavorites>True</IncludeFavorites>
+    <PlugInConfigurations>
+      <PlugInConfig id="Output Deployment" enabled="True" xmlns="">
+        <configuration deleteAfterDeploy="true">
+          <deploymentLocation id="help1x" location="C:\Documents and Settings\User\My Documents\Sandcastle\SharpPcap API Docs\HTML Help 1.x\">
+            <userCredentials useDefault="true" userName="" password="" />
+            <proxyCredentials useProxy="false" proxyServer="">
+              <userCredentials useDefault="true" userName="" password="" />
+            </proxyCredentials>
+          </deploymentLocation>
+          <deploymentLocation id="help2x" location="C:\Documents and Settings\User\My Documents\Sandcastle\SharpPcap API Docs\HTML Help 2.x\">
+            <userCredentials useDefault="true" userName="" password="" />
+            <proxyCredentials useProxy="false" proxyServer="">
+              <userCredentials useDefault="true" userName="" password="" />
+            </proxyCredentials>
+          </deploymentLocation>
+          <deploymentLocation id="website" location="C:\Documents and Settings\User\My Documents\Sandcastle\SharpPcap API Docs\Website\">
+            <userCredentials useDefault="true" userName="" password="" />
+            <proxyCredentials useProxy="false" proxyServer="">
+              <userCredentials useDefault="true" userName="" password="" />
+            </proxyCredentials>
+          </deploymentLocation>
+        </configuration>
+      </PlugInConfig>
+    </PlugInConfigurations>
+  </PropertyGroup>
+  <!-- There are no properties for these two groups but they need to appear in
+       order for Visual Studio to perform the build. -->
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+  </PropertyGroup>
+  <!-- Import the SHFB build targets -->
+  <Import Project="$(SHFBROOT)\SandcastleHelpFileBuilder.targets" />
+</Project>
