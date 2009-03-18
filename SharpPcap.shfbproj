@@ -18,9 +18,8 @@
     <HtmlHelpName>Documentation</HtmlHelpName>
     <HelpFileFormat>Help1xAnd2xAndWebsite</HelpFileFormat>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\..\bin\Debug\SharpPcap.dll" xmlns="" />
-      <DocumentationSource sourceFile="..\Api\SharpPcap.xml" xmlns="" />
-    </DocumentationSources>
+      <DocumentationSource sourceFile="..\..\Visual Studio 2008\Projects\sharppcap\SharpPcap\bin\Debug\SharpPcap.dll" />
+<DocumentationSource sourceFile="..\..\Visual Studio 2008\Projects\sharppcap\SharpPcap\docs\Api\SharpPcap.xml" /></DocumentationSources>
     <NamingMethod>MemberName</NamingMethod>
     <Preliminary>True</Preliminary>
     <PresentationStyle>vs2005</PresentationStyle>

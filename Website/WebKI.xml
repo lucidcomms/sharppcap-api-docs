@@ -286,6 +286,7 @@
   <HelpKINode Title="checkBoundries method" Url="html/Overload_SharpPcap_Util_IPAddressRange_checkBoundries.htm" />
   <HelpKINode Title="checkBoundries method" Url="html/Overload_SharpPcap_Util_IPSubnet_checkBoundries.htm" />
   <HelpKINode Title="checkBoundries method" Url="html/Overload_SharpPcap_Util_NumberRange_checkBoundries.htm" />
+  <HelpKINode Title="CheckFilter method" Url="html/M_SharpPcap_PcapDevice_CheckFilter.htm" />
   <HelpKINode Title="Checksum property" Url="html/P_SharpPcap_Packets_ICMPPacket_Checksum.htm" />
   <HelpKINode Title="Checksum property" Url="html/P_SharpPcap_Packets_IGMPPacket_Checksum.htm" />
   <HelpKINode Title="Checksum property" Url="html/P_SharpPcap_Packets_IPv4Packet_Checksum.htm" />
@@ -2000,8 +2001,8 @@
   <HelpKINode Title="IPv4Packet._ipOffset field" Url="html/F_SharpPcap_Packets_IPv4Packet__ipOffset.htm" />
   <HelpKINode Title="IPV6 enumeration member" Url="html/T_SharpPcap_Packets_IPProtocol_IPProtocolType.htm" />
   <HelpKINode Title="IPv6 enumeration member" Url="html/T_SharpPcap_Packets_IPPacket_IPVersions.htm" />
-  <HelpKINode Title="ipv6 field" Url="html/F_SharpPcap_Packets_IPPacket_ipv6.htm" />
   <HelpKINode Title="IPV6 field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_IPV6.htm" />
+  <HelpKINode Title="ipv6 field" Url="html/F_SharpPcap_Packets_IPPacket_ipv6.htm" />
   <HelpKINode Title="IPv6Fields_Fields structure" Url="html/AllMembers_T_SharpPcap_Packets_IPv6Fields_Fields.htm" />
   <HelpKINode Title="IPv6Fields_Fields structure" Url="html/T_SharpPcap_Packets_IPv6Fields_Fields.htm" />
   <HelpKINode Title="IPv6Fields_Fields structure">
@@ -2228,9 +2229,9 @@
   <HelpKINode Title="MakeValid method" Url="html/M_SharpPcap_Packets_TCPPacket_MakeValid.htm" />
   <HelpKINode Title="MarshalPacket method" Url="html/M_SharpPcap_PcapDevice_MarshalPacket.htm" />
   <HelpKINode Title="MASK enumeration member" Url="html/T_SharpPcap_Packets_IPProtocol_IPProtocolType.htm" />
+  <HelpKINode Title="MASK field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_MASK.htm" />
   <HelpKINode Title="MASK field" Url="html/F_SharpPcap_Packets_IPPorts_MASK.htm" />
   <HelpKINode Title="mask field" Url="html/F_SharpPcap_Util_IPSubnet_mask.htm" />
-  <HelpKINode Title="MASK field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_MASK.htm" />
   <HelpKINode Title="MaskStringToBits method" Url="html/M_SharpPcap_Util_Convert_MaskStringToBits.htm" />
   <HelpKINode Title="MaskToBits method" Url="html/Overload_SharpPcap_Util_IPUtil_MaskToBits.htm" />
   <HelpKINode Title="MaskToLong method" Url="html/Overload_SharpPcap_Util_IPUtil_MaskToLong.htm" />
@@ -2585,6 +2586,7 @@
   </HelpKINode>
   <HelpKINode Title="PcapDevice.Addresses property" Url="html/P_SharpPcap_PcapDevice_Addresses.htm" />
   <HelpKINode Title="PcapDevice.Capture method" Url="html/M_SharpPcap_PcapDevice_Capture.htm" />
+  <HelpKINode Title="PcapDevice.CheckFilter method" Url="html/M_SharpPcap_PcapDevice_CheckFilter.htm" />
   <HelpKINode Title="PcapDevice.Close method" Url="html/M_SharpPcap_PcapDevice_Close.htm" />
   <HelpKINode Title="PcapDevice.Description property" Url="html/P_SharpPcap_PcapDevice_Description.htm" />
   <HelpKINode Title="PcapDevice.Dump method" Url="html/Overload_SharpPcap_PcapDevice_Dump.htm" />
@@ -3285,11 +3287,11 @@
   <HelpKINode Title="ToColoredVerboseString method" Url="html/M_SharpPcap_Packets_Packet_ToColoredVerboseString.htm" />
   <HelpKINode Title="ToColoredVerboseString method" Url="html/M_SharpPcap_Packets_TCPPacket_ToColoredVerboseString.htm" />
   <HelpKINode Title="toQuadString method" Url="html/M_SharpPcap_Packets_Util_HexHelper_toQuadString.htm" />
-  <HelpKINode Title="toString method" Url="html/Overload_SharpPcap_Packets_Util_HexHelper_toString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_ARPPacket_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_EthernetPacket_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_ICMPPacket_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_IGMPPacket_ToString.htm" />
+  <HelpKINode Title="toString method" Url="html/Overload_SharpPcap_Packets_Util_HexHelper_toString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_IPPacket_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_IPv4Packet_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_IPv6Packet_ToString.htm" />
