@@ -15,6 +15,7 @@
   <HelpKINode Title="Addr field" Url="html/F_SharpPcap_Pcap_PcapAddress_Addr.htm" />
   <HelpKINode Title="Addresses field" Url="html/F_SharpPcap_Pcap_PcapInterface_Addresses.htm" />
   <HelpKINode Title="Addresses property" Url="html/P_SharpPcap_PcapDevice_Addresses.htm" />
+  <HelpKINode Title="AdminStatus property" Url="html/P_SharpPcap_Win32_NetworkDevice_AdminStatus.htm" />
   <HelpKINode Title="AED_512 field" Url="html/F_SharpPcap_Packets_IPPorts_AED_512.htm" />
   <HelpKINode Title="AFPOVERTCP field" Url="html/F_SharpPcap_Packets_IPPorts_AFPOVERTCP.htm" />
   <HelpKINode Title="AF_INET_AF_INET6 enumeration member" Url="html/T_SharpPcap_Pcap_Sockaddr_Type.htm" />
@@ -429,11 +430,14 @@
   <HelpKINode Title="DECLADEBUG field" Url="html/F_SharpPcap_Packets_IPPorts_DECLADEBUG.htm" />
   <HelpKINode Title="DECVMS_SYSMGT field" Url="html/F_SharpPcap_Packets_IPPorts_DECVMS_SYSMGT.htm" />
   <HelpKINode Title="DEC_DLM field" Url="html/F_SharpPcap_Packets_IPPorts_DEC_DLM.htm" />
+  <HelpKINode Title="DefaultGateway property" Url="html/P_SharpPcap_Win32_NetworkDevice_DefaultGateway.htm" />
+  <HelpKINode Title="DefaultGatewayList property" Url="html/P_SharpPcap_Win32_NetworkDevice_DefaultGatewayList.htm" />
   <HelpKINode Title="DEI_ICDA field" Url="html/F_SharpPcap_Packets_IPPorts_DEI_ICDA.htm" />
   <HelpKINode Title="DEOS field" Url="html/F_SharpPcap_Packets_IPPorts_DEOS.htm" />
   <HelpKINode Title="Description field" Url="html/F_SharpPcap_Pcap_PcapInterface_Description.htm" />
   <HelpKINode Title="Description property" Url="html/P_SharpPcap_PcapDevice_Description.htm" />
   <HelpKINode Title="Description property" Url="html/P_SharpPcap_PcapOfflineDevice_Description.htm" />
+  <HelpKINode Title="Description property" Url="html/P_SharpPcap_Win32_NetworkDevice_Description.htm" />
   <HelpKINode Title="DestinationAddress property" Url="html/P_SharpPcap_Packets_IPPacket_DestinationAddress.htm" />
   <HelpKINode Title="DestinationAddress property" Url="html/P_SharpPcap_Packets_IPv4Packet_DestinationAddress.htm" />
   <HelpKINode Title="DestinationAddress property" Url="html/P_SharpPcap_Packets_IPv6Packet_DestinationAddress.htm" />
@@ -444,6 +448,10 @@
   <HelpKINode Title="DEVICE field" Url="html/F_SharpPcap_Packets_IPPorts_DEVICE.htm" />
   <HelpKINode Title="DeviceName property" Url="html/P_SharpPcap_Protocols_ARP_DeviceName.htm" />
   <HelpKINode Title="DEVICESHARE field" Url="html/F_SharpPcap_Packets_IPPorts_DEVICESHARE.htm" />
+  <HelpKINode Title="DhcpEnabled property" Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpEnabled.htm" />
+  <HelpKINode Title="DhcpLeaseExpires property" Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpLeaseExpires.htm" />
+  <HelpKINode Title="DhcpLeaseObtained property" Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpLeaseObtained.htm" />
+  <HelpKINode Title="DhcpServer property" Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpServer.htm" />
   <HelpKINode Title="DHCPV6_CLIENT field" Url="html/F_SharpPcap_Packets_IPPorts_DHCPV6_CLIENT.htm" />
   <HelpKINode Title="DHCPV6_SERVER field" Url="html/F_SharpPcap_Packets_IPPorts_DHCPV6_SERVER.htm" />
   <HelpKINode Title="DHCP_FAILOVER field" Url="html/F_SharpPcap_Packets_IPPorts_DHCP_FAILOVER.htm" />
@@ -481,6 +489,7 @@
   <HelpKINode Title="DTK field" Url="html/F_SharpPcap_Packets_IPPorts_DTK.htm" />
   <HelpKINode Title="Dump method" Url="html/Overload_SharpPcap_PcapDevice_Dump.htm" />
   <HelpKINode Title="Dump method" Url="html/Overload_SharpPcap_PcapOfflineDevice_Dump.htm" />
+  <HelpKINode Title="Dump method" Url="html/Overload_SharpPcap_Win32_NetworkDevice_Dump.htm" />
   <HelpKINode Title="DumpClose method" Url="html/M_SharpPcap_PcapDevice_DumpClose.htm" />
   <HelpKINode Title="DumpFlush method" Url="html/M_SharpPcap_PcapDevice_DumpFlush.htm" />
   <HelpKINode Title="DumpOpen method" Url="html/M_SharpPcap_PcapDevice_DumpOpen.htm" />
@@ -655,6 +664,7 @@
   <HelpKINode Title="fillBytes method" Url="html/M_SharpPcap_Packets_Util_ArrayHelper_fillBytes.htm" />
   <HelpKINode Title="fillBytesLittleEndian method" Url="html/M_SharpPcap_Packets_Util_ArrayHelper_fillBytesLittleEndian.htm" />
   <HelpKINode Title="Fin property" Url="html/P_SharpPcap_Packets_TCPPacket_Fin.htm" />
+  <HelpKINode Title="Finalize method" Url="html/M_SharpPcap_PcapDevice_Finalize.htm" />
   <HelpKINode Title="FINGER field" Url="html/F_SharpPcap_Packets_IPPorts_FINGER.htm" />
   <HelpKINode Title="FisrtIPAddress property" Url="html/P_SharpPcap_Util_IPAddressRange_FisrtIPAddress.htm" />
   <HelpKINode Title="Flags field" Url="html/F_SharpPcap_Pcap_PcapInterface_Flags.htm" />
@@ -678,7 +688,9 @@
   <HelpKINode Title="GDOMAP field" Url="html/F_SharpPcap_Packets_IPPorts_GDOMAP.htm" />
   <HelpKINode Title="GENIE field" Url="html/F_SharpPcap_Packets_IPPorts_GENIE.htm" />
   <HelpKINode Title="GENRAD_MUX field" Url="html/F_SharpPcap_Packets_IPPorts_GENRAD_MUX.htm" />
+  <HelpKINode Title="GetAdminStatus method" Url="html/M_SharpPcap_Win32_IPHelper_GetAdminStatus.htm" />
   <HelpKINode Title="GetAllDevices method" Url="html/M_SharpPcap_Pcap_GetAllDevices.htm" />
+  <HelpKINode Title="GetAllDevices method" Url="html/M_SharpPcap_Win32_IPHelper_GetAllDevices.htm" />
   <HelpKINode Title="GetBytes method" Url="html/Overload_SharpPcap_Util_Rand_GetBytes.htm" />
   <HelpKINode Title="getDescription method" Url="html/M_SharpPcap_Packets_ICMPMessage_getDescription.htm" />
   <HelpKINode Title="getDescription method" Url="html/M_SharpPcap_Packets_IGMPMessage_getDescription.htm" />
@@ -695,6 +707,8 @@
   <HelpKINode Title="getName method" Url="html/M_SharpPcap_Packets_IPPort_getName.htm" />
   <HelpKINode Title="GetNextPacket method" Url="html/Overload_SharpPcap_PcapDevice_GetNextPacket.htm" />
   <HelpKINode Title="GetNextPacket method" Url="html/Overload_SharpPcap_PcapOfflineDevice_GetNextPacket.htm" />
+  <HelpKINode Title="GetNextPacket method" Url="html/Overload_SharpPcap_Win32_NetworkDevice_GetNextPacket.htm" />
+  <HelpKINode Title="GetOperStatus method" Url="html/M_SharpPcap_Win32_IPHelper_GetOperStatus.htm" />
   <HelpKINode Title="GetPcapDevice method" Url="html/M_SharpPcap_Pcap_GetPcapDevice.htm" />
   <HelpKINode Title="GetPcapOfflineDevice method" Url="html/M_SharpPcap_Pcap_GetPcapOfflineDevice.htm" />
   <HelpKINode Title="getProtoOffset method" Url="html/M_SharpPcap_Packets_LinkLayer_getProtoOffset.htm" />
@@ -995,6 +1009,7 @@
   <HelpKINode Title="INBUSINESS field" Url="html/F_SharpPcap_Packets_IPPorts_INBUSINESS.htm" />
   <HelpKINode Title="includeBroadcastAddress method" Url="html/M_SharpPcap_Util_IPSubnet_includeBroadcastAddress.htm" />
   <HelpKINode Title="includeNetworkAddress method" Url="html/M_SharpPcap_Util_IPSubnet_includeNetworkAddress.htm" />
+  <HelpKINode Title="Index property" Url="html/P_SharpPcap_Win32_NetworkDevice_Index.htm" />
   <HelpKINode Title="INFINITE field" Url="html/F_SharpPcap_Pcap_INFINITE.htm" />
   <HelpKINode Title="INFOSEEK field" Url="html/F_SharpPcap_Packets_IPPorts_INFOSEEK.htm" />
   <HelpKINode Title="INFTH field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_INFTH.htm" />
@@ -1030,6 +1045,8 @@
   <HelpKINode Title="IP enumeration member" Url="html/T_SharpPcap_Packets_IPProtocol_IPProtocolType.htm" />
   <HelpKINode Title="IP field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_IP.htm" />
   <HelpKINode Title="ipAddress field" Url="html/F_SharpPcap_Pcap_Sockaddr_ipAddress.htm" />
+  <HelpKINode Title="IpAddress property" Url="html/P_SharpPcap_Win32_NetworkDevice_IpAddress.htm" />
+  <HelpKINode Title="IpAddressList property" Url="html/P_SharpPcap_Win32_NetworkDevice_IpAddressList.htm" />
   <HelpKINode Title="IPAddressRange class" Url="html/AllMembers_T_SharpPcap_Util_IPAddressRange.htm" />
   <HelpKINode Title="IPAddressRange class" Url="html/T_SharpPcap_Util_IPAddressRange.htm" />
   <HelpKINode Title="IPAddressRange class">
@@ -1063,7 +1080,48 @@
   <HelpKINode Title="IPHeader property" Url="html/P_SharpPcap_Packets_IPv4Packet_IPHeader.htm" />
   <HelpKINode Title="IPHeaderLength property" Url="html/P_SharpPcap_Packets_IPPacket_IPHeaderLength.htm" />
   <HelpKINode Title="IPHeaderLength property" Url="html/P_SharpPcap_Packets_IPv4Packet_IPHeaderLength.htm" />
+  <HelpKINode Title="IPHelper class" Url="html/AllMembers_T_SharpPcap_Win32_IPHelper.htm" />
+  <HelpKINode Title="IPHelper class" Url="html/T_SharpPcap_Win32_IPHelper.htm" />
+  <HelpKINode Title="IPHelper class">
+    <HelpKINode Title="about IPHelper class" Url="html/T_SharpPcap_Win32_IPHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_SharpPcap_Win32_IPHelper.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SharpPcap_Win32_IPHelper__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_SharpPcap_Win32_IPHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SharpPcap_Win32_IPHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPHelper.GetAdminStatus method" Url="html/M_SharpPcap_Win32_IPHelper_GetAdminStatus.htm" />
+  <HelpKINode Title="IPHelper.GetAllDevices method" Url="html/M_SharpPcap_Win32_IPHelper_GetAllDevices.htm" />
+  <HelpKINode Title="IPHelper.GetOperStatus method" Url="html/M_SharpPcap_Win32_IPHelper_GetOperStatus.htm" />
+  <HelpKINode Title="IPHelper.IPHelper constructor" Url="html/M_SharpPcap_Win32_IPHelper__ctor.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_ADMIN_STATUS_DOWN field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_ADMIN_STATUS_DOWN.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_ADMIN_STATUS_TESTING field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_ADMIN_STATUS_TESTING.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_ADMIN_STATUS_UP field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_ADMIN_STATUS_UP.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_OPER_STATUS_CONNECTED field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_CONNECTED.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_OPER_STATUS_CONNECTING field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_CONNECTING.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_OPER_STATUS_DISCONNECTED field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_DISCONNECTED.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_OPER_STATUS_NON_OPERATIONAL field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_NON_OPERATIONAL.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_OPER_STATUS_OPERATIONAL field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_OPERATIONAL.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_OPER_STATUS_UNREACHABLE field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_UNREACHABLE.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_TYPE_ETHERNET field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_ETHERNET.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_TYPE_FDDI field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_FDDI.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_TYPE_LOOPBACK field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_LOOPBACK.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_TYPE_OTHER field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_OTHER.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_TYPE_PPP field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_PPP.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_TYPE_SLIP field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_SLIP.htm" />
+  <HelpKINode Title="IPHelper.MIB_IF_TYPE_TOKENRING field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_TOKENRING.htm" />
+  <HelpKINode Title="IPHelper.SetAdminStatus method" Url="html/M_SharpPcap_Win32_IPHelper_SetAdminStatus.htm" />
+  <HelpKINode Title="IPHelper_DeviceDoesntExistsException class" Url="html/AllMembers_T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+  <HelpKINode Title="IPHelper_DeviceDoesntExistsException class" Url="html/T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+  <HelpKINode Title="IPHelper_DeviceDoesntExistsException class">
+    <HelpKINode Title="about IPHelper_DeviceDoesntExistsException class" Url="html/T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPHelper_DeviceDoesntExistsException.IPHelper_DeviceDoesntExistsException constructor" Url="html/M_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException__ctor.htm" />
   <HelpKINode Title="IPIP enumeration member" Url="html/T_SharpPcap_Packets_IPProtocol_IPProtocolType.htm" />
+  <HelpKINode Title="IpMaskList property" Url="html/P_SharpPcap_Win32_NetworkDevice_IpMaskList.htm" />
   <HelpKINode Title="IPP field" Url="html/F_SharpPcap_Packets_IPPorts_IPP.htm" />
   <HelpKINode Title="IPPacket class" Url="html/AllMembers_T_SharpPcap_Packets_IPPacket.htm" />
   <HelpKINode Title="IPPacket class" Url="html/T_SharpPcap_Packets_IPPacket.htm" />
@@ -1999,8 +2057,8 @@
   <HelpKINode Title="IPv4Packet.ValidIPChecksum property" Url="html/P_SharpPcap_Packets_IPv4Packet_ValidIPChecksum.htm" />
   <HelpKINode Title="IPv4Packet.Version property" Url="html/P_SharpPcap_Packets_IPv4Packet_Version.htm" />
   <HelpKINode Title="IPv4Packet._ipOffset field" Url="html/F_SharpPcap_Packets_IPv4Packet__ipOffset.htm" />
-  <HelpKINode Title="IPv6 enumeration member" Url="html/T_SharpPcap_Packets_IPPacket_IPVersions.htm" />
   <HelpKINode Title="IPV6 enumeration member" Url="html/T_SharpPcap_Packets_IPProtocol_IPProtocolType.htm" />
+  <HelpKINode Title="IPv6 enumeration member" Url="html/T_SharpPcap_Packets_IPPacket_IPVersions.htm" />
   <HelpKINode Title="IPV6 field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_IPV6.htm" />
   <HelpKINode Title="ipv6 field" Url="html/F_SharpPcap_Packets_IPPacket_ipv6.htm" />
   <HelpKINode Title="IPv6Fields_Fields structure" Url="html/AllMembers_T_SharpPcap_Packets_IPv6Fields_Fields.htm" />
@@ -2213,11 +2271,13 @@
     <HelpKINode Title="fields" Url="html/Fields_T_SharpPcap_Packets_MACAddress.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpPcap_Packets_MACAddress.htm" />
   </HelpKINode>
+  <HelpKINode Title="MacAddress property" Url="html/P_SharpPcap_Win32_NetworkDevice_MacAddress.htm" />
   <HelpKINode Title="MACAddress.extract method" Url="html/Overload_SharpPcap_Packets_MACAddress_extract.htm" />
   <HelpKINode Title="MACAddress.insert method" Url="html/Overload_SharpPcap_Packets_MACAddress_insert.htm" />
   <HelpKINode Title="MACAddress.MACAddress constructor" Url="html/M_SharpPcap_Packets_MACAddress__ctor.htm" />
   <HelpKINode Title="MACAddress.random method" Url="html/M_SharpPcap_Packets_MACAddress_random.htm" />
   <HelpKINode Title="MACAddress.WIDTH field" Url="html/F_SharpPcap_Packets_MACAddress_WIDTH.htm" />
+  <HelpKINode Title="MacAddressBytes property" Url="html/P_SharpPcap_Win32_NetworkDevice_MacAddressBytes.htm" />
   <HelpKINode Title="MacFormat method" Url="html/M_SharpPcap_Util_IPUtil_MacFormat.htm" />
   <HelpKINode Title="MACON_TCP field" Url="html/F_SharpPcap_Packets_IPPorts_MACON_TCP.htm" />
   <HelpKINode Title="MacToLong method" Url="html/M_SharpPcap_Util_IPUtil_MacToLong.htm" />
@@ -2230,8 +2290,8 @@
   <HelpKINode Title="MakeValid method" Url="html/M_SharpPcap_Packets_TCPPacket_MakeValid.htm" />
   <HelpKINode Title="MarshalPacket method" Url="html/M_SharpPcap_PcapDevice_MarshalPacket.htm" />
   <HelpKINode Title="MASK enumeration member" Url="html/T_SharpPcap_Packets_IPProtocol_IPProtocolType.htm" />
-  <HelpKINode Title="MASK field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_MASK.htm" />
   <HelpKINode Title="mask field" Url="html/F_SharpPcap_Util_IPSubnet_mask.htm" />
+  <HelpKINode Title="MASK field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_MASK.htm" />
   <HelpKINode Title="MASK field" Url="html/F_SharpPcap_Packets_IPPorts_MASK.htm" />
   <HelpKINode Title="MaskStringToBits method" Url="html/M_SharpPcap_Util_Convert_MaskStringToBits.htm" />
   <HelpKINode Title="MaskToBits method" Url="html/Overload_SharpPcap_Util_IPUtil_MaskToBits.htm" />
@@ -2252,6 +2312,7 @@
   <HelpKINode Title="MDC_PORTMAPPER field" Url="html/F_SharpPcap_Packets_IPPorts_MDC_PORTMAPPER.htm" />
   <HelpKINode Title="MDQS field" Url="html/F_SharpPcap_Packets_IPPorts_MDQS.htm" />
   <HelpKINode Title="MECOMM field" Url="html/F_SharpPcap_Packets_IPPorts_MECOMM.htm" />
+  <HelpKINode Title="MediaState property" Url="html/P_SharpPcap_Win32_NetworkDevice_MediaState.htm" />
   <HelpKINode Title="MEREGISTER field" Url="html/F_SharpPcap_Packets_IPPorts_MEREGISTER.htm" />
   <HelpKINode Title="MessageCode property" Url="html/P_SharpPcap_Packets_ICMPPacket_MessageCode.htm" />
   <HelpKINode Title="MessageMajorCode property" Url="html/P_SharpPcap_Packets_ICMPPacket_MessageMajorCode.htm" />
@@ -2264,6 +2325,22 @@
   <HelpKINode Title="METER2 field" Url="html/F_SharpPcap_Packets_IPPorts_METER2.htm" />
   <HelpKINode Title="MFCOBOL field" Url="html/F_SharpPcap_Packets_IPPorts_MFCOBOL.htm" />
   <HelpKINode Title="MFTP field" Url="html/F_SharpPcap_Packets_IPPorts_MFTP.htm" />
+  <HelpKINode Title="MIB_IF_ADMIN_STATUS_DOWN field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_ADMIN_STATUS_DOWN.htm" />
+  <HelpKINode Title="MIB_IF_ADMIN_STATUS_TESTING field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_ADMIN_STATUS_TESTING.htm" />
+  <HelpKINode Title="MIB_IF_ADMIN_STATUS_UP field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_ADMIN_STATUS_UP.htm" />
+  <HelpKINode Title="MIB_IF_OPER_STATUS_CONNECTED field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_CONNECTED.htm" />
+  <HelpKINode Title="MIB_IF_OPER_STATUS_CONNECTING field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_CONNECTING.htm" />
+  <HelpKINode Title="MIB_IF_OPER_STATUS_DISCONNECTED field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_DISCONNECTED.htm" />
+  <HelpKINode Title="MIB_IF_OPER_STATUS_NON_OPERATIONAL field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_NON_OPERATIONAL.htm" />
+  <HelpKINode Title="MIB_IF_OPER_STATUS_OPERATIONAL field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_OPERATIONAL.htm" />
+  <HelpKINode Title="MIB_IF_OPER_STATUS_UNREACHABLE field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_UNREACHABLE.htm" />
+  <HelpKINode Title="MIB_IF_TYPE_ETHERNET field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_ETHERNET.htm" />
+  <HelpKINode Title="MIB_IF_TYPE_FDDI field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_FDDI.htm" />
+  <HelpKINode Title="MIB_IF_TYPE_LOOPBACK field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_LOOPBACK.htm" />
+  <HelpKINode Title="MIB_IF_TYPE_OTHER field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_OTHER.htm" />
+  <HelpKINode Title="MIB_IF_TYPE_PPP field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_PPP.htm" />
+  <HelpKINode Title="MIB_IF_TYPE_SLIP field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_SLIP.htm" />
+  <HelpKINode Title="MIB_IF_TYPE_TOKENRING field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_TOKENRING.htm" />
   <HelpKINode Title="MICOM_PFS field" Url="html/F_SharpPcap_Packets_IPPorts_MICOM_PFS.htm" />
   <HelpKINode Title="MicroSeconds property" Url="html/P_SharpPcap_Packets_Util_Timeval_MicroSeconds.htm" />
   <HelpKINode Title="MicroSeconds property" Url="html/P_SharpPcap_PcapHeader_MicroSeconds.htm" />
@@ -2312,6 +2389,7 @@
   <HelpKINode Title="NAME field" Url="html/F_SharpPcap_Packets_IPPorts_NAME.htm" />
   <HelpKINode Title="Name property" Url="html/P_SharpPcap_PcapDevice_Name.htm" />
   <HelpKINode Title="Name property" Url="html/P_SharpPcap_PcapOfflineDevice_Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P_SharpPcap_Win32_NetworkDevice_Name.htm" />
   <HelpKINode Title="NAMESERVER field" Url="html/F_SharpPcap_Packets_IPPorts_NAMESERVER.htm" />
   <HelpKINode Title="NAMP field" Url="html/F_SharpPcap_Packets_IPPorts_NAMP.htm" />
   <HelpKINode Title="NAS field" Url="html/F_SharpPcap_Packets_IPPorts_NAS.htm" />
@@ -2341,6 +2419,40 @@
   <HelpKINode Title="NETWALL field" Url="html/F_SharpPcap_Packets_IPPorts_NETWALL.htm" />
   <HelpKINode Title="NETWARE_IP field" Url="html/F_SharpPcap_Packets_IPPorts_NETWARE_IP.htm" />
   <HelpKINode Title="NetworkAddress property" Url="html/P_SharpPcap_Util_IPSubnet_NetworkAddress.htm" />
+  <HelpKINode Title="NetworkDevice class" Url="html/AllMembers_T_SharpPcap_Win32_NetworkDevice.htm" />
+  <HelpKINode Title="NetworkDevice class" Url="html/T_SharpPcap_Win32_NetworkDevice.htm" />
+  <HelpKINode Title="NetworkDevice class">
+    <HelpKINode Title="about NetworkDevice class" Url="html/T_SharpPcap_Win32_NetworkDevice.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_SharpPcap_Win32_NetworkDevice.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_SharpPcap_Win32_NetworkDevice.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SharpPcap_Win32_NetworkDevice.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpPcap_Win32_NetworkDevice.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NetworkDevice.AdminStatus property" Url="html/P_SharpPcap_Win32_NetworkDevice_AdminStatus.htm" />
+  <HelpKINode Title="NetworkDevice.DefaultGateway property" Url="html/P_SharpPcap_Win32_NetworkDevice_DefaultGateway.htm" />
+  <HelpKINode Title="NetworkDevice.DefaultGatewayList property" Url="html/P_SharpPcap_Win32_NetworkDevice_DefaultGatewayList.htm" />
+  <HelpKINode Title="NetworkDevice.Description property" Url="html/P_SharpPcap_Win32_NetworkDevice_Description.htm" />
+  <HelpKINode Title="NetworkDevice.DhcpEnabled property" Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpEnabled.htm" />
+  <HelpKINode Title="NetworkDevice.DhcpLeaseExpires property" Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpLeaseExpires.htm" />
+  <HelpKINode Title="NetworkDevice.DhcpLeaseObtained property" Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpLeaseObtained.htm" />
+  <HelpKINode Title="NetworkDevice.DhcpServer property" Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpServer.htm" />
+  <HelpKINode Title="NetworkDevice.Dump method" Url="html/Overload_SharpPcap_Win32_NetworkDevice_Dump.htm" />
+  <HelpKINode Title="NetworkDevice.GetNextPacket method" Url="html/Overload_SharpPcap_Win32_NetworkDevice_GetNextPacket.htm" />
+  <HelpKINode Title="NetworkDevice.Index property" Url="html/P_SharpPcap_Win32_NetworkDevice_Index.htm" />
+  <HelpKINode Title="NetworkDevice.IpAddress property" Url="html/P_SharpPcap_Win32_NetworkDevice_IpAddress.htm" />
+  <HelpKINode Title="NetworkDevice.IpAddressList property" Url="html/P_SharpPcap_Win32_NetworkDevice_IpAddressList.htm" />
+  <HelpKINode Title="NetworkDevice.IpMaskList property" Url="html/P_SharpPcap_Win32_NetworkDevice_IpMaskList.htm" />
+  <HelpKINode Title="NetworkDevice.MacAddress property" Url="html/P_SharpPcap_Win32_NetworkDevice_MacAddress.htm" />
+  <HelpKINode Title="NetworkDevice.MacAddressBytes property" Url="html/P_SharpPcap_Win32_NetworkDevice_MacAddressBytes.htm" />
+  <HelpKINode Title="NetworkDevice.MediaState property" Url="html/P_SharpPcap_Win32_NetworkDevice_MediaState.htm" />
+  <HelpKINode Title="NetworkDevice.Name property" Url="html/P_SharpPcap_Win32_NetworkDevice_Name.htm" />
+  <HelpKINode Title="NetworkDevice.Open method" Url="html/Overload_SharpPcap_Win32_NetworkDevice_Open.htm" />
+  <HelpKINode Title="NetworkDevice.SendPacket method" Url="html/Overload_SharpPcap_Win32_NetworkDevice_SendPacket.htm" />
+  <HelpKINode Title="NetworkDevice.SubnetMask property" Url="html/P_SharpPcap_Win32_NetworkDevice_SubnetMask.htm" />
+  <HelpKINode Title="NetworkDevice.ToString method" Url="html/M_SharpPcap_Win32_NetworkDevice_ToString.htm" />
+  <HelpKINode Title="NetworkDevice.ToStringDetailed method" Url="html/M_SharpPcap_Win32_NetworkDevice_ToStringDetailed.htm" />
+  <HelpKINode Title="NetworkDevice.WinsServerPrimary property" Url="html/P_SharpPcap_Win32_NetworkDevice_WinsServerPrimary.htm" />
+  <HelpKINode Title="NetworkDevice.WinsServerSecondary property" Url="html/P_SharpPcap_Win32_NetworkDevice_WinsServerSecondary.htm" />
   <HelpKINode Title="NEWACCT field" Url="html/F_SharpPcap_Packets_IPPorts_NEWACCT.htm" />
   <HelpKINode Title="NEW_RWHO field" Url="html/F_SharpPcap_Packets_IPPorts_NEW_RWHO.htm" />
   <HelpKINode Title="next method" Url="html/M_SharpPcap_Util_NumberRange_next.htm" />
@@ -2446,6 +2558,7 @@
   <HelpKINode Title="OPC_JOB_TRACK field" Url="html/F_SharpPcap_Packets_IPPorts_OPC_JOB_TRACK.htm" />
   <HelpKINode Title="Open method" Url="html/Overload_SharpPcap_PcapDevice_Open.htm" />
   <HelpKINode Title="Open method" Url="html/Overload_SharpPcap_PcapOfflineDevice_Open.htm" />
+  <HelpKINode Title="Open method" Url="html/Overload_SharpPcap_Win32_NetworkDevice_Open.htm" />
   <HelpKINode Title="Opened property" Url="html/P_SharpPcap_PcapDevice_Opened.htm" />
   <HelpKINode Title="OPENPORT field" Url="html/F_SharpPcap_Packets_IPPorts_OPENPORT.htm" />
   <HelpKINode Title="OPENVMS_SYSIPC field" Url="html/F_SharpPcap_Packets_IPPorts_OPENVMS_SYSIPC.htm" />
@@ -2595,6 +2708,7 @@
   <HelpKINode Title="PcapDevice.DumpFlush method" Url="html/M_SharpPcap_PcapDevice_DumpFlush.htm" />
   <HelpKINode Title="PcapDevice.DumpOpen method" Url="html/M_SharpPcap_PcapDevice_DumpOpen.htm" />
   <HelpKINode Title="PcapDevice.DumpOpened property" Url="html/P_SharpPcap_PcapDevice_DumpOpened.htm" />
+  <HelpKINode Title="PcapDevice.Finalize method" Url="html/M_SharpPcap_PcapDevice_Finalize.htm" />
   <HelpKINode Title="PcapDevice.Flags property" Url="html/P_SharpPcap_PcapDevice_Flags.htm" />
   <HelpKINode Title="PcapDevice.GetNextPacket method" Url="html/Overload_SharpPcap_PcapDevice_GetNextPacket.htm" />
   <HelpKINode Title="PcapDevice.Interface property" Url="html/P_SharpPcap_PcapDevice_Interface.htm" />
@@ -2630,16 +2744,22 @@
   </HelpKINode>
   <HelpKINode Title="PcapDeviceList.Item property" Url="html/Overload_SharpPcap_PcapDeviceList_Item.htm" />
   <HelpKINode Title="PcapDeviceList.PcapDeviceList constructor" Url="html/M_SharpPcap_PcapDeviceList__ctor.htm" />
+  <HelpKINode Title="PcapDeviceNotReadyException class" Url="html/AllMembers_T_SharpPcap_PcapDeviceNotReadyException.htm" />
+  <HelpKINode Title="PcapDeviceNotReadyException class" Url="html/T_SharpPcap_PcapDeviceNotReadyException.htm" />
+  <HelpKINode Title="PcapDeviceNotReadyException class">
+    <HelpKINode Title="about PcapDeviceNotReadyException class" Url="html/T_SharpPcap_PcapDeviceNotReadyException.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers_T_SharpPcap_PcapDeviceNotReadyException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SharpPcap_PcapDeviceNotReadyException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpPcap_PcapDeviceNotReadyException.htm" />
+  </HelpKINode>
   <HelpKINode Title="PcapException class" Url="html/AllMembers_T_SharpPcap_PcapException.htm" />
   <HelpKINode Title="PcapException class" Url="html/T_SharpPcap_PcapException.htm" />
   <HelpKINode Title="PcapException class">
     <HelpKINode Title="about PcapException class" Url="html/T_SharpPcap_PcapException.htm" />
     <HelpKINode Title="all members" Url="html/AllMembers_T_SharpPcap_PcapException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_SharpPcap_PcapException__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpPcap_PcapException.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_SharpPcap_PcapException.htm" />
   </HelpKINode>
-  <HelpKINode Title="PcapException.PcapException constructor" Url="html/Overload_SharpPcap_PcapException__ctor.htm" />
   <HelpKINode Title="PcapHeader class" Url="html/AllMembers_T_SharpPcap_PcapHeader.htm" />
   <HelpKINode Title="PcapHeader class" Url="html/T_SharpPcap_PcapHeader.htm" />
   <HelpKINode Title="PcapHeader class">
@@ -2877,10 +2997,12 @@
   <HelpKINode Title="SEND field" Url="html/F_SharpPcap_Packets_IPPorts_SEND.htm" />
   <HelpKINode Title="SendPacket method" Url="html/Overload_SharpPcap_PcapDevice_SendPacket.htm" />
   <HelpKINode Title="SendPacket method" Url="html/Overload_SharpPcap_PcapOfflineDevice_SendPacket.htm" />
+  <HelpKINode Title="SendPacket method" Url="html/Overload_SharpPcap_Win32_NetworkDevice_SendPacket.htm" />
   <HelpKINode Title="SendQueue method" Url="html/M_SharpPcap_PcapDevice_SendQueue.htm" />
   <HelpKINode Title="SequenceNumber property" Url="html/P_SharpPcap_Packets_TCPPacket_SequenceNumber.htm" />
   <HelpKINode Title="SERVSTAT field" Url="html/F_SharpPcap_Packets_IPPorts_SERVSTAT.htm" />
   <HelpKINode Title="SET field" Url="html/F_SharpPcap_Packets_IPPorts_SET.htm" />
+  <HelpKINode Title="SetAdminStatus method" Url="html/M_SharpPcap_Win32_IPHelper_SetAdminStatus.htm" />
   <HelpKINode Title="setARPSenderHwAddress method" Url="html/M_SharpPcap_Packets_ARPPacket_setARPSenderHwAddress.htm" />
   <HelpKINode Title="setARPTargetHwAddress method" Url="html/M_SharpPcap_Packets_ARPPacket_setARPTargetHwAddress.htm" />
   <HelpKINode Title="SetChecksum method" Url="html/M_SharpPcap_Packets_IPPacket_SetChecksum.htm" />
@@ -3010,6 +3132,8 @@
   <HelpKINode Title="SharpPcap.PcapDevice.PcapMode enumeration" Url="html/T_SharpPcap_PcapDevice_PcapMode.htm" />
   <HelpKINode Title="SharpPcap.PcapDeviceList class" Url="html/AllMembers_T_SharpPcap_PcapDeviceList.htm" />
   <HelpKINode Title="SharpPcap.PcapDeviceList class" Url="html/T_SharpPcap_PcapDeviceList.htm" />
+  <HelpKINode Title="SharpPcap.PcapDeviceNotReadyException class" Url="html/AllMembers_T_SharpPcap_PcapDeviceNotReadyException.htm" />
+  <HelpKINode Title="SharpPcap.PcapDeviceNotReadyException class" Url="html/T_SharpPcap_PcapDeviceNotReadyException.htm" />
   <HelpKINode Title="SharpPcap.PcapException class" Url="html/AllMembers_T_SharpPcap_PcapException.htm" />
   <HelpKINode Title="SharpPcap.PcapException class" Url="html/T_SharpPcap_PcapException.htm" />
   <HelpKINode Title="SharpPcap.PcapHeader class" Url="html/AllMembers_T_SharpPcap_PcapHeader.htm" />
@@ -3042,6 +3166,13 @@
   <HelpKINode Title="SharpPcap.Util.Rand class" Url="html/T_SharpPcap_Util_Rand.htm" />
   <HelpKINode Title="SharpPcap.Version class" Url="html/AllMembers_T_SharpPcap_Version.htm" />
   <HelpKINode Title="SharpPcap.Version class" Url="html/T_SharpPcap_Version.htm" />
+  <HelpKINode Title="SharpPcap.Win32 namespace" Url="html/N_SharpPcap_Win32.htm" />
+  <HelpKINode Title="SharpPcap.Win32.IPHelper class" Url="html/AllMembers_T_SharpPcap_Win32_IPHelper.htm" />
+  <HelpKINode Title="SharpPcap.Win32.IPHelper class" Url="html/T_SharpPcap_Win32_IPHelper.htm" />
+  <HelpKINode Title="SharpPcap.Win32.IPHelper_DeviceDoesntExistsException class" Url="html/AllMembers_T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+  <HelpKINode Title="SharpPcap.Win32.IPHelper_DeviceDoesntExistsException class" Url="html/T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+  <HelpKINode Title="SharpPcap.Win32.NetworkDevice class" Url="html/AllMembers_T_SharpPcap_Win32_NetworkDevice.htm" />
+  <HelpKINode Title="SharpPcap.Win32.NetworkDevice class" Url="html/T_SharpPcap_Win32_NetworkDevice.htm" />
   <HelpKINode Title="SHELL field" Url="html/F_SharpPcap_Packets_IPPorts_SHELL.htm" />
   <HelpKINode Title="SHRINKWRAP field" Url="html/F_SharpPcap_Packets_IPPorts_SHRINKWRAP.htm" />
   <HelpKINode Title="SIAM field" Url="html/F_SharpPcap_Packets_IPPorts_SIAM.htm" />
@@ -3107,6 +3238,7 @@
   <HelpKINode Title="STX field" Url="html/F_SharpPcap_Packets_IPPorts_STX.htm" />
   <HelpKINode Title="SUBMISSION field" Url="html/F_SharpPcap_Packets_IPPorts_SUBMISSION.htm" />
   <HelpKINode Title="SUBMIT field" Url="html/F_SharpPcap_Packets_IPPorts_SUBMIT.htm" />
+  <HelpKINode Title="SubnetMask property" Url="html/P_SharpPcap_Win32_NetworkDevice_SubnetMask.htm" />
   <HelpKINode Title="SUBNTBCST_TFTP field" Url="html/F_SharpPcap_Packets_IPPorts_SUBNTBCST_TFTP.htm" />
   <HelpKINode Title="SUNRPC field" Url="html/F_SharpPcap_Packets_IPPorts_SUNRPC.htm" />
   <HelpKINode Title="SUN_DR field" Url="html/F_SharpPcap_Packets_IPPorts_SUN_DR.htm" />
@@ -3307,7 +3439,6 @@
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_IGMPPacket_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_IPPacket_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_IPv4Packet_ToString.htm" />
-  <HelpKINode Title="toString method" Url="html/Overload_SharpPcap_Packets_Util_HexHelper_toString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_IPv6Packet_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_TCPPacket_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Packets_UDPPacket_ToString.htm" />
@@ -3316,6 +3447,9 @@
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Pcap_PcapAddress_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Pcap_PcapInterface_ToString.htm" />
   <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Pcap_Sockaddr_ToString.htm" />
+  <HelpKINode Title="toString method" Url="html/Overload_SharpPcap_Packets_Util_HexHelper_toString.htm" />
+  <HelpKINode Title="ToString method" Url="html/M_SharpPcap_Win32_NetworkDevice_ToString.htm" />
+  <HelpKINode Title="ToStringDetailed method" Url="html/M_SharpPcap_Win32_NetworkDevice_ToStringDetailed.htm" />
   <HelpKINode Title="TP enumeration member" Url="html/T_SharpPcap_Packets_IPProtocol_IPProtocolType.htm" />
   <HelpKINode Title="TPIP field" Url="html/F_SharpPcap_Packets_IPPorts_TPIP.htm" />
   <HelpKINode Title="TrafficClass property" Url="html/P_SharpPcap_Packets_IPv6Packet_TrafficClass.htm" />
@@ -3483,6 +3617,8 @@
   <HelpKINode Title="WHOIS field" Url="html/F_SharpPcap_Packets_IPPorts_WHOIS.htm" />
   <HelpKINode Title="WIDTH field" Url="html/F_SharpPcap_Packets_MACAddress_WIDTH.htm" />
   <HelpKINode Title="WindowSize property" Url="html/P_SharpPcap_Packets_TCPPacket_WindowSize.htm" />
+  <HelpKINode Title="WinsServerPrimary property" Url="html/P_SharpPcap_Win32_NetworkDevice_WinsServerPrimary.htm" />
+  <HelpKINode Title="WinsServerSecondary property" Url="html/P_SharpPcap_Win32_NetworkDevice_WinsServerSecondary.htm" />
   <HelpKINode Title="WORK_SOL field" Url="html/F_SharpPcap_Packets_IPPorts_WORK_SOL.htm" />
   <HelpKINode Title="WPAGES field" Url="html/F_SharpPcap_Packets_IPPorts_WPAGES.htm" />
   <HelpKINode Title="WPGS field" Url="html/F_SharpPcap_Packets_IPPorts_WPGS.htm" />

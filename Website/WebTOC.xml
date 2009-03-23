@@ -1,94 +1,94 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="7f262a93-e37e-48e6-9e98-6df9ee03d4a3" Title="SharpPcap Namespace" Url="html/N_SharpPcap.htm">
-    <HelpTOCNode Id="ee3b451d-05de-4ef6-b363-cfe1012c1056" Title="ChecksumUtils Class" Url="html/T_SharpPcap_ChecksumUtils.htm">
+  <HelpTOCNode Id="08db8043-4f13-48c5-9362-c080dd904ca3" Title="SharpPcap Namespace" Url="html/N_SharpPcap.htm">
+    <HelpTOCNode Id="0202515b-c058-4ce5-9cd2-86a78b9fdd65" Title="ChecksumUtils Class" Url="html/T_SharpPcap_ChecksumUtils.htm">
       <HelpTOCNode Title="ChecksumUtils Members" Url="html/AllMembers_T_SharpPcap_ChecksumUtils.htm" />
-      <HelpTOCNode Id="816e18bf-21b6-4255-b4f4-24efc04d2e4a" Title="ChecksumUtils Methods " Url="html/Methods_T_SharpPcap_ChecksumUtils.htm">
-        <HelpTOCNode Id="05712824-1418-4cae-8d03-c34d6a39cf0f" Title="OnesComplementSum Method " Url="html/Overload_SharpPcap_ChecksumUtils_OnesComplementSum.htm">
+      <HelpTOCNode Id="472d415d-4f03-4444-aa2b-d9e57ba2397b" Title="ChecksumUtils Methods " Url="html/Methods_T_SharpPcap_ChecksumUtils.htm">
+        <HelpTOCNode Id="3c024908-aee5-4ad7-9765-e76eab4ce5a6" Title="OnesComplementSum Method " Url="html/Overload_SharpPcap_ChecksumUtils_OnesComplementSum.htm">
           <HelpTOCNode Title="OnesComplementSum Method (Byte[])" Url="html/M_SharpPcap_ChecksumUtils_OnesComplementSum.htm" />
           <HelpTOCNode Title="OnesComplementSum Method (Byte[], Int32, Int32)" Url="html/M_SharpPcap_ChecksumUtils_OnesComplementSum_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="536ccae2-9fc0-483b-9f14-a610bb50c270" Title="OnesSum Method " Url="html/Overload_SharpPcap_ChecksumUtils_OnesSum.htm">
+        <HelpTOCNode Id="2e544552-f067-4a67-bb43-894877e33b08" Title="OnesSum Method " Url="html/Overload_SharpPcap_ChecksumUtils_OnesSum.htm">
           <HelpTOCNode Title="OnesSum Method (Byte[])" Url="html/M_SharpPcap_ChecksumUtils_OnesSum.htm" />
           <HelpTOCNode Title="OnesSum Method (Byte[], Int32, Int32)" Url="html/M_SharpPcap_ChecksumUtils_OnesSum_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5fafbd62-8084-478f-b667-cb84f8059838" Title="Pcap Class" Url="html/T_SharpPcap_Pcap.htm">
+    <HelpTOCNode Id="2b1799d2-3075-4af2-ae2a-f687126789a1" Title="Pcap Class" Url="html/T_SharpPcap_Pcap.htm">
       <HelpTOCNode Title="Pcap Members" Url="html/AllMembers_T_SharpPcap_Pcap.htm" />
       <HelpTOCNode Title="Pcap Constructor " Url="html/M_SharpPcap_Pcap__ctor.htm" />
-      <HelpTOCNode Id="a31a7f9b-2ea6-40fb-8391-6443f7b4a683" Title="Pcap Fields" Url="html/Fields_T_SharpPcap_Pcap.htm">
+      <HelpTOCNode Id="b12562bb-5540-4dde-b735-875b588e87bb" Title="Pcap Fields" Url="html/Fields_T_SharpPcap_Pcap.htm">
         <HelpTOCNode Title="INFINITE Field" Url="html/F_SharpPcap_Pcap_INFINITE.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="262bdda3-3b90-4110-8b98-2fb331f4769d" Title="Pcap Methods " Url="html/Methods_T_SharpPcap_Pcap.htm">
+      <HelpTOCNode Id="61362cf6-b1c1-4fa0-9088-0710551d29a6" Title="Pcap Methods " Url="html/Methods_T_SharpPcap_Pcap.htm">
         <HelpTOCNode Title="GetAllDevices Method " Url="html/M_SharpPcap_Pcap_GetAllDevices.htm" />
         <HelpTOCNode Title="GetPcapDevice Method " Url="html/M_SharpPcap_Pcap_GetPcapDevice.htm" />
         <HelpTOCNode Title="GetPcapOfflineDevice Method " Url="html/M_SharpPcap_Pcap_GetPcapOfflineDevice.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9507a1ac-7108-4951-8526-a998c014e6a7" Title="Pcap Properties " Url="html/Properties_T_SharpPcap_Pcap.htm">
+      <HelpTOCNode Id="0d7f836e-6a3f-4681-87ef-377e3a530782" Title="Pcap Properties " Url="html/Properties_T_SharpPcap_Pcap.htm">
         <HelpTOCNode Title="Version Property " Url="html/P_SharpPcap_Pcap_Version.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="Pcap.PacketArrivalEvent Delegate" Url="html/T_SharpPcap_Pcap_PacketArrivalEvent.htm" />
-    <HelpTOCNode Id="90ccafa1-0141-4b57-be94-bdfc788276dc" Title="Pcap.PcapAddress Class" Url="html/T_SharpPcap_Pcap_PcapAddress.htm">
+    <HelpTOCNode Id="266be91f-9c7a-4bc4-8929-ce473138dd89" Title="Pcap.PcapAddress Class" Url="html/T_SharpPcap_Pcap_PcapAddress.htm">
       <HelpTOCNode Title="Pcap.PcapAddress Members" Url="html/AllMembers_T_SharpPcap_Pcap_PcapAddress.htm" />
-      <HelpTOCNode Id="c18db2b9-bb91-47c4-9967-02ca5c451cba" Title="Pcap.PcapAddress Fields" Url="html/Fields_T_SharpPcap_Pcap_PcapAddress.htm">
+      <HelpTOCNode Id="89948e16-ccd5-4d52-9ca6-82a74bd4d22f" Title="Pcap.PcapAddress Fields" Url="html/Fields_T_SharpPcap_Pcap_PcapAddress.htm">
         <HelpTOCNode Title="Addr Field" Url="html/F_SharpPcap_Pcap_PcapAddress_Addr.htm" />
         <HelpTOCNode Title="Broadaddr Field" Url="html/F_SharpPcap_Pcap_PcapAddress_Broadaddr.htm" />
         <HelpTOCNode Title="Dstaddr Field" Url="html/F_SharpPcap_Pcap_PcapAddress_Dstaddr.htm" />
         <HelpTOCNode Title="Netmask Field" Url="html/F_SharpPcap_Pcap_PcapAddress_Netmask.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="77f5e47a-9e5b-4bd2-9138-d8c44782a0c4" Title="Pcap.PcapAddress Methods " Url="html/Methods_T_SharpPcap_Pcap_PcapAddress.htm">
+      <HelpTOCNode Id="b46ea251-65cf-461e-86ee-41c05306613c" Title="Pcap.PcapAddress Methods " Url="html/Methods_T_SharpPcap_Pcap_PcapAddress.htm">
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Pcap_PcapAddress_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="Pcap.PcapCaptureStoppedEvent Delegate" Url="html/T_SharpPcap_Pcap_PcapCaptureStoppedEvent.htm" />
-    <HelpTOCNode Id="4b73c4f9-881b-426e-9f2e-e382aee2af1b" Title="Pcap.PcapInterface Class" Url="html/T_SharpPcap_Pcap_PcapInterface.htm">
+    <HelpTOCNode Id="0c2d535e-b1ba-45b5-89d9-bc4bfb918fdf" Title="Pcap.PcapInterface Class" Url="html/T_SharpPcap_Pcap_PcapInterface.htm">
       <HelpTOCNode Title="Pcap.PcapInterface Members" Url="html/AllMembers_T_SharpPcap_Pcap_PcapInterface.htm" />
-      <HelpTOCNode Id="96885a21-aad5-4e13-942d-4d6c9711f2eb" Title="Pcap.PcapInterface Fields" Url="html/Fields_T_SharpPcap_Pcap_PcapInterface.htm">
+      <HelpTOCNode Id="e1007578-35d9-4c31-bee1-01e158e43322" Title="Pcap.PcapInterface Fields" Url="html/Fields_T_SharpPcap_Pcap_PcapInterface.htm">
         <HelpTOCNode Title="Addresses Field" Url="html/F_SharpPcap_Pcap_PcapInterface_Addresses.htm" />
         <HelpTOCNode Title="Description Field" Url="html/F_SharpPcap_Pcap_PcapInterface_Description.htm" />
         <HelpTOCNode Title="Flags Field" Url="html/F_SharpPcap_Pcap_PcapInterface_Flags.htm" />
         <HelpTOCNode Title="Name Field" Url="html/F_SharpPcap_Pcap_PcapInterface_Name.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="12b43eef-4fa6-48d4-93f3-559bf993efcc" Title="Pcap.PcapInterface Methods " Url="html/Methods_T_SharpPcap_Pcap_PcapInterface.htm">
+      <HelpTOCNode Id="6c61683c-3e29-4f77-a171-197d167ad26d" Title="Pcap.PcapInterface Methods " Url="html/Methods_T_SharpPcap_Pcap_PcapInterface.htm">
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Pcap_PcapInterface_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="Pcap.PcapStatisticsEvent Delegate" Url="html/T_SharpPcap_Pcap_PcapStatisticsEvent.htm" />
-    <HelpTOCNode Id="bb1fae7a-a147-4439-af97-49303f923342" Title="Pcap.Sockaddr Class" Url="html/T_SharpPcap_Pcap_Sockaddr.htm">
+    <HelpTOCNode Id="a4a734a1-d02f-4de0-8da7-1855d3c6db46" Title="Pcap.Sockaddr Class" Url="html/T_SharpPcap_Pcap_Sockaddr.htm">
       <HelpTOCNode Title="Pcap.Sockaddr Members" Url="html/AllMembers_T_SharpPcap_Pcap_Sockaddr.htm" />
       <HelpTOCNode Title="Pcap.Sockaddr Constructor " Url="html/M_SharpPcap_Pcap_Sockaddr__ctor.htm" />
-      <HelpTOCNode Id="853dde89-e661-4430-a76e-4b8c4e8d2794" Title="Pcap.Sockaddr Fields" Url="html/Fields_T_SharpPcap_Pcap_Sockaddr.htm">
+      <HelpTOCNode Id="72177880-eea4-4316-950d-37e39fe87c8a" Title="Pcap.Sockaddr Fields" Url="html/Fields_T_SharpPcap_Pcap_Sockaddr.htm">
         <HelpTOCNode Title="hardwareAddress Field" Url="html/F_SharpPcap_Pcap_Sockaddr_hardwareAddress.htm" />
         <HelpTOCNode Title="ipAddress Field" Url="html/F_SharpPcap_Pcap_Sockaddr_ipAddress.htm" />
         <HelpTOCNode Title="type Field" Url="html/F_SharpPcap_Pcap_Sockaddr_type.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d997bd28-6ab5-4146-8d20-c5b130206e88" Title="Pcap.Sockaddr Methods " Url="html/Methods_T_SharpPcap_Pcap_Sockaddr.htm">
+      <HelpTOCNode Id="b8f1bb26-6ce4-41d2-8fa7-c145ebcdfc31" Title="Pcap.Sockaddr Methods " Url="html/Methods_T_SharpPcap_Pcap_Sockaddr.htm">
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Pcap_Sockaddr_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="00be36c7-8fa0-492b-8f60-c762868a06a5" Title="Pcap.Sockaddr Properties " Url="html/Properties_T_SharpPcap_Pcap_Sockaddr.htm">
+      <HelpTOCNode Id="6ee0ffcf-86d6-4493-ac37-8b14eb110f1f" Title="Pcap.Sockaddr Properties " Url="html/Properties_T_SharpPcap_Pcap_Sockaddr.htm">
         <HelpTOCNode Title="sa_family Property " Url="html/P_SharpPcap_Pcap_Sockaddr_sa_family.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="Pcap.Sockaddr.Type Enumeration" Url="html/T_SharpPcap_Pcap_Sockaddr_Type.htm" />
-    <HelpTOCNode Id="94651865-1c0c-44d3-93e7-2a0803ec9f97" Title="PcapCaptureEventArgs Class" Url="html/T_SharpPcap_PcapCaptureEventArgs.htm">
+    <HelpTOCNode Id="33b5ac3a-b43e-42ee-b10a-e362a3ea3e9a" Title="PcapCaptureEventArgs Class" Url="html/T_SharpPcap_PcapCaptureEventArgs.htm">
       <HelpTOCNode Title="PcapCaptureEventArgs Members" Url="html/AllMembers_T_SharpPcap_PcapCaptureEventArgs.htm" />
       <HelpTOCNode Title="PcapCaptureEventArgs Constructor " Url="html/M_SharpPcap_PcapCaptureEventArgs__ctor.htm" />
       <HelpTOCNode Title="PcapCaptureEventArgs Methods " Url="html/Methods_T_SharpPcap_PcapCaptureEventArgs.htm" />
-      <HelpTOCNode Id="b9b6746e-86e6-43b3-b024-6cddf15c4e59" Title="PcapCaptureEventArgs Properties " Url="html/Properties_T_SharpPcap_PcapCaptureEventArgs.htm">
+      <HelpTOCNode Id="403297a1-9d4a-4824-abe5-176f3742d90c" Title="PcapCaptureEventArgs Properties " Url="html/Properties_T_SharpPcap_PcapCaptureEventArgs.htm">
         <HelpTOCNode Title="Packet Property " Url="html/P_SharpPcap_PcapCaptureEventArgs_Packet.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6a312b50-832b-44ee-9643-29793c07cb7e" Title="PcapDevice Class" Url="html/T_SharpPcap_PcapDevice.htm">
+    <HelpTOCNode Id="2856b569-d9df-4fac-913f-fda514131c18" Title="PcapDevice Class" Url="html/T_SharpPcap_PcapDevice.htm">
       <HelpTOCNode Title="PcapDevice Members" Url="html/AllMembers_T_SharpPcap_PcapDevice.htm" />
       <HelpTOCNode Title="PcapDevice Constructor " Url="html/M_SharpPcap_PcapDevice__ctor.htm" />
-      <HelpTOCNode Id="d166112b-c937-42b3-b7d3-03d4c73d8573" Title="PcapDevice Methods " Url="html/Methods_T_SharpPcap_PcapDevice.htm">
+      <HelpTOCNode Id="67f73dfa-53da-48ab-90e5-766a2b2e08ce" Title="PcapDevice Methods " Url="html/Methods_T_SharpPcap_PcapDevice.htm">
         <HelpTOCNode Title="Capture Method " Url="html/M_SharpPcap_PcapDevice_Capture.htm" />
         <HelpTOCNode Title="CheckFilter Method " Url="html/M_SharpPcap_PcapDevice_CheckFilter.htm" />
         <HelpTOCNode Title="Close Method " Url="html/M_SharpPcap_PcapDevice_Close.htm" />
-        <HelpTOCNode Id="a7b99591-6ccf-4bd4-8e69-44ef3a98e7fd" Title="Dump Method " Url="html/Overload_SharpPcap_PcapDevice_Dump.htm">
+        <HelpTOCNode Id="4b39aff7-c306-4078-b92a-08a8534c7d96" Title="Dump Method " Url="html/Overload_SharpPcap_PcapDevice_Dump.htm">
           <HelpTOCNode Title="Dump Method (Packet)" Url="html/M_SharpPcap_PcapDevice_Dump.htm" />
           <HelpTOCNode Title="Dump Method (Byte[])" Url="html/M_SharpPcap_PcapDevice_Dump_1.htm" />
           <HelpTOCNode Title="Dump Method (Byte[], PcapHeader)" Url="html/M_SharpPcap_PcapDevice_Dump_2.htm" />
@@ -96,18 +96,19 @@
         <HelpTOCNode Title="DumpClose Method " Url="html/M_SharpPcap_PcapDevice_DumpClose.htm" />
         <HelpTOCNode Title="DumpFlush Method " Url="html/M_SharpPcap_PcapDevice_DumpFlush.htm" />
         <HelpTOCNode Title="DumpOpen Method " Url="html/M_SharpPcap_PcapDevice_DumpOpen.htm" />
-        <HelpTOCNode Id="7d1a4834-950b-42ed-a90b-95b3f4286f79" Title="GetNextPacket Method " Url="html/Overload_SharpPcap_PcapDevice_GetNextPacket.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/M_SharpPcap_PcapDevice_Finalize.htm" />
+        <HelpTOCNode Id="5b25fe97-ae00-4bce-8f85-b06b4f86c704" Title="GetNextPacket Method " Url="html/Overload_SharpPcap_PcapDevice_GetNextPacket.htm">
           <HelpTOCNode Title="GetNextPacket Method " Url="html/M_SharpPcap_PcapDevice_GetNextPacket.htm" />
           <HelpTOCNode Title="GetNextPacket Method (Packet)" Url="html/M_SharpPcap_PcapDevice_GetNextPacket_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="MarshalPacket Method " Url="html/M_SharpPcap_PcapDevice_MarshalPacket.htm" />
-        <HelpTOCNode Id="9aec0d0a-123c-4ed2-a523-1a01d41e690a" Title="Open Method " Url="html/Overload_SharpPcap_PcapDevice_Open.htm">
+        <HelpTOCNode Id="3c6d0a70-c8f5-4102-94be-24eee663395a" Title="Open Method " Url="html/Overload_SharpPcap_PcapDevice_Open.htm">
           <HelpTOCNode Title="Open Method " Url="html/M_SharpPcap_PcapDevice_Open.htm" />
           <HelpTOCNode Title="Open Method (Boolean)" Url="html/M_SharpPcap_PcapDevice_Open_1.htm" />
           <HelpTOCNode Title="Open Method (Boolean, Int32)" Url="html/M_SharpPcap_PcapDevice_Open_2.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="PacketHandler Method " Url="html/M_SharpPcap_PcapDevice_PacketHandler.htm" />
-        <HelpTOCNode Id="2803d2dc-ab3d-449a-8b49-7b51633fd667" Title="SendPacket Method " Url="html/Overload_SharpPcap_PcapDevice_SendPacket.htm">
+        <HelpTOCNode Id="06670e66-a212-404a-b4d8-c3b421b35b33" Title="SendPacket Method " Url="html/Overload_SharpPcap_PcapDevice_SendPacket.htm">
           <HelpTOCNode Title="SendPacket Method (Packet)" Url="html/M_SharpPcap_PcapDevice_SendPacket.htm" />
           <HelpTOCNode Title="SendPacket Method (Byte[])" Url="html/M_SharpPcap_PcapDevice_SendPacket_2.htm" />
           <HelpTOCNode Title="SendPacket Method (Packet, Int32)" Url="html/M_SharpPcap_PcapDevice_SendPacket_1.htm" />
@@ -119,7 +120,7 @@
         <HelpTOCNode Title="StopCapture Method " Url="html/M_SharpPcap_PcapDevice_StopCapture.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_PcapDevice_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="db7db0c3-2da9-423d-97da-a204c4b06043" Title="PcapDevice Properties " Url="html/Properties_T_SharpPcap_PcapDevice.htm">
+      <HelpTOCNode Id="1d49bf9c-1073-455d-b88f-1059367e81ad" Title="PcapDevice Properties " Url="html/Properties_T_SharpPcap_PcapDevice.htm">
         <HelpTOCNode Title="Addresses Property " Url="html/P_SharpPcap_PcapDevice_Addresses.htm" />
         <HelpTOCNode Title="Description Property " Url="html/P_SharpPcap_PcapDevice_Description.htm" />
         <HelpTOCNode Title="DumpOpened Property " Url="html/P_SharpPcap_PcapDevice_DumpOpened.htm" />
@@ -133,40 +134,41 @@
         <HelpTOCNode Title="PcapDataLink Property " Url="html/P_SharpPcap_PcapDevice_PcapDataLink.htm" />
         <HelpTOCNode Title="Started Property " Url="html/P_SharpPcap_PcapDevice_Started.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="eb5172a6-f794-4e37-a32f-22b497b64ced" Title="PcapDevice Events" Url="html/Events_T_SharpPcap_PcapDevice.htm">
+      <HelpTOCNode Id="c09c4532-bcda-4d5d-97fb-eb50e63a97a8" Title="PcapDevice Events" Url="html/Events_T_SharpPcap_PcapDevice.htm">
         <HelpTOCNode Title="OnCaptureStopped Event" Url="html/E_SharpPcap_PcapDevice_OnCaptureStopped.htm" />
         <HelpTOCNode Title="OnPacketArrival Event" Url="html/E_SharpPcap_PcapDevice_OnPacketArrival.htm" />
         <HelpTOCNode Title="OnPcapStatistics Event" Url="html/E_SharpPcap_PcapDevice_OnPcapStatistics.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="PcapDevice.PcapMode Enumeration" Url="html/T_SharpPcap_PcapDevice_PcapMode.htm" />
-    <HelpTOCNode Id="ab4278f4-693a-44bf-b65c-b88d11d90f32" Title="PcapDeviceList Class" Url="html/T_SharpPcap_PcapDeviceList.htm">
+    <HelpTOCNode Id="eb13593e-cbc7-475a-8837-b5f97945e472" Title="PcapDeviceList Class" Url="html/T_SharpPcap_PcapDeviceList.htm">
       <HelpTOCNode Title="PcapDeviceList Members" Url="html/AllMembers_T_SharpPcap_PcapDeviceList.htm" />
       <HelpTOCNode Title="PcapDeviceList Constructor " Url="html/M_SharpPcap_PcapDeviceList__ctor.htm" />
       <HelpTOCNode Title="PcapDeviceList Methods " Url="html/Methods_T_SharpPcap_PcapDeviceList.htm" />
-      <HelpTOCNode Id="08e9f7ea-892a-448c-87d4-1b0ebbe8f420" Title="PcapDeviceList Properties " Url="html/Properties_T_SharpPcap_PcapDeviceList.htm">
-        <HelpTOCNode Id="8901df37-843c-43aa-9ec5-034fb7918bdc" Title="Item Property " Url="html/Overload_SharpPcap_PcapDeviceList_Item.htm">
+      <HelpTOCNode Id="6abb9dd0-48ca-49c3-8d2a-5df127a5304a" Title="PcapDeviceList Properties " Url="html/Properties_T_SharpPcap_PcapDeviceList.htm">
+        <HelpTOCNode Id="f206a0d0-8b8a-44d9-8bdf-03bc76d3dd3b" Title="Item Property " Url="html/Overload_SharpPcap_PcapDeviceList_Item.htm">
           <HelpTOCNode Title="Item Property (String)" Url="html/P_SharpPcap_PcapDeviceList_Item.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="915f0cf8-04b9-40c8-b897-651cd5ae9541" Title="PcapException Class" Url="html/T_SharpPcap_PcapException.htm">
+    <HelpTOCNode Id="380e0931-1816-4088-abc4-9fd2d7c21a26" Title="PcapDeviceNotReadyException Class" Url="html/T_SharpPcap_PcapDeviceNotReadyException.htm">
+      <HelpTOCNode Title="PcapDeviceNotReadyException Members" Url="html/AllMembers_T_SharpPcap_PcapDeviceNotReadyException.htm" />
+      <HelpTOCNode Title="PcapDeviceNotReadyException Methods " Url="html/Methods_T_SharpPcap_PcapDeviceNotReadyException.htm" />
+      <HelpTOCNode Title="PcapDeviceNotReadyException Properties " Url="html/Properties_T_SharpPcap_PcapDeviceNotReadyException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4519008f-06c5-4f3f-978a-f2607495be19" Title="PcapException Class" Url="html/T_SharpPcap_PcapException.htm">
       <HelpTOCNode Title="PcapException Members" Url="html/AllMembers_T_SharpPcap_PcapException.htm" />
-      <HelpTOCNode Id="21c857da-d3fb-47be-9de0-a9beeca05a03" Title="PcapException Constructor " Url="html/Overload_SharpPcap_PcapException__ctor.htm">
-        <HelpTOCNode Title="PcapException Constructor " Url="html/M_SharpPcap_PcapException__ctor.htm" />
-        <HelpTOCNode Title="PcapException Constructor (String)" Url="html/M_SharpPcap_PcapException__ctor_1.htm" />
-      </HelpTOCNode>
       <HelpTOCNode Title="PcapException Methods " Url="html/Methods_T_SharpPcap_PcapException.htm" />
       <HelpTOCNode Title="PcapException Properties " Url="html/Properties_T_SharpPcap_PcapException.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="581845b9-0dda-49c1-b97a-245986c1baba" Title="PcapHeader Class" Url="html/T_SharpPcap_PcapHeader.htm">
+    <HelpTOCNode Id="ed240aae-4410-4069-a0de-9135b51ee96d" Title="PcapHeader Class" Url="html/T_SharpPcap_PcapHeader.htm">
       <HelpTOCNode Title="PcapHeader Members" Url="html/AllMembers_T_SharpPcap_PcapHeader.htm" />
-      <HelpTOCNode Id="82082f84-80f3-4807-a63b-3814d2518e70" Title="PcapHeader Constructor " Url="html/Overload_SharpPcap_PcapHeader__ctor.htm">
+      <HelpTOCNode Id="f21a4261-50f7-4ca7-a690-0f9174f5b1fe" Title="PcapHeader Constructor " Url="html/Overload_SharpPcap_PcapHeader__ctor.htm">
         <HelpTOCNode Title="PcapHeader Constructor " Url="html/M_SharpPcap_PcapHeader__ctor.htm" />
         <HelpTOCNode Title="PcapHeader Constructor (UInt64, UInt64, UInt32, UInt32)" Url="html/M_SharpPcap_PcapHeader__ctor_1.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="PcapHeader Methods " Url="html/Methods_T_SharpPcap_PcapHeader.htm" />
-      <HelpTOCNode Id="4f4e95fa-c425-4e9d-b283-9a57693f7df0" Title="PcapHeader Properties " Url="html/Properties_T_SharpPcap_PcapHeader.htm">
+      <HelpTOCNode Id="b3294c8f-34ea-4f79-9deb-fbeec349fdee" Title="PcapHeader Properties " Url="html/Properties_T_SharpPcap_PcapHeader.htm">
         <HelpTOCNode Title="CaptureLength Property " Url="html/P_SharpPcap_PcapHeader_CaptureLength.htm" />
         <HelpTOCNode Title="Date Property " Url="html/P_SharpPcap_PcapHeader_Date.htm" />
         <HelpTOCNode Title="MicroSeconds Property " Url="html/P_SharpPcap_PcapHeader_MicroSeconds.htm" />
@@ -174,12 +176,12 @@
         <HelpTOCNode Title="Seconds Property " Url="html/P_SharpPcap_PcapHeader_Seconds.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e414bca0-d87c-405a-9018-1be83eb2ff40" Title="PcapOfflineDevice Class" Url="html/T_SharpPcap_PcapOfflineDevice.htm">
+    <HelpTOCNode Id="a3586aac-6d41-41f7-95b2-0127d7a8ef42" Title="PcapOfflineDevice Class" Url="html/T_SharpPcap_PcapOfflineDevice.htm">
       <HelpTOCNode Title="PcapOfflineDevice Members" Url="html/AllMembers_T_SharpPcap_PcapOfflineDevice.htm" />
-      <HelpTOCNode Id="609a8462-74a2-4415-8d02-b67d1cea0d93" Title="PcapOfflineDevice Methods " Url="html/Methods_T_SharpPcap_PcapOfflineDevice.htm">
+      <HelpTOCNode Id="edbbd49a-f685-4146-b7d1-563e6441e1d0" Title="PcapOfflineDevice Methods " Url="html/Methods_T_SharpPcap_PcapOfflineDevice.htm">
         <HelpTOCNode Title="Dump Method " Url="html/Overload_SharpPcap_PcapOfflineDevice_Dump.htm" />
         <HelpTOCNode Title="GetNextPacket Method " Url="html/Overload_SharpPcap_PcapOfflineDevice_GetNextPacket.htm" />
-        <HelpTOCNode Id="ce397e20-2165-4576-b74f-fe113ca29b5f" Title="Open Method " Url="html/Overload_SharpPcap_PcapOfflineDevice_Open.htm">
+        <HelpTOCNode Id="638dbbbe-3c0d-48be-9a4c-24d7c17c71c7" Title="Open Method " Url="html/Overload_SharpPcap_PcapOfflineDevice_Open.htm">
           <HelpTOCNode Title="Open Method " Url="html/M_SharpPcap_PcapOfflineDevice_Open.htm" />
           <HelpTOCNode Title="Open Method (Boolean)" Url="html/M_SharpPcap_PcapOfflineDevice_Open_1.htm" />
           <HelpTOCNode Title="Open Method (Boolean, Int32)" Url="html/M_SharpPcap_PcapOfflineDevice_Open_2.htm" />
@@ -187,7 +189,7 @@
         <HelpTOCNode Title="SendPacket Method " Url="html/Overload_SharpPcap_PcapOfflineDevice_SendPacket.htm" />
         <HelpTOCNode Title="SetFilter Method " Url="html/M_SharpPcap_PcapOfflineDevice_SetFilter.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3936f09a-7bb1-4ddd-9640-9ca8603ce514" Title="PcapOfflineDevice Properties " Url="html/Properties_T_SharpPcap_PcapOfflineDevice.htm">
+      <HelpTOCNode Id="9d307093-2cbf-4360-932f-40c5329013cc" Title="PcapOfflineDevice Properties " Url="html/Properties_T_SharpPcap_PcapOfflineDevice.htm">
         <HelpTOCNode Title="Description Property " Url="html/P_SharpPcap_PcapOfflineDevice_Description.htm" />
         <HelpTOCNode Title="FileName Property " Url="html/P_SharpPcap_PcapOfflineDevice_FileName.htm" />
         <HelpTOCNode Title="FileSize Property " Url="html/P_SharpPcap_PcapOfflineDevice_FileSize.htm" />
@@ -195,11 +197,11 @@
       </HelpTOCNode>
       <HelpTOCNode Title="PcapOfflineDevice Events" Url="html/Events_T_SharpPcap_PcapOfflineDevice.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="bdc740c9-64fd-4a4d-befc-f1276ccfa246" Title="PcapSendQueue Class" Url="html/T_SharpPcap_PcapSendQueue.htm">
+    <HelpTOCNode Id="ae306362-7ee3-4a59-b721-a618ce52fd8a" Title="PcapSendQueue Class" Url="html/T_SharpPcap_PcapSendQueue.htm">
       <HelpTOCNode Title="PcapSendQueue Members" Url="html/AllMembers_T_SharpPcap_PcapSendQueue.htm" />
       <HelpTOCNode Title="PcapSendQueue Constructor " Url="html/M_SharpPcap_PcapSendQueue__ctor.htm" />
-      <HelpTOCNode Id="4ebdba1b-1476-4524-b25c-b4541c82899f" Title="PcapSendQueue Methods " Url="html/Methods_T_SharpPcap_PcapSendQueue.htm">
-        <HelpTOCNode Id="d5d71ee4-bf13-4637-8df1-a2f4e3c82221" Title="Add Method " Url="html/Overload_SharpPcap_PcapSendQueue_Add.htm">
+      <HelpTOCNode Id="f2e5cb80-fe67-40c6-97a3-22be972eebd8" Title="PcapSendQueue Methods " Url="html/Methods_T_SharpPcap_PcapSendQueue.htm">
+        <HelpTOCNode Id="74efcfc2-2bea-4a5f-9c6a-ee6935cd385b" Title="Add Method " Url="html/Overload_SharpPcap_PcapSendQueue_Add.htm">
           <HelpTOCNode Title="Add Method (Packet)" Url="html/M_SharpPcap_PcapSendQueue_Add.htm" />
           <HelpTOCNode Title="Add Method (Byte[])" Url="html/M_SharpPcap_PcapSendQueue_Add_1.htm" />
           <HelpTOCNode Title="Add Method (Byte[], Int32, Int32)" Url="html/M_SharpPcap_PcapSendQueue_Add_2.htm" />
@@ -207,14 +209,14 @@
         <HelpTOCNode Title="Dispose Method " Url="html/M_SharpPcap_PcapSendQueue_Dispose.htm" />
         <HelpTOCNode Title="Transmit Method " Url="html/M_SharpPcap_PcapSendQueue_Transmit.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1563b8f2-061e-414b-885f-db8ec200892e" Title="PcapSendQueue Properties " Url="html/Properties_T_SharpPcap_PcapSendQueue.htm">
+      <HelpTOCNode Id="9c885b2c-0bf6-4c18-a5a5-96eb43ad1aec" Title="PcapSendQueue Properties " Url="html/Properties_T_SharpPcap_PcapSendQueue.htm">
         <HelpTOCNode Title="CurrentLength Property " Url="html/P_SharpPcap_PcapSendQueue_CurrentLength.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4ed6d6f8-2817-467f-b1fe-a1e9849c56eb" Title="PcapStatistics Class" Url="html/T_SharpPcap_PcapStatistics.htm">
+    <HelpTOCNode Id="2fb28edf-c3e0-4b6a-83f9-35696faafdbb" Title="PcapStatistics Class" Url="html/T_SharpPcap_PcapStatistics.htm">
       <HelpTOCNode Title="PcapStatistics Members" Url="html/AllMembers_T_SharpPcap_PcapStatistics.htm" />
       <HelpTOCNode Title="PcapStatistics Methods " Url="html/Methods_T_SharpPcap_PcapStatistics.htm" />
-      <HelpTOCNode Id="b5a2c920-fa67-4f9e-8ede-f23ee363aebd" Title="PcapStatistics Properties " Url="html/Properties_T_SharpPcap_PcapStatistics.htm">
+      <HelpTOCNode Id="ad0683ba-b26a-41e7-8daf-c97737152e70" Title="PcapStatistics Properties " Url="html/Properties_T_SharpPcap_PcapStatistics.htm">
         <HelpTOCNode Title="Date Property " Url="html/P_SharpPcap_PcapStatistics_Date.htm" />
         <HelpTOCNode Title="MicroSeconds Property " Url="html/P_SharpPcap_PcapStatistics_MicroSeconds.htm" />
         <HelpTOCNode Title="RecievedBytes Property " Url="html/P_SharpPcap_PcapStatistics_RecievedBytes.htm" />
@@ -222,27 +224,27 @@
         <HelpTOCNode Title="Seconds Property " Url="html/P_SharpPcap_PcapStatistics_Seconds.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="037ed92c-35b9-435c-97e1-3339f72fdefa" Title="PcapStatisticsEventArgs Class" Url="html/T_SharpPcap_PcapStatisticsEventArgs.htm">
+    <HelpTOCNode Id="932eeb69-94ea-4d0e-894c-1d0f71877af0" Title="PcapStatisticsEventArgs Class" Url="html/T_SharpPcap_PcapStatisticsEventArgs.htm">
       <HelpTOCNode Title="PcapStatisticsEventArgs Members" Url="html/AllMembers_T_SharpPcap_PcapStatisticsEventArgs.htm" />
       <HelpTOCNode Title="PcapStatisticsEventArgs Constructor " Url="html/M_SharpPcap_PcapStatisticsEventArgs__ctor.htm" />
       <HelpTOCNode Title="PcapStatisticsEventArgs Methods " Url="html/Methods_T_SharpPcap_PcapStatisticsEventArgs.htm" />
-      <HelpTOCNode Id="c8ddfdf3-c3e6-4c42-af03-76d86fa05f52" Title="PcapStatisticsEventArgs Properties " Url="html/Properties_T_SharpPcap_PcapStatisticsEventArgs.htm">
+      <HelpTOCNode Id="c49630f8-306a-4b7f-891a-2057504bcccd" Title="PcapStatisticsEventArgs Properties " Url="html/Properties_T_SharpPcap_PcapStatisticsEventArgs.htm">
         <HelpTOCNode Title="Statistics Property " Url="html/P_SharpPcap_PcapStatisticsEventArgs_Statistics.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5f984cb9-cf4d-46dc-82c4-ec74abc3586e" Title="Version Class" Url="html/T_SharpPcap_Version.htm">
+    <HelpTOCNode Id="70b8d467-b5c1-4982-a2aa-d08562326138" Title="Version Class" Url="html/T_SharpPcap_Version.htm">
       <HelpTOCNode Title="Version Members" Url="html/AllMembers_T_SharpPcap_Version.htm" />
       <HelpTOCNode Title="Version Methods " Url="html/Methods_T_SharpPcap_Version.htm" />
-      <HelpTOCNode Id="ca364b9a-31e3-42e1-b17b-737e1a5f5225" Title="Version Properties " Url="html/Properties_T_SharpPcap_Version.htm">
+      <HelpTOCNode Id="5ef49304-d1aa-4182-bc04-f0bf0e808eed" Title="Version Properties " Url="html/Properties_T_SharpPcap_Version.htm">
         <HelpTOCNode Title="VersionString Property " Url="html/P_SharpPcap_Version_VersionString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="303948da-5e89-4a64-a105-2b6540572318" Title="SharpPcap.Packets Namespace" Url="html/N_SharpPcap_Packets.htm">
+  <HelpTOCNode Id="6a3c593a-21fb-4753-aa0a-73ac78e71529" Title="SharpPcap.Packets Namespace" Url="html/N_SharpPcap_Packets.htm">
     <HelpTOCNode Title="ARPFields Interface" Url="html/T_SharpPcap_Packets_ARPFields.htm" />
-    <HelpTOCNode Id="203496fa-2bbc-421d-ac52-218f3e9f7e20" Title="ARPFields_Fields Structure" Url="html/T_SharpPcap_Packets_ARPFields_Fields.htm">
+    <HelpTOCNode Id="954bb227-9426-4c7d-a4c1-ed19079ef5ea" Title="ARPFields_Fields Structure" Url="html/T_SharpPcap_Packets_ARPFields_Fields.htm">
       <HelpTOCNode Title="ARPFields_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_ARPFields_Fields.htm" />
-      <HelpTOCNode Id="e47cc5bc-62c8-4941-95a6-7b380664dc66" Title="ARPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_ARPFields_Fields.htm">
+      <HelpTOCNode Id="0419d6d9-1361-481e-85af-5974a7f44570" Title="ARPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_ARPFields_Fields.htm">
         <HelpTOCNode Title="ARP_ADDR_SIZE_LEN Field" Url="html/F_SharpPcap_Packets_ARPFields_Fields_ARP_ADDR_SIZE_LEN.htm" />
         <HelpTOCNode Title="ARP_ADDR_TYPE_LEN Field" Url="html/F_SharpPcap_Packets_ARPFields_Fields_ARP_ADDR_TYPE_LEN.htm" />
         <HelpTOCNode Title="ARP_ETH_ADDR_CODE Field" Url="html/F_SharpPcap_Packets_ARPFields_Fields_ARP_ETH_ADDR_CODE.htm" />
@@ -263,20 +265,20 @@
       </HelpTOCNode>
       <HelpTOCNode Title="ARPFields_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_ARPFields_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="de5905ec-42e4-45b4-a9a3-6bf697fa216d" Title="ARPPacket Class" Url="html/T_SharpPcap_Packets_ARPPacket.htm">
+    <HelpTOCNode Id="5de46b15-75e6-423a-b04c-bb895eb18243" Title="ARPPacket Class" Url="html/T_SharpPcap_Packets_ARPPacket.htm">
       <HelpTOCNode Title="ARPPacket Members" Url="html/AllMembers_T_SharpPcap_Packets_ARPPacket.htm" />
-      <HelpTOCNode Id="2f002d76-c53c-4ddb-bd84-ec49abb28f3d" Title="ARPPacket Constructor " Url="html/Overload_SharpPcap_Packets_ARPPacket__ctor.htm">
+      <HelpTOCNode Id="4ce589b3-0ae7-4c65-b8f6-363fa9f2b828" Title="ARPPacket Constructor " Url="html/Overload_SharpPcap_Packets_ARPPacket__ctor.htm">
         <HelpTOCNode Title="ARPPacket Constructor (Int32, Byte[])" Url="html/M_SharpPcap_Packets_ARPPacket__ctor.htm" />
         <HelpTOCNode Title="ARPPacket Constructor (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_ARPPacket__ctor_1.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ARPPacket Fields" Url="html/Fields_T_SharpPcap_Packets_ARPPacket.htm" />
-      <HelpTOCNode Id="62bc4584-f4cc-4a4a-8ec9-c1fa9bbfbef8" Title="ARPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_ARPPacket.htm">
+      <HelpTOCNode Id="cccd28e9-d83a-4d38-b6f6-41e40a394cf1" Title="ARPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_ARPPacket.htm">
         <HelpTOCNode Title="setARPSenderHwAddress Method " Url="html/M_SharpPcap_Packets_ARPPacket_setARPSenderHwAddress.htm" />
         <HelpTOCNode Title="setARPTargetHwAddress Method " Url="html/M_SharpPcap_Packets_ARPPacket_setARPTargetHwAddress.htm" />
         <HelpTOCNode Title="ToColoredString Method " Url="html/M_SharpPcap_Packets_ARPPacket_ToColoredString.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_ARPPacket_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8b1b503c-c835-454a-834f-41409c2864f7" Title="ARPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_ARPPacket.htm">
+      <HelpTOCNode Id="43806d82-86b5-4253-a7f2-1ff53412923a" Title="ARPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_ARPPacket.htm">
         <HelpTOCNode Title="ARPData Property " Url="html/P_SharpPcap_Packets_ARPPacket_ARPData.htm" />
         <HelpTOCNode Title="ARPHeader Property " Url="html/P_SharpPcap_Packets_ARPPacket_ARPHeader.htm" />
         <HelpTOCNode Title="ARPHwLength Property " Url="html/P_SharpPcap_Packets_ARPPacket_ARPHwLength.htm" />
@@ -295,9 +297,9 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="EthernetFields Interface" Url="html/T_SharpPcap_Packets_EthernetFields.htm" />
-    <HelpTOCNode Id="690eb047-6395-494d-9a99-0d86a4973fb1" Title="EthernetFields_Fields Structure" Url="html/T_SharpPcap_Packets_EthernetFields_Fields.htm">
+    <HelpTOCNode Id="f700112b-d035-44a3-8b7f-7d3a270a316f" Title="EthernetFields_Fields Structure" Url="html/T_SharpPcap_Packets_EthernetFields_Fields.htm">
       <HelpTOCNode Title="EthernetFields_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_EthernetFields_Fields.htm" />
-      <HelpTOCNode Id="cf6e239e-39e1-4a66-a29d-a7e47f11f026" Title="EthernetFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_EthernetFields_Fields.htm">
+      <HelpTOCNode Id="be4b4d5d-a355-46bd-8221-473121064b5a" Title="EthernetFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_EthernetFields_Fields.htm">
         <HelpTOCNode Title="ETH_CODE_LEN Field" Url="html/F_SharpPcap_Packets_EthernetFields_Fields_ETH_CODE_LEN.htm" />
         <HelpTOCNode Title="ETH_CODE_POS Field" Url="html/F_SharpPcap_Packets_EthernetFields_Fields_ETH_CODE_POS.htm" />
         <HelpTOCNode Title="ETH_DST_POS Field" Url="html/F_SharpPcap_Packets_EthernetFields_Fields_ETH_DST_POS.htm" />
@@ -306,24 +308,24 @@
       </HelpTOCNode>
       <HelpTOCNode Title="EthernetFields_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_EthernetFields_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="3c27f6f3-8c30-4a68-8819-ac6674c9d2ae" Title="EthernetPacket Class" Url="html/T_SharpPcap_Packets_EthernetPacket.htm">
+    <HelpTOCNode Id="c714422a-dfa3-45e0-a6e6-e80e3a7dd55d" Title="EthernetPacket Class" Url="html/T_SharpPcap_Packets_EthernetPacket.htm">
       <HelpTOCNode Title="EthernetPacket Members" Url="html/AllMembers_T_SharpPcap_Packets_EthernetPacket.htm" />
-      <HelpTOCNode Id="81e95db5-8244-49d6-92fe-9d28a982d191" Title="EthernetPacket Constructor " Url="html/Overload_SharpPcap_Packets_EthernetPacket__ctor.htm">
+      <HelpTOCNode Id="ed2362ee-d80d-48ad-ad80-ed768de46253" Title="EthernetPacket Constructor " Url="html/Overload_SharpPcap_Packets_EthernetPacket__ctor.htm">
         <HelpTOCNode Title="EthernetPacket Constructor (Int32, Byte[])" Url="html/M_SharpPcap_Packets_EthernetPacket__ctor.htm" />
         <HelpTOCNode Title="EthernetPacket Constructor (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_EthernetPacket__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1b426dd8-9bd9-4e1d-9393-8acf7fe50cfe" Title="EthernetPacket Fields" Url="html/Fields_T_SharpPcap_Packets_EthernetPacket.htm">
+      <HelpTOCNode Id="8018210a-6091-4a02-b6c1-95f2ef371130" Title="EthernetPacket Fields" Url="html/Fields_T_SharpPcap_Packets_EthernetPacket.htm">
         <HelpTOCNode Title="_ethOffset Field" Url="html/F_SharpPcap_Packets_EthernetPacket__ethOffset.htm" />
         <HelpTOCNode Title="_timeval Field" Url="html/F_SharpPcap_Packets_EthernetPacket__timeval.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a9c3a72e-d85c-44b8-a428-40ff65fd2945" Title="EthernetPacket Methods " Url="html/Methods_T_SharpPcap_Packets_EthernetPacket.htm">
+      <HelpTOCNode Id="26cc987b-d68d-4927-aa4e-2c9d6b31ac18" Title="EthernetPacket Methods " Url="html/Methods_T_SharpPcap_Packets_EthernetPacket.htm">
         <HelpTOCNode Title="extractProtocol Method " Url="html/M_SharpPcap_Packets_EthernetPacket_extractProtocol.htm" />
         <HelpTOCNode Title="OnOffsetChanged Method " Url="html/M_SharpPcap_Packets_EthernetPacket_OnOffsetChanged.htm" />
         <HelpTOCNode Title="ToColoredString Method " Url="html/M_SharpPcap_Packets_EthernetPacket_ToColoredString.htm" />
         <HelpTOCNode Title="ToColoredVerboseString Method " Url="html/M_SharpPcap_Packets_EthernetPacket_ToColoredVerboseString.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_EthernetPacket_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="77538995-e3c3-47ec-bdd8-7e45c49f2624" Title="EthernetPacket Properties " Url="html/Properties_T_SharpPcap_Packets_EthernetPacket.htm">
+      <HelpTOCNode Id="d13ce931-23fe-46d6-83c6-ab4a75dc9000" Title="EthernetPacket Properties " Url="html/Properties_T_SharpPcap_Packets_EthernetPacket.htm">
         <HelpTOCNode Title="Bytes Property " Url="html/P_SharpPcap_Packets_EthernetPacket_Bytes.htm" />
         <HelpTOCNode Title="Color Property " Url="html/P_SharpPcap_Packets_EthernetPacket_Color.htm" />
         <HelpTOCNode Title="Data Property " Url="html/P_SharpPcap_Packets_EthernetPacket_Data.htm" />
@@ -340,9 +342,9 @@
         <HelpTOCNode Title="Timeval Property " Url="html/P_SharpPcap_Packets_EthernetPacket_Timeval.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="22b259fb-31e6-4ef0-ae13-4cc3e22925b2" Title="EthernetPacket.EtherType Structure" Url="html/T_SharpPcap_Packets_EthernetPacket_EtherType.htm">
+    <HelpTOCNode Id="28b2123c-fdfc-477e-b2b2-f97514376637" Title="EthernetPacket.EtherType Structure" Url="html/T_SharpPcap_Packets_EthernetPacket_EtherType.htm">
       <HelpTOCNode Title="EthernetPacket.EtherType Members" Url="html/AllMembers_T_SharpPcap_Packets_EthernetPacket_EtherType.htm" />
-      <HelpTOCNode Id="12b57df7-bfb9-41a2-be90-d59c3bc7e34c" Title="EthernetPacket.EtherType Fields" Url="html/Fields_T_SharpPcap_Packets_EthernetPacket_EtherType.htm">
+      <HelpTOCNode Id="b5052f18-3e4b-4e22-860f-08927e1a88d8" Title="EthernetPacket.EtherType Fields" Url="html/Fields_T_SharpPcap_Packets_EthernetPacket_EtherType.htm">
         <HelpTOCNode Title="AARP Field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_AARP.htm" />
         <HelpTOCNode Title="ALL Field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_ALL.htm" />
         <HelpTOCNode Title="ARP Field" Url="html/F_SharpPcap_Packets_EthernetPacket_EtherType_ARP.htm" />
@@ -397,9 +399,9 @@
       <HelpTOCNode Title="EthernetPacket.EtherType Methods " Url="html/Methods_T_SharpPcap_Packets_EthernetPacket_EtherType.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="ICMPFields Interface" Url="html/T_SharpPcap_Packets_ICMPFields.htm" />
-    <HelpTOCNode Id="cf1c59fb-425d-49c6-b07c-f52068344023" Title="ICMPFields_Fields Structure" Url="html/T_SharpPcap_Packets_ICMPFields_Fields.htm">
+    <HelpTOCNode Id="85b00d76-50f2-4050-8617-50de47f12d55" Title="ICMPFields_Fields Structure" Url="html/T_SharpPcap_Packets_ICMPFields_Fields.htm">
       <HelpTOCNode Title="ICMPFields_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_ICMPFields_Fields.htm" />
-      <HelpTOCNode Id="64c5e02e-9763-4f4c-a6b3-3ae6a3deecf9" Title="ICMPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_ICMPFields_Fields.htm">
+      <HelpTOCNode Id="41ce492a-b4f4-4d22-913e-d538e74c353e" Title="ICMPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_ICMPFields_Fields.htm">
         <HelpTOCNode Title="ICMP_CODE_LEN Field" Url="html/F_SharpPcap_Packets_ICMPFields_Fields_ICMP_CODE_LEN.htm" />
         <HelpTOCNode Title="ICMP_CODE_POS Field" Url="html/F_SharpPcap_Packets_ICMPFields_Fields_ICMP_CODE_POS.htm" />
         <HelpTOCNode Title="ICMP_CSUM_LEN Field" Url="html/F_SharpPcap_Packets_ICMPFields_Fields_ICMP_CSUM_LEN.htm" />
@@ -410,17 +412,17 @@
       </HelpTOCNode>
       <HelpTOCNode Title="ICMPFields_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_ICMPFields_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="be18e4db-f018-4862-86b6-5cef0693f757" Title="ICMPMessage Class" Url="html/T_SharpPcap_Packets_ICMPMessage.htm">
+    <HelpTOCNode Id="4081609e-cc03-4985-b7bb-574f071ae0ee" Title="ICMPMessage Class" Url="html/T_SharpPcap_Packets_ICMPMessage.htm">
       <HelpTOCNode Title="ICMPMessage Members" Url="html/AllMembers_T_SharpPcap_Packets_ICMPMessage.htm" />
       <HelpTOCNode Title="ICMPMessage Constructor " Url="html/M_SharpPcap_Packets_ICMPMessage__ctor.htm" />
-      <HelpTOCNode Id="0cc78aa2-d2b0-4ebf-88fb-a9e435202825" Title="ICMPMessage Methods " Url="html/Methods_T_SharpPcap_Packets_ICMPMessage.htm">
+      <HelpTOCNode Id="9084e827-2a04-41b9-ac33-cba2e7bc140b" Title="ICMPMessage Methods " Url="html/Methods_T_SharpPcap_Packets_ICMPMessage.htm">
         <HelpTOCNode Title="getDescription Method " Url="html/M_SharpPcap_Packets_ICMPMessage_getDescription.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="ICMPMessages Interface" Url="html/T_SharpPcap_Packets_ICMPMessages.htm" />
-    <HelpTOCNode Id="4edc3110-64e8-4e0a-b807-225ed4ae05a4" Title="ICMPMessages_Fields Structure" Url="html/T_SharpPcap_Packets_ICMPMessages_Fields.htm">
+    <HelpTOCNode Id="7206af17-313d-4712-adcb-2598ef3e04f4" Title="ICMPMessages_Fields Structure" Url="html/T_SharpPcap_Packets_ICMPMessages_Fields.htm">
       <HelpTOCNode Title="ICMPMessages_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_ICMPMessages_Fields.htm" />
-      <HelpTOCNode Id="5cdaec9b-d07d-4d1f-b9e4-41bc02879bc0" Title="ICMPMessages_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_ICMPMessages_Fields.htm">
+      <HelpTOCNode Id="6a8ddaec-a763-414a-8d5e-f19960a9e00c" Title="ICMPMessages_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_ICMPMessages_Fields.htm">
         <HelpTOCNode Title="ECHO Field" Url="html/F_SharpPcap_Packets_ICMPMessages_Fields_ECHO.htm" />
         <HelpTOCNode Title="ECHO_REPLY Field" Url="html/F_SharpPcap_Packets_ICMPMessages_Fields_ECHO_REPLY.htm" />
         <HelpTOCNode Title="IREQ Field" Url="html/F_SharpPcap_Packets_ICMPMessages_Fields_IREQ.htm" />
@@ -456,15 +458,15 @@
       </HelpTOCNode>
       <HelpTOCNode Title="ICMPMessages_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_ICMPMessages_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="771a8c98-f8b5-4212-ae08-bbaff04c8c0d" Title="ICMPPacket Class" Url="html/T_SharpPcap_Packets_ICMPPacket.htm">
+    <HelpTOCNode Id="c8a5c4e3-b08f-4c88-9830-e1b4588793a9" Title="ICMPPacket Class" Url="html/T_SharpPcap_Packets_ICMPPacket.htm">
       <HelpTOCNode Title="ICMPPacket Members" Url="html/AllMembers_T_SharpPcap_Packets_ICMPPacket.htm" />
-      <HelpTOCNode Id="6ee19cff-bd10-43b3-b4d7-6671d9446367" Title="ICMPPacket Constructor " Url="html/Overload_SharpPcap_Packets_ICMPPacket__ctor.htm">
+      <HelpTOCNode Id="66fa3988-4dd5-4a8b-9ae4-f859a25fa504" Title="ICMPPacket Constructor " Url="html/Overload_SharpPcap_Packets_ICMPPacket__ctor.htm">
         <HelpTOCNode Title="ICMPPacket Constructor (Int32, Byte[])" Url="html/M_SharpPcap_Packets_ICMPPacket__ctor.htm" />
         <HelpTOCNode Title="ICMPPacket Constructor (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_ICMPPacket__ctor_1.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ICMPPacket Fields" Url="html/Fields_T_SharpPcap_Packets_ICMPPacket.htm" />
-      <HelpTOCNode Id="40e5ba74-588c-4fd0-b658-3032c231c422" Title="ICMPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_ICMPPacket.htm">
-        <HelpTOCNode Id="86c715a4-f05d-45e3-863a-01dedc17edae" Title="ComputeICMPChecksum Method " Url="html/Overload_SharpPcap_Packets_ICMPPacket_ComputeICMPChecksum.htm">
+      <HelpTOCNode Id="da85eaff-a18b-45d0-8b0a-8e0ce56571a0" Title="ICMPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_ICMPPacket.htm">
+        <HelpTOCNode Id="af843bdc-5bce-44a1-b6d4-f100371c81b1" Title="ComputeICMPChecksum Method " Url="html/Overload_SharpPcap_Packets_ICMPPacket_ComputeICMPChecksum.htm">
           <HelpTOCNode Title="ComputeICMPChecksum Method " Url="html/M_SharpPcap_Packets_ICMPPacket_ComputeICMPChecksum.htm" />
           <HelpTOCNode Title="ComputeICMPChecksum Method (Boolean)" Url="html/M_SharpPcap_Packets_ICMPPacket_ComputeICMPChecksum_1.htm" />
         </HelpTOCNode>
@@ -472,7 +474,7 @@
         <HelpTOCNode Title="ToColoredString Method " Url="html/M_SharpPcap_Packets_ICMPPacket_ToColoredString.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_ICMPPacket_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3a60987a-d6e3-437b-abd7-88d0e310efe8" Title="ICMPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_ICMPPacket.htm">
+      <HelpTOCNode Id="22884d13-266d-45b4-9ba3-88d98b2724ce" Title="ICMPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_ICMPPacket.htm">
         <HelpTOCNode Title="Checksum Property " Url="html/P_SharpPcap_Packets_ICMPPacket_Checksum.htm" />
         <HelpTOCNode Title="Color Property " Url="html/P_SharpPcap_Packets_ICMPPacket_Color.htm" />
         <HelpTOCNode Title="Data Property " Url="html/P_SharpPcap_Packets_ICMPPacket_Data.htm" />
@@ -488,9 +490,9 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="IGMPFields Interface" Url="html/T_SharpPcap_Packets_IGMPFields.htm" />
-    <HelpTOCNode Id="eea0ba49-2081-4e7c-99fe-c8321094f9ea" Title="IGMPFields_Fields Structure" Url="html/T_SharpPcap_Packets_IGMPFields_Fields.htm">
+    <HelpTOCNode Id="30484f8f-a2e2-40b5-a083-ccdd36b494a0" Title="IGMPFields_Fields Structure" Url="html/T_SharpPcap_Packets_IGMPFields_Fields.htm">
       <HelpTOCNode Title="IGMPFields_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_IGMPFields_Fields.htm" />
-      <HelpTOCNode Id="6946eda0-73d3-4389-8eee-8a17d1e6fc08" Title="IGMPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IGMPFields_Fields.htm">
+      <HelpTOCNode Id="a266d60b-c083-4e06-8ac8-14c285f0af51" Title="IGMPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IGMPFields_Fields.htm">
         <HelpTOCNode Title="IGMP_CODE_LEN Field" Url="html/F_SharpPcap_Packets_IGMPFields_Fields_IGMP_CODE_LEN.htm" />
         <HelpTOCNode Title="IGMP_CODE_POS Field" Url="html/F_SharpPcap_Packets_IGMPFields_Fields_IGMP_CODE_POS.htm" />
         <HelpTOCNode Title="IGMP_CSUM_LEN Field" Url="html/F_SharpPcap_Packets_IGMPFields_Fields_IGMP_CSUM_LEN.htm" />
@@ -503,17 +505,17 @@
       </HelpTOCNode>
       <HelpTOCNode Title="IGMPFields_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_IGMPFields_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="46fbe608-6159-433f-b206-46fa5cf9fa56" Title="IGMPMessage Class" Url="html/T_SharpPcap_Packets_IGMPMessage.htm">
+    <HelpTOCNode Id="ca56e941-4a13-4638-8331-5c4ed703a0f5" Title="IGMPMessage Class" Url="html/T_SharpPcap_Packets_IGMPMessage.htm">
       <HelpTOCNode Title="IGMPMessage Members" Url="html/AllMembers_T_SharpPcap_Packets_IGMPMessage.htm" />
       <HelpTOCNode Title="IGMPMessage Constructor " Url="html/M_SharpPcap_Packets_IGMPMessage__ctor.htm" />
-      <HelpTOCNode Id="71683996-dce0-43ea-b95e-86aa0dea60d7" Title="IGMPMessage Methods " Url="html/Methods_T_SharpPcap_Packets_IGMPMessage.htm">
+      <HelpTOCNode Id="2e16ba70-873a-4d99-b6bf-376ac1797f49" Title="IGMPMessage Methods " Url="html/Methods_T_SharpPcap_Packets_IGMPMessage.htm">
         <HelpTOCNode Title="getDescription Method " Url="html/M_SharpPcap_Packets_IGMPMessage_getDescription.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="IGMPMessages Interface" Url="html/T_SharpPcap_Packets_IGMPMessages.htm" />
-    <HelpTOCNode Id="8057427f-d0b4-4023-9907-90d23822a580" Title="IGMPMessages_Fields Structure" Url="html/T_SharpPcap_Packets_IGMPMessages_Fields.htm">
+    <HelpTOCNode Id="790900fd-28a5-4a4a-b8dc-59623b414c00" Title="IGMPMessages_Fields Structure" Url="html/T_SharpPcap_Packets_IGMPMessages_Fields.htm">
       <HelpTOCNode Title="IGMPMessages_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_IGMPMessages_Fields.htm" />
-      <HelpTOCNode Id="4594b4c5-1fc8-4d11-b28b-0836c94559fe" Title="IGMPMessages_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IGMPMessages_Fields.htm">
+      <HelpTOCNode Id="88d748b3-b3a7-4e36-920e-aca949d04b20" Title="IGMPMessages_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IGMPMessages_Fields.htm">
         <HelpTOCNode Title="LEAVE Field" Url="html/F_SharpPcap_Packets_IGMPMessages_Fields_LEAVE.htm" />
         <HelpTOCNode Title="QUERY Field" Url="html/F_SharpPcap_Packets_IGMPMessages_Fields_QUERY.htm" />
         <HelpTOCNode Title="V1_REPORT Field" Url="html/F_SharpPcap_Packets_IGMPMessages_Fields_V1_REPORT.htm" />
@@ -521,19 +523,19 @@
       </HelpTOCNode>
       <HelpTOCNode Title="IGMPMessages_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_IGMPMessages_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="57d3b8eb-d66e-41b2-95c9-5a6baafccc5a" Title="IGMPPacket Class" Url="html/T_SharpPcap_Packets_IGMPPacket.htm">
+    <HelpTOCNode Id="750ee928-f069-4df2-9884-52f38f73be48" Title="IGMPPacket Class" Url="html/T_SharpPcap_Packets_IGMPPacket.htm">
       <HelpTOCNode Title="IGMPPacket Members" Url="html/AllMembers_T_SharpPcap_Packets_IGMPPacket.htm" />
-      <HelpTOCNode Id="f114c336-4408-4e40-93c0-3c1f93ce2866" Title="IGMPPacket Constructor " Url="html/Overload_SharpPcap_Packets_IGMPPacket__ctor.htm">
+      <HelpTOCNode Id="8789f30e-a07c-41e7-b29c-32dd8dfb37a9" Title="IGMPPacket Constructor " Url="html/Overload_SharpPcap_Packets_IGMPPacket__ctor.htm">
         <HelpTOCNode Title="IGMPPacket Constructor (Int32, Byte[])" Url="html/M_SharpPcap_Packets_IGMPPacket__ctor.htm" />
         <HelpTOCNode Title="IGMPPacket Constructor (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_IGMPPacket__ctor_1.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="IGMPPacket Fields" Url="html/Fields_T_SharpPcap_Packets_IGMPPacket.htm" />
-      <HelpTOCNode Id="4d05b135-98f8-4709-84c5-3f8a5ed56b7f" Title="IGMPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_IGMPPacket.htm">
+      <HelpTOCNode Id="28c1a1d0-84e9-448b-9e68-bfbf678525fd" Title="IGMPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_IGMPPacket.htm">
         <HelpTOCNode Title="ComputeIPChecksum Method " Url="html/Overload_SharpPcap_Packets_IGMPPacket_ComputeIPChecksum.htm" />
         <HelpTOCNode Title="ToColoredString Method " Url="html/M_SharpPcap_Packets_IGMPPacket_ToColoredString.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_IGMPPacket_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="270c5b57-8d5a-44b5-9acd-87b08afca7e6" Title="IGMPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_IGMPPacket.htm">
+      <HelpTOCNode Id="961a62ce-cc5a-4f23-a41d-e18ec2ab748d" Title="IGMPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_IGMPPacket.htm">
         <HelpTOCNode Title="Checksum Property " Url="html/P_SharpPcap_Packets_IGMPPacket_Checksum.htm" />
         <HelpTOCNode Title="Color Property " Url="html/P_SharpPcap_Packets_IGMPPacket_Color.htm" />
         <HelpTOCNode Title="Data Property " Url="html/P_SharpPcap_Packets_IGMPPacket_Data.htm" />
@@ -546,22 +548,22 @@
         <HelpTOCNode Title="MessageType Property " Url="html/P_SharpPcap_Packets_IGMPPacket_MessageType.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7b3883f7-b279-49f0-bc63-7a997a3ec963" Title="IPPacket Class" Url="html/T_SharpPcap_Packets_IPPacket.htm">
+    <HelpTOCNode Id="9dbc7c06-227e-412a-80bc-a994ad979cc0" Title="IPPacket Class" Url="html/T_SharpPcap_Packets_IPPacket.htm">
       <HelpTOCNode Title="IPPacket Members" Url="html/AllMembers_T_SharpPcap_Packets_IPPacket.htm" />
-      <HelpTOCNode Id="394def28-6150-4a88-b0d8-90338a162407" Title="IPPacket Constructor " Url="html/Overload_SharpPcap_Packets_IPPacket__ctor.htm">
+      <HelpTOCNode Id="5fc5c732-91f3-4611-8ce7-2bb58fc8abdb" Title="IPPacket Constructor " Url="html/Overload_SharpPcap_Packets_IPPacket__ctor.htm">
         <HelpTOCNode Title="IPPacket Constructor (Int32, Byte[])" Url="html/M_SharpPcap_Packets_IPPacket__ctor.htm" />
         <HelpTOCNode Title="IPPacket Constructor (Int32, Byte[], IPPacket.IPVersions)" Url="html/M_SharpPcap_Packets_IPPacket__ctor_1.htm" />
         <HelpTOCNode Title="IPPacket Constructor (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_IPPacket__ctor_2.htm" />
         <HelpTOCNode Title="IPPacket Constructor (Int32, Byte[], Timeval, IPPacket.IPVersions)" Url="html/M_SharpPcap_Packets_IPPacket__ctor_3.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c8313ddd-9de3-440f-8b60-23f9b158e0f1" Title="IPPacket Fields" Url="html/Fields_T_SharpPcap_Packets_IPPacket.htm">
+      <HelpTOCNode Id="2d2587a7-a4ca-43f6-be5c-1edec942dafb" Title="IPPacket Fields" Url="html/Fields_T_SharpPcap_Packets_IPPacket.htm">
         <HelpTOCNode Title="_ipOffset Field" Url="html/F_SharpPcap_Packets_IPPacket__ipOffset.htm" />
         <HelpTOCNode Title="ipv4 Field" Url="html/F_SharpPcap_Packets_IPPacket_ipv4.htm" />
         <HelpTOCNode Title="ipv6 Field" Url="html/F_SharpPcap_Packets_IPPacket_ipv6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e7efdd62-d8c7-4ae8-b3c1-7bc04b1b4c94" Title="IPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_IPPacket.htm">
+      <HelpTOCNode Id="3960c42a-6e84-4ca8-82f5-bc983b5a2cb9" Title="IPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_IPPacket.htm">
         <HelpTOCNode Title="AttachPseudoIPHeader Method " Url="html/M_SharpPcap_Packets_IPPacket_AttachPseudoIPHeader.htm" />
-        <HelpTOCNode Id="8d7a88d5-ba49-4146-9b0c-274cbdec0cbe" Title="ComputeIPChecksum Method " Url="html/Overload_SharpPcap_Packets_IPPacket_ComputeIPChecksum.htm">
+        <HelpTOCNode Id="4f489452-7817-4e9c-8912-e966480ce71d" Title="ComputeIPChecksum Method " Url="html/Overload_SharpPcap_Packets_IPPacket_ComputeIPChecksum.htm">
           <HelpTOCNode Title="ComputeIPChecksum Method " Url="html/M_SharpPcap_Packets_IPPacket_ComputeIPChecksum.htm" />
           <HelpTOCNode Title="ComputeIPChecksum Method (Boolean)" Url="html/M_SharpPcap_Packets_IPPacket_ComputeIPChecksum_1.htm" />
         </HelpTOCNode>
@@ -576,7 +578,7 @@
         <HelpTOCNode Title="ToColoredVerboseString Method " Url="html/M_SharpPcap_Packets_IPPacket_ToColoredVerboseString.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_IPPacket_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="67a3d7f1-56ed-4421-b9a9-42faa46f5454" Title="IPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_IPPacket.htm">
+      <HelpTOCNode Id="ead12ce6-5732-4ae1-be6e-32daad8124e7" Title="IPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_IPPacket.htm">
         <HelpTOCNode Title="Bytes Property " Url="html/P_SharpPcap_Packets_IPPacket_Bytes.htm" />
         <HelpTOCNode Title="Color Property " Url="html/P_SharpPcap_Packets_IPPacket_Color.htm" />
         <HelpTOCNode Title="DestinationAddress Property " Url="html/P_SharpPcap_Packets_IPPacket_DestinationAddress.htm" />
@@ -598,21 +600,21 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="IPPacket.IPVersions Enumeration" Url="html/T_SharpPcap_Packets_IPPacket_IPVersions.htm" />
-    <HelpTOCNode Id="96380cd4-f780-46ad-9670-b3664ef17db5" Title="IPPort Class" Url="html/T_SharpPcap_Packets_IPPort.htm">
+    <HelpTOCNode Id="55c14bdf-9cc6-4449-972c-277f67289ef3" Title="IPPort Class" Url="html/T_SharpPcap_Packets_IPPort.htm">
       <HelpTOCNode Title="IPPort Members" Url="html/AllMembers_T_SharpPcap_Packets_IPPort.htm" />
       <HelpTOCNode Title="IPPort Constructor " Url="html/M_SharpPcap_Packets_IPPort__ctor.htm" />
-      <HelpTOCNode Id="b0e5c5d4-c256-4087-966e-a3a832b99be1" Title="IPPort Fields" Url="html/Fields_T_SharpPcap_Packets_IPPort.htm">
+      <HelpTOCNode Id="6994a446-a882-4f84-a629-b0faf10bff0c" Title="IPPort Fields" Url="html/Fields_T_SharpPcap_Packets_IPPort.htm">
         <HelpTOCNode Title="UNKNOWN Field" Url="html/F_SharpPcap_Packets_IPPort_UNKNOWN.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="44b5cb6d-2fb3-4adf-bb01-adfadbc43307" Title="IPPort Methods " Url="html/Methods_T_SharpPcap_Packets_IPPort.htm">
+      <HelpTOCNode Id="88f868ea-95af-44b8-9452-37e7ab8fbf0d" Title="IPPort Methods " Url="html/Methods_T_SharpPcap_Packets_IPPort.htm">
         <HelpTOCNode Title="getDescription Method " Url="html/M_SharpPcap_Packets_IPPort_getDescription.htm" />
         <HelpTOCNode Title="getName Method " Url="html/M_SharpPcap_Packets_IPPort_getName.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d13c01c3-cc87-4f8a-b2ff-8debf199883f" Title="IPPorts Class" Url="html/T_SharpPcap_Packets_IPPorts.htm">
+    <HelpTOCNode Id="8d801ace-54d5-49fd-bac5-87d8d9077681" Title="IPPorts Class" Url="html/T_SharpPcap_Packets_IPPorts.htm">
       <HelpTOCNode Title="IPPorts Members" Url="html/AllMembers_T_SharpPcap_Packets_IPPorts.htm" />
       <HelpTOCNode Title="IPPorts Constructor " Url="html/M_SharpPcap_Packets_IPPorts__ctor.htm" />
-      <HelpTOCNode Id="3733e759-d4a5-446b-98a3-3ecf40528e27" Title="IPPorts Fields" Url="html/Fields_T_SharpPcap_Packets_IPPorts.htm">
+      <HelpTOCNode Id="18932f0f-2298-42b4-9534-7e3ee5b89bc4" Title="IPPorts Fields" Url="html/Fields_T_SharpPcap_Packets_IPPorts.htm">
         <HelpTOCNode Title="ACAP Field" Url="html/F_SharpPcap_Packets_IPPorts_ACAP.htm" />
         <HelpTOCNode Title="ACAS Field" Url="html/F_SharpPcap_Packets_IPPorts_ACAS.htm" />
         <HelpTOCNode Title="ACCESSBUILDER Field" Url="html/F_SharpPcap_Packets_IPPorts_ACCESSBUILDER.htm" />
@@ -1308,19 +1310,19 @@
       </HelpTOCNode>
       <HelpTOCNode Title="IPPorts Methods " Url="html/Methods_T_SharpPcap_Packets_IPPorts.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="da31e908-046c-4e43-b269-a38c0e21d177" Title="IPProtocol Class" Url="html/T_SharpPcap_Packets_IPProtocol.htm">
+    <HelpTOCNode Id="df86ee99-5132-4526-9b78-5c892db3431b" Title="IPProtocol Class" Url="html/T_SharpPcap_Packets_IPProtocol.htm">
       <HelpTOCNode Title="IPProtocol Members" Url="html/AllMembers_T_SharpPcap_Packets_IPProtocol.htm" />
       <HelpTOCNode Title="IPProtocol Constructor " Url="html/M_SharpPcap_Packets_IPProtocol__ctor.htm" />
-      <HelpTOCNode Id="b807ee35-a183-4d78-8751-844381e74d46" Title="IPProtocol Methods " Url="html/Methods_T_SharpPcap_Packets_IPProtocol.htm">
+      <HelpTOCNode Id="fb763678-0867-4112-a4f9-a7e123a0d251" Title="IPProtocol Methods " Url="html/Methods_T_SharpPcap_Packets_IPProtocol.htm">
         <HelpTOCNode Title="extractProtocol Method " Url="html/M_SharpPcap_Packets_IPProtocol_extractProtocol.htm" />
         <HelpTOCNode Title="ExtractVersion Method " Url="html/M_SharpPcap_Packets_IPProtocol_ExtractVersion.htm" />
         <HelpTOCNode Title="getDescription Method " Url="html/M_SharpPcap_Packets_IPProtocol_getDescription.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="IPProtocol.IPProtocolType Enumeration" Url="html/T_SharpPcap_Packets_IPProtocol_IPProtocolType.htm" />
-    <HelpTOCNode Id="bdbaf68d-7383-4ef6-b261-b4b9b880799b" Title="IPv4Fields_Fields Structure" Url="html/T_SharpPcap_Packets_IPv4Fields_Fields.htm">
+    <HelpTOCNode Id="381b2562-2405-44c2-a850-3cd15817b913" Title="IPv4Fields_Fields Structure" Url="html/T_SharpPcap_Packets_IPv4Fields_Fields.htm">
       <HelpTOCNode Title="IPv4Fields_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_IPv4Fields_Fields.htm" />
-      <HelpTOCNode Id="d73d0cdf-9ab8-4b0e-bd64-5b74f6f5af8b" Title="IPv4Fields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IPv4Fields_Fields.htm">
+      <HelpTOCNode Id="f7417377-e08a-4e0f-a8ef-c530c8557812" Title="IPv4Fields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IPv4Fields_Fields.htm">
         <HelpTOCNode Title="IP_ADDRESS_WIDTH Field" Url="html/F_SharpPcap_Packets_IPv4Fields_Fields_IP_ADDRESS_WIDTH.htm" />
         <HelpTOCNode Title="IP_CODE_LEN Field" Url="html/F_SharpPcap_Packets_IPv4Fields_Fields_IP_CODE_LEN.htm" />
         <HelpTOCNode Title="IP_CODE_POS Field" Url="html/F_SharpPcap_Packets_IPv4Fields_Fields_IP_CODE_POS.htm" />
@@ -1344,19 +1346,19 @@
       </HelpTOCNode>
       <HelpTOCNode Title="IPv4Fields_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_IPv4Fields_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="5887082b-379f-45b0-ba6e-ec83cdc11687" Title="IPv4Packet Class" Url="html/T_SharpPcap_Packets_IPv4Packet.htm">
+    <HelpTOCNode Id="697367b9-46e3-4ec9-be22-6848ffad87e4" Title="IPv4Packet Class" Url="html/T_SharpPcap_Packets_IPv4Packet.htm">
       <HelpTOCNode Title="IPv4Packet Members" Url="html/AllMembers_T_SharpPcap_Packets_IPv4Packet.htm" />
-      <HelpTOCNode Id="154a927e-a594-4c51-b63f-b9ca14272300" Title="IPv4Packet Constructor " Url="html/Overload_SharpPcap_Packets_IPv4Packet__ctor.htm">
+      <HelpTOCNode Id="7e8cc46e-117e-4e3a-a042-77b4d59d6a45" Title="IPv4Packet Constructor " Url="html/Overload_SharpPcap_Packets_IPv4Packet__ctor.htm">
         <HelpTOCNode Title="IPv4Packet Constructor (Int32, Byte[])" Url="html/M_SharpPcap_Packets_IPv4Packet__ctor.htm" />
         <HelpTOCNode Title="IPv4Packet Constructor (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_IPv4Packet__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2b205c81-5aa9-49a5-ba8f-5c082100b830" Title="IPv4Packet Fields" Url="html/Fields_T_SharpPcap_Packets_IPv4Packet.htm">
+      <HelpTOCNode Id="27c42e1e-ac85-4ed4-b977-dc4ce7e13b3f" Title="IPv4Packet Fields" Url="html/Fields_T_SharpPcap_Packets_IPv4Packet.htm">
         <HelpTOCNode Title="_ipOffset Field" Url="html/F_SharpPcap_Packets_IPv4Packet__ipOffset.htm" />
         <HelpTOCNode Title="ipVersion Field" Url="html/F_SharpPcap_Packets_IPv4Packet_ipVersion.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3ad5b16d-686c-402f-9f0a-6d7e22d3f067" Title="IPv4Packet Methods " Url="html/Methods_T_SharpPcap_Packets_IPv4Packet.htm">
+      <HelpTOCNode Id="37957ec7-0e60-413d-8f0d-ac62d5c30b6d" Title="IPv4Packet Methods " Url="html/Methods_T_SharpPcap_Packets_IPv4Packet.htm">
         <HelpTOCNode Title="AttachPseudoIPHeader Method " Url="html/M_SharpPcap_Packets_IPv4Packet_AttachPseudoIPHeader.htm" />
-        <HelpTOCNode Id="b719bfcd-51a0-429d-960a-94ec331c57e3" Title="ComputeIPChecksum Method " Url="html/Overload_SharpPcap_Packets_IPv4Packet_ComputeIPChecksum.htm">
+        <HelpTOCNode Id="7071c6eb-7e2d-4bfc-9a5c-3355818122a5" Title="ComputeIPChecksum Method " Url="html/Overload_SharpPcap_Packets_IPv4Packet_ComputeIPChecksum.htm">
           <HelpTOCNode Title="ComputeIPChecksum Method " Url="html/M_SharpPcap_Packets_IPv4Packet_ComputeIPChecksum.htm" />
           <HelpTOCNode Title="ComputeIPChecksum Method (Boolean)" Url="html/M_SharpPcap_Packets_IPv4Packet_ComputeIPChecksum_1.htm" />
         </HelpTOCNode>
@@ -1368,7 +1370,7 @@
         <HelpTOCNode Title="ToColoredVerboseString Method " Url="html/M_SharpPcap_Packets_IPv4Packet_ToColoredVerboseString.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_IPv4Packet_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a53cbc9f-0090-4b41-9bff-61e0dcd375d5" Title="IPv4Packet Properties " Url="html/Properties_T_SharpPcap_Packets_IPv4Packet.htm">
+      <HelpTOCNode Id="2e86fd50-936d-4ee2-9ae2-08b6f081dd64" Title="IPv4Packet Properties " Url="html/Properties_T_SharpPcap_Packets_IPv4Packet.htm">
         <HelpTOCNode Title="Checksum Property " Url="html/P_SharpPcap_Packets_IPv4Packet_Checksum.htm" />
         <HelpTOCNode Title="Color Property " Url="html/P_SharpPcap_Packets_IPv4Packet_Color.htm" />
         <HelpTOCNode Title="Data Property " Url="html/P_SharpPcap_Packets_IPv4Packet_Data.htm" />
@@ -1395,20 +1397,20 @@
         <HelpTOCNode Title="Version Property " Url="html/P_SharpPcap_Packets_IPv4Packet_Version.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5a5a049b-ed18-457d-bf10-b0c33bd2eab3" Title="IPv4Packet.TestProbe Class" Url="html/T_SharpPcap_Packets_IPv4Packet_TestProbe.htm">
+    <HelpTOCNode Id="1079bdc8-557d-4631-822a-02dbc282abb0" Title="IPv4Packet.TestProbe Class" Url="html/T_SharpPcap_Packets_IPv4Packet_TestProbe.htm">
       <HelpTOCNode Title="IPv4Packet.TestProbe Members" Url="html/AllMembers_T_SharpPcap_Packets_IPv4Packet_TestProbe.htm" />
       <HelpTOCNode Title="IPv4Packet.TestProbe Constructor " Url="html/M_SharpPcap_Packets_IPv4Packet_TestProbe__ctor.htm" />
-      <HelpTOCNode Id="316508d4-3e12-46df-b655-68263bb6f177" Title="IPv4Packet.TestProbe Methods " Url="html/Methods_T_SharpPcap_Packets_IPv4Packet_TestProbe.htm">
+      <HelpTOCNode Id="8e2e348f-9ab1-42d7-9a1d-8c1ca1fc0f00" Title="IPv4Packet.TestProbe Methods " Url="html/Methods_T_SharpPcap_Packets_IPv4Packet_TestProbe.htm">
         <HelpTOCNode Title="ComputedSenderIPChecksum Method " Url="html/M_SharpPcap_Packets_IPv4Packet_TestProbe_ComputedSenderIPChecksum.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9ee2f647-a878-4899-966e-28205c66629e" Title="IPv4Packet.TestProbe Properties " Url="html/Properties_T_SharpPcap_Packets_IPv4Packet_TestProbe.htm">
+      <HelpTOCNode Id="e719b039-1ea7-42fb-942c-f320643337d8" Title="IPv4Packet.TestProbe Properties " Url="html/Properties_T_SharpPcap_Packets_IPv4Packet_TestProbe.htm">
         <HelpTOCNode Title="ComputedReceiverIPChecksum Property " Url="html/P_SharpPcap_Packets_IPv4Packet_TestProbe_ComputedReceiverIPChecksum.htm" />
         <HelpTOCNode Title="Enclosing_Instance Property " Url="html/P_SharpPcap_Packets_IPv4Packet_TestProbe_Enclosing_Instance.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7f20933f-3ddf-4a97-9fe9-41ab0a0884a7" Title="IPv4Packet.TypesOfService_Fields Structure" Url="html/T_SharpPcap_Packets_IPv4Packet_TypesOfService_Fields.htm">
+    <HelpTOCNode Id="be5851da-fdaa-4f6d-9ece-ca1381ec4462" Title="IPv4Packet.TypesOfService_Fields Structure" Url="html/T_SharpPcap_Packets_IPv4Packet_TypesOfService_Fields.htm">
       <HelpTOCNode Title="IPv4Packet.TypesOfService_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_IPv4Packet_TypesOfService_Fields.htm" />
-      <HelpTOCNode Id="0f1968bf-6fed-4471-ac8d-fb31def97cd8" Title="IPv4Packet.TypesOfService_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IPv4Packet_TypesOfService_Fields.htm">
+      <HelpTOCNode Id="a193f373-b9ef-4214-a1ec-009c2e1951ca" Title="IPv4Packet.TypesOfService_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IPv4Packet_TypesOfService_Fields.htm">
         <HelpTOCNode Title="MAXIMIZE_RELIABILITY Field" Url="html/F_SharpPcap_Packets_IPv4Packet_TypesOfService_Fields_MAXIMIZE_RELIABILITY.htm" />
         <HelpTOCNode Title="MAXIMIZE_THROUGHPUT Field" Url="html/F_SharpPcap_Packets_IPv4Packet_TypesOfService_Fields_MAXIMIZE_THROUGHPUT.htm" />
         <HelpTOCNode Title="MINIMIZE_DELAY Field" Url="html/F_SharpPcap_Packets_IPv4Packet_TypesOfService_Fields_MINIMIZE_DELAY.htm" />
@@ -1417,9 +1419,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="IPv4Packet.TypesOfService_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_IPv4Packet_TypesOfService_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="9eca6a7e-7c42-45a5-893f-1dd382607d92" Title="IPv6Fields_Fields Structure" Url="html/T_SharpPcap_Packets_IPv6Fields_Fields.htm">
+    <HelpTOCNode Id="b06a3326-1faa-4d8d-baa0-c2ef1850b63f" Title="IPv6Fields_Fields Structure" Url="html/T_SharpPcap_Packets_IPv6Fields_Fields.htm">
       <HelpTOCNode Title="IPv6Fields_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_IPv6Fields_Fields.htm" />
-      <HelpTOCNode Id="1c4ce54b-c70b-4433-9101-80eb69ff237f" Title="IPv6Fields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IPv6Fields_Fields.htm">
+      <HelpTOCNode Id="469f5a68-4889-4d02-ad8a-0eb09661b72b" Title="IPv6Fields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_IPv6Fields_Fields.htm">
         <HelpTOCNode Title="DST_ADDRESS_LEN Field" Url="html/F_SharpPcap_Packets_IPv6Fields_Fields_DST_ADDRESS_LEN.htm" />
         <HelpTOCNode Title="DST_ADDRESS_POS Field" Url="html/F_SharpPcap_Packets_IPv6Fields_Fields_DST_ADDRESS_POS.htm" />
         <HelpTOCNode Title="HOP_LIMIT_LEN Field" Url="html/F_SharpPcap_Packets_IPv6Fields_Fields_HOP_LIMIT_LEN.htm" />
@@ -1436,24 +1438,24 @@
       </HelpTOCNode>
       <HelpTOCNode Title="IPv6Fields_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_IPv6Fields_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="b51ed8eb-8e3a-4863-b81f-9745976ea568" Title="IPv6Packet Class" Url="html/T_SharpPcap_Packets_IPv6Packet.htm">
+    <HelpTOCNode Id="8b477c52-08c6-4ff7-b4fd-568ff2f6ac15" Title="IPv6Packet Class" Url="html/T_SharpPcap_Packets_IPv6Packet.htm">
       <HelpTOCNode Title="IPv6Packet Members" Url="html/AllMembers_T_SharpPcap_Packets_IPv6Packet.htm" />
-      <HelpTOCNode Id="e63a4d6d-8495-4025-a16c-a9b3cf04a42d" Title="IPv6Packet Constructor " Url="html/Overload_SharpPcap_Packets_IPv6Packet__ctor.htm">
+      <HelpTOCNode Id="6a6c2980-1800-4d31-bb82-4bf036d82dc3" Title="IPv6Packet Constructor " Url="html/Overload_SharpPcap_Packets_IPv6Packet__ctor.htm">
         <HelpTOCNode Title="IPv6Packet Constructor (Int32, Byte[])" Url="html/M_SharpPcap_Packets_IPv6Packet__ctor.htm" />
         <HelpTOCNode Title="IPv6Packet Constructor (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_IPv6Packet__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="50e01d8b-01b9-40d7-8ccc-ffa63cae18ae" Title="IPv6Packet Fields" Url="html/Fields_T_SharpPcap_Packets_IPv6Packet.htm">
+      <HelpTOCNode Id="18ee815b-028a-4609-8488-b791ca50ff67" Title="IPv6Packet Fields" Url="html/Fields_T_SharpPcap_Packets_IPv6Packet.htm">
         <HelpTOCNode Title="_ipv6Offset Field" Url="html/F_SharpPcap_Packets_IPv6Packet__ipv6Offset.htm" />
         <HelpTOCNode Title="ipVersion Field" Url="html/F_SharpPcap_Packets_IPv6Packet_ipVersion.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7c15b684-126c-483f-aaa8-e03059088dfd" Title="IPv6Packet Methods " Url="html/Methods_T_SharpPcap_Packets_IPv6Packet.htm">
+      <HelpTOCNode Id="7a31054c-9562-42c4-a707-dba6affc345b" Title="IPv6Packet Methods " Url="html/Methods_T_SharpPcap_Packets_IPv6Packet.htm">
         <HelpTOCNode Title="AttachPseudoIPHeader Method " Url="html/M_SharpPcap_Packets_IPv6Packet_AttachPseudoIPHeader.htm" />
         <HelpTOCNode Title="OnOffsetChanged Method " Url="html/M_SharpPcap_Packets_IPv6Packet_OnOffsetChanged.htm" />
         <HelpTOCNode Title="ToColoredString Method " Url="html/M_SharpPcap_Packets_IPv6Packet_ToColoredString.htm" />
         <HelpTOCNode Title="ToColoredVerboseString Method " Url="html/M_SharpPcap_Packets_IPv6Packet_ToColoredVerboseString.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_IPv6Packet_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="754cf5b3-4986-4b9e-99a2-f1185aeea4dc" Title="IPv6Packet Properties " Url="html/Properties_T_SharpPcap_Packets_IPv6Packet.htm">
+      <HelpTOCNode Id="77bbcfd2-833e-4972-a41b-a96181114094" Title="IPv6Packet Properties " Url="html/Properties_T_SharpPcap_Packets_IPv6Packet.htm">
         <HelpTOCNode Title="Color Property " Url="html/P_SharpPcap_Packets_IPv6Packet_Color.htm" />
         <HelpTOCNode Title="Data Property " Url="html/P_SharpPcap_Packets_IPv6Packet_Data.htm" />
         <HelpTOCNode Title="DestinationAddress Property " Url="html/P_SharpPcap_Packets_IPv6Packet_DestinationAddress.htm" />
@@ -1470,19 +1472,19 @@
         <HelpTOCNode Title="Version Property " Url="html/P_SharpPcap_Packets_IPv6Packet_Version.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c312cf5a-19ce-4c10-8302-c848c6fbe9e2" Title="LinkLayer Class" Url="html/T_SharpPcap_Packets_LinkLayer.htm">
+    <HelpTOCNode Id="38a47b03-84b6-4175-ade8-fed40daeecb8" Title="LinkLayer Class" Url="html/T_SharpPcap_Packets_LinkLayer.htm">
       <HelpTOCNode Title="LinkLayer Members" Url="html/AllMembers_T_SharpPcap_Packets_LinkLayer.htm" />
       <HelpTOCNode Title="LinkLayer Constructor " Url="html/M_SharpPcap_Packets_LinkLayer__ctor.htm" />
-      <HelpTOCNode Id="8cd38abe-84ae-460e-8c42-14133ed9d305" Title="LinkLayer Methods " Url="html/Methods_T_SharpPcap_Packets_LinkLayer.htm">
+      <HelpTOCNode Id="ddc2642e-3607-48ab-9341-a7d6b9552730" Title="LinkLayer Methods " Url="html/Methods_T_SharpPcap_Packets_LinkLayer.htm">
         <HelpTOCNode Title="getDescription Method " Url="html/M_SharpPcap_Packets_LinkLayer_getDescription.htm" />
         <HelpTOCNode Title="getLinkLayerLength Method " Url="html/M_SharpPcap_Packets_LinkLayer_getLinkLayerLength.htm" />
         <HelpTOCNode Title="getProtoOffset Method " Url="html/M_SharpPcap_Packets_LinkLayer_getProtoOffset.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="LinkLayers Interface" Url="html/T_SharpPcap_Packets_LinkLayers.htm" />
-    <HelpTOCNode Id="4f4a5cb4-6f7f-4ee4-a013-972c9e5a8803" Title="LinkLayers_Fields Structure" Url="html/T_SharpPcap_Packets_LinkLayers_Fields.htm">
+    <HelpTOCNode Id="046a60f7-b099-41fd-bc5b-f13c31157724" Title="LinkLayers_Fields Structure" Url="html/T_SharpPcap_Packets_LinkLayers_Fields.htm">
       <HelpTOCNode Title="LinkLayers_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_LinkLayers_Fields.htm" />
-      <HelpTOCNode Id="9e795a75-d3bc-49d8-87e2-9a6406491e0e" Title="LinkLayers_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_LinkLayers_Fields.htm">
+      <HelpTOCNode Id="f12506b3-4002-4d9d-b7ef-046251114cce" Title="LinkLayers_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_LinkLayers_Fields.htm">
         <HelpTOCNode Title="ARCNET Field" Url="html/F_SharpPcap_Packets_LinkLayers_Fields_ARCNET.htm" />
         <HelpTOCNode Title="ATM_CLIP Field" Url="html/F_SharpPcap_Packets_LinkLayers_Fields_ATM_CLIP.htm" />
         <HelpTOCNode Title="ATM_RFC1483 Field" Url="html/F_SharpPcap_Packets_LinkLayers_Fields_ATM_RFC1483.htm" />
@@ -1508,32 +1510,32 @@
       </HelpTOCNode>
       <HelpTOCNode Title="LinkLayers_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_LinkLayers_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="2069ab25-717e-4268-abf9-5877cff5e184" Title="MACAddress Class" Url="html/T_SharpPcap_Packets_MACAddress.htm">
+    <HelpTOCNode Id="88f02674-a677-43fc-8658-fa8ad63e69c9" Title="MACAddress Class" Url="html/T_SharpPcap_Packets_MACAddress.htm">
       <HelpTOCNode Title="MACAddress Members" Url="html/AllMembers_T_SharpPcap_Packets_MACAddress.htm" />
       <HelpTOCNode Title="MACAddress Constructor " Url="html/M_SharpPcap_Packets_MACAddress__ctor.htm" />
-      <HelpTOCNode Id="e7f7c4f4-5619-45e6-8384-835ac668750e" Title="MACAddress Fields" Url="html/Fields_T_SharpPcap_Packets_MACAddress.htm">
+      <HelpTOCNode Id="bc923531-042f-4197-b8a1-e6f6ffe35b1c" Title="MACAddress Fields" Url="html/Fields_T_SharpPcap_Packets_MACAddress.htm">
         <HelpTOCNode Title="WIDTH Field" Url="html/F_SharpPcap_Packets_MACAddress_WIDTH.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="765a2762-23ad-4842-932e-542db571acfb" Title="MACAddress Methods " Url="html/Methods_T_SharpPcap_Packets_MACAddress.htm">
-        <HelpTOCNode Id="6c8f6929-1795-426c-98ab-a5fb36128bf8" Title="extract Method " Url="html/Overload_SharpPcap_Packets_MACAddress_extract.htm">
+      <HelpTOCNode Id="5ca2adb4-0969-4cc9-895b-cbd896d38f68" Title="MACAddress Methods " Url="html/Methods_T_SharpPcap_Packets_MACAddress.htm">
+        <HelpTOCNode Id="c9b9f34b-9774-43f7-96a0-460da3692932" Title="extract Method " Url="html/Overload_SharpPcap_Packets_MACAddress_extract.htm">
           <HelpTOCNode Title="extract Method (Int64)" Url="html/M_SharpPcap_Packets_MACAddress_extract_1.htm" />
           <HelpTOCNode Title="extract Method (Int32, Byte[])" Url="html/M_SharpPcap_Packets_MACAddress_extract.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bdfa733c-200e-4462-aeb2-ae79d163d89e" Title="insert Method " Url="html/Overload_SharpPcap_Packets_MACAddress_insert.htm">
+        <HelpTOCNode Id="405f7a5e-e8d3-4a43-8c00-ece8c4da1078" Title="insert Method " Url="html/Overload_SharpPcap_Packets_MACAddress_insert.htm">
           <HelpTOCNode Title="insert Method (String, Byte[], Int32)" Url="html/M_SharpPcap_Packets_MACAddress_insert.htm" />
           <HelpTOCNode Title="insert Method (String, Int32, Byte[])" Url="html/M_SharpPcap_Packets_MACAddress_insert_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="random Method " Url="html/M_SharpPcap_Packets_MACAddress_random.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="aebcb6d4-48e5-4afd-ade7-3162d2e126e0" Title="Packet Class" Url="html/T_SharpPcap_Packets_Packet.htm">
+    <HelpTOCNode Id="266e9aff-c7ca-4bbf-8099-9159db0d760a" Title="Packet Class" Url="html/T_SharpPcap_Packets_Packet.htm">
       <HelpTOCNode Title="Packet Members" Url="html/AllMembers_T_SharpPcap_Packets_Packet.htm" />
       <HelpTOCNode Title="Packet Constructor " Url="html/M_SharpPcap_Packets_Packet__ctor.htm" />
-      <HelpTOCNode Id="2f391228-f39e-4bee-8c7a-0990c73112b2" Title="Packet Methods " Url="html/Methods_T_SharpPcap_Packets_Packet.htm">
+      <HelpTOCNode Id="8913e34b-bbb3-4824-91f5-0b903849c25d" Title="Packet Methods " Url="html/Methods_T_SharpPcap_Packets_Packet.htm">
         <HelpTOCNode Title="ToColoredString Method " Url="html/M_SharpPcap_Packets_Packet_ToColoredString.htm" />
         <HelpTOCNode Title="ToColoredVerboseString Method " Url="html/M_SharpPcap_Packets_Packet_ToColoredVerboseString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="11e192d1-89d8-4971-87b8-28de6b715376" Title="Packet Properties " Url="html/Properties_T_SharpPcap_Packets_Packet.htm">
+      <HelpTOCNode Id="59b11a73-fa82-479c-b8ed-6b427d0a4d2d" Title="Packet Properties " Url="html/Properties_T_SharpPcap_Packets_Packet.htm">
         <HelpTOCNode Title="Bytes Property " Url="html/P_SharpPcap_Packets_Packet_Bytes.htm" />
         <HelpTOCNode Title="Color Property " Url="html/P_SharpPcap_Packets_Packet_Color.htm" />
         <HelpTOCNode Title="Data Property " Url="html/P_SharpPcap_Packets_Packet_Data.htm" />
@@ -1542,31 +1544,31 @@
         <HelpTOCNode Title="Timeval Property " Url="html/P_SharpPcap_Packets_Packet_Timeval.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="50c97435-4ac0-444d-9613-d2b5c2afc041" Title="PacketEncoding Class" Url="html/T_SharpPcap_Packets_PacketEncoding.htm">
+    <HelpTOCNode Id="433a0e09-9dcd-4a6b-a2e8-cf03af13cfec" Title="PacketEncoding Class" Url="html/T_SharpPcap_Packets_PacketEncoding.htm">
       <HelpTOCNode Title="PacketEncoding Members" Url="html/AllMembers_T_SharpPcap_Packets_PacketEncoding.htm" />
       <HelpTOCNode Title="PacketEncoding Constructor " Url="html/M_SharpPcap_Packets_PacketEncoding__ctor.htm" />
-      <HelpTOCNode Id="fac7acc3-3120-4aa6-9153-5984ce72d2e5" Title="PacketEncoding Methods " Url="html/Methods_T_SharpPcap_Packets_PacketEncoding.htm">
-        <HelpTOCNode Id="f68f3f9b-1fa4-4ce2-aede-a650ee3c5c15" Title="extractData Method " Url="html/Overload_SharpPcap_Packets_PacketEncoding_extractData.htm">
+      <HelpTOCNode Id="ae3d5377-053c-4b94-a506-c7460276ca9e" Title="PacketEncoding Methods " Url="html/Methods_T_SharpPcap_Packets_PacketEncoding.htm">
+        <HelpTOCNode Id="13a40049-18f9-42f3-b07a-a76c08087a78" Title="extractData Method " Url="html/Overload_SharpPcap_Packets_PacketEncoding_extractData.htm">
           <HelpTOCNode Title="extractData Method (Int32, Int32, Byte[])" Url="html/M_SharpPcap_Packets_PacketEncoding_extractData.htm" />
           <HelpTOCNode Title="extractData Method (Int32, Int32, Byte[], Int32)" Url="html/M_SharpPcap_Packets_PacketEncoding_extractData_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="extractHeader Method " Url="html/M_SharpPcap_Packets_PacketEncoding_extractHeader.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6176b3a4-48f7-4ce7-ae96-c2d2aa240bea" Title="PacketFactory Class" Url="html/T_SharpPcap_Packets_PacketFactory.htm">
+    <HelpTOCNode Id="4c858e19-9a59-4c4c-914a-14cde61910b2" Title="PacketFactory Class" Url="html/T_SharpPcap_Packets_PacketFactory.htm">
       <HelpTOCNode Title="PacketFactory Members" Url="html/AllMembers_T_SharpPcap_Packets_PacketFactory.htm" />
       <HelpTOCNode Title="PacketFactory Constructor " Url="html/M_SharpPcap_Packets_PacketFactory__ctor.htm" />
-      <HelpTOCNode Id="93805419-f430-4718-8527-f58b6a05d393" Title="PacketFactory Methods " Url="html/Methods_T_SharpPcap_Packets_PacketFactory.htm">
-        <HelpTOCNode Id="c73f9090-94c1-4ce5-b95c-c964cb7f2669" Title="dataToPacket Method " Url="html/Overload_SharpPcap_Packets_PacketFactory_dataToPacket.htm">
+      <HelpTOCNode Id="22f12ffd-7285-47d9-a268-01570326d069" Title="PacketFactory Methods " Url="html/Methods_T_SharpPcap_Packets_PacketFactory.htm">
+        <HelpTOCNode Id="ab70d870-c64b-478e-b13a-a1950ea5e4e1" Title="dataToPacket Method " Url="html/Overload_SharpPcap_Packets_PacketFactory_dataToPacket.htm">
           <HelpTOCNode Title="dataToPacket Method (Int32, Byte[])" Url="html/M_SharpPcap_Packets_PacketFactory_dataToPacket.htm" />
           <HelpTOCNode Title="dataToPacket Method (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_PacketFactory_dataToPacket_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="TCPFields Interface" Url="html/T_SharpPcap_Packets_TCPFields.htm" />
-    <HelpTOCNode Id="c018475e-9d42-45b2-b7c7-49109a98ae01" Title="TCPFields_Fields Structure" Url="html/T_SharpPcap_Packets_TCPFields_Fields.htm">
+    <HelpTOCNode Id="5591bc1b-28b1-4384-a60c-162217fda1ed" Title="TCPFields_Fields Structure" Url="html/T_SharpPcap_Packets_TCPFields_Fields.htm">
       <HelpTOCNode Title="TCPFields_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_TCPFields_Fields.htm" />
-      <HelpTOCNode Id="0aa2b9c4-22e7-4e66-841f-472164b7e985" Title="TCPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_TCPFields_Fields.htm">
+      <HelpTOCNode Id="33ee37fe-8494-4214-8965-738c48fb8718" Title="TCPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_TCPFields_Fields.htm">
         <HelpTOCNode Title="TCP_ACK_LEN Field" Url="html/F_SharpPcap_Packets_TCPFields_Fields_TCP_ACK_LEN.htm" />
         <HelpTOCNode Title="TCP_ACK_MASK Field" Url="html/F_SharpPcap_Packets_TCPFields_Fields_TCP_ACK_MASK.htm" />
         <HelpTOCNode Title="TCP_ACK_POS Field" Url="html/F_SharpPcap_Packets_TCPFields_Fields_TCP_ACK_POS.htm" />
@@ -1594,23 +1596,23 @@
       </HelpTOCNode>
       <HelpTOCNode Title="TCPFields_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_TCPFields_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f2d60e02-4713-441a-9e59-af846381637d" Title="TCPPacket Class" Url="html/T_SharpPcap_Packets_TCPPacket.htm">
+    <HelpTOCNode Id="ff632ccb-f6d8-4c55-b494-4f273dabb1b3" Title="TCPPacket Class" Url="html/T_SharpPcap_Packets_TCPPacket.htm">
       <HelpTOCNode Title="TCPPacket Members" Url="html/AllMembers_T_SharpPcap_Packets_TCPPacket.htm" />
-      <HelpTOCNode Id="402c7866-ff95-48fa-abcb-f7ae569cf198" Title="TCPPacket Constructor " Url="html/Overload_SharpPcap_Packets_TCPPacket__ctor.htm">
+      <HelpTOCNode Id="e43617a1-76c0-4b1a-a46d-55745348c7b2" Title="TCPPacket Constructor " Url="html/Overload_SharpPcap_Packets_TCPPacket__ctor.htm">
         <HelpTOCNode Title="TCPPacket Constructor (Int32, Byte[])" Url="html/M_SharpPcap_Packets_TCPPacket__ctor.htm" />
         <HelpTOCNode Title="TCPPacket Constructor (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_TCPPacket__ctor_1.htm" />
         <HelpTOCNode Title="TCPPacket Constructor (Int32, Byte[], Boolean)" Url="html/M_SharpPcap_Packets_TCPPacket__ctor_2.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="TCPPacket Fields" Url="html/Fields_T_SharpPcap_Packets_TCPPacket.htm" />
-      <HelpTOCNode Id="46c4b061-bdc5-465b-a66e-74e2ce6e822c" Title="TCPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_TCPPacket.htm">
+      <HelpTOCNode Id="7868a9fe-65da-4153-91d3-43dd018fb65d" Title="TCPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_TCPPacket.htm">
         <HelpTOCNode Title="ComputeIPChecksum Method " Url="html/Overload_SharpPcap_Packets_TCPPacket_ComputeIPChecksum.htm" />
-        <HelpTOCNode Id="6aa1ff3d-04f8-4e06-be26-f7e3891f1b60" Title="ComputeTCPChecksum Method " Url="html/Overload_SharpPcap_Packets_TCPPacket_ComputeTCPChecksum.htm">
+        <HelpTOCNode Id="1ad8ae56-797e-4f6b-a2fa-598f6be3e39e" Title="ComputeTCPChecksum Method " Url="html/Overload_SharpPcap_Packets_TCPPacket_ComputeTCPChecksum.htm">
           <HelpTOCNode Title="ComputeTCPChecksum Method " Url="html/M_SharpPcap_Packets_TCPPacket_ComputeTCPChecksum.htm" />
           <HelpTOCNode Title="ComputeTCPChecksum Method (Boolean)" Url="html/M_SharpPcap_Packets_TCPPacket_ComputeTCPChecksum_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="getUrgentPointer Method " Url="html/M_SharpPcap_Packets_TCPPacket_getUrgentPointer.htm" />
         <HelpTOCNode Title="MakeValid Method " Url="html/M_SharpPcap_Packets_TCPPacket_MakeValid.htm" />
-        <HelpTOCNode Id="6f7d054a-bddc-4b1e-9053-f76aa56b0d87" Title="RandomPacket Method " Url="html/Overload_SharpPcap_Packets_TCPPacket_RandomPacket.htm">
+        <HelpTOCNode Id="e0a230ee-af2f-473f-a8b1-4ae0696b50a5" Title="RandomPacket Method " Url="html/Overload_SharpPcap_Packets_TCPPacket_RandomPacket.htm">
           <HelpTOCNode Title="RandomPacket Method " Url="html/M_SharpPcap_Packets_TCPPacket_RandomPacket.htm" />
           <HelpTOCNode Title="RandomPacket Method (IPPacket.IPVersions)" Url="html/M_SharpPcap_Packets_TCPPacket_RandomPacket_1.htm" />
           <HelpTOCNode Title="RandomPacket Method (Int32)" Url="html/M_SharpPcap_Packets_TCPPacket_RandomPacket_2.htm" />
@@ -1622,7 +1624,7 @@
         <HelpTOCNode Title="ToColoredVerboseString Method " Url="html/M_SharpPcap_Packets_TCPPacket_ToColoredVerboseString.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_TCPPacket_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1bfcb562-8063-4095-8b4f-71cc183fd447" Title="TCPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_TCPPacket.htm">
+      <HelpTOCNode Id="ee694f8e-fa82-4824-96f6-a92d8e67f5bb" Title="TCPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_TCPPacket.htm">
         <HelpTOCNode Title="Ack Property " Url="html/P_SharpPcap_Packets_TCPPacket_Ack.htm" />
         <HelpTOCNode Title="AcknowledgmentNumber Property " Url="html/P_SharpPcap_Packets_TCPPacket_AcknowledgmentNumber.htm" />
         <HelpTOCNode Title="Checksum Property " Url="html/P_SharpPcap_Packets_TCPPacket_Checksum.htm" />
@@ -1652,9 +1654,9 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="UDPFields Interface" Url="html/T_SharpPcap_Packets_UDPFields.htm" />
-    <HelpTOCNode Id="854d6dc6-7183-4dd5-96c7-3e5672c238f4" Title="UDPFields_Fields Structure" Url="html/T_SharpPcap_Packets_UDPFields_Fields.htm">
+    <HelpTOCNode Id="450c5a64-42f7-4074-9a88-f8cc1cd143ab" Title="UDPFields_Fields Structure" Url="html/T_SharpPcap_Packets_UDPFields_Fields.htm">
       <HelpTOCNode Title="UDPFields_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_UDPFields_Fields.htm" />
-      <HelpTOCNode Id="0386c4ac-fb88-4844-abc9-f58a61521c79" Title="UDPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_UDPFields_Fields.htm">
+      <HelpTOCNode Id="edd3ea96-1732-4bf7-9cfc-1a44f26a4b70" Title="UDPFields_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_UDPFields_Fields.htm">
         <HelpTOCNode Title="UDP_CSUM_LEN Field" Url="html/F_SharpPcap_Packets_UDPFields_Fields_UDP_CSUM_LEN.htm" />
         <HelpTOCNode Title="UDP_CSUM_POS Field" Url="html/F_SharpPcap_Packets_UDPFields_Fields_UDP_CSUM_POS.htm" />
         <HelpTOCNode Title="UDP_DP_POS Field" Url="html/F_SharpPcap_Packets_UDPFields_Fields_UDP_DP_POS.htm" />
@@ -1666,16 +1668,16 @@
       </HelpTOCNode>
       <HelpTOCNode Title="UDPFields_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_UDPFields_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6429a7e1-6f4a-4a29-97a6-f515035e7065" Title="UDPPacket Class" Url="html/T_SharpPcap_Packets_UDPPacket.htm">
+    <HelpTOCNode Id="d31223b5-3bad-4485-8920-cd2ccbd84536" Title="UDPPacket Class" Url="html/T_SharpPcap_Packets_UDPPacket.htm">
       <HelpTOCNode Title="UDPPacket Members" Url="html/AllMembers_T_SharpPcap_Packets_UDPPacket.htm" />
-      <HelpTOCNode Id="54b3e69e-207b-40e9-894f-82671f3d0e61" Title="UDPPacket Constructor " Url="html/Overload_SharpPcap_Packets_UDPPacket__ctor.htm">
+      <HelpTOCNode Id="9b9dbdbf-b556-43f5-a953-d4a1029c4196" Title="UDPPacket Constructor " Url="html/Overload_SharpPcap_Packets_UDPPacket__ctor.htm">
         <HelpTOCNode Title="UDPPacket Constructor (Int32, Byte[])" Url="html/M_SharpPcap_Packets_UDPPacket__ctor.htm" />
         <HelpTOCNode Title="UDPPacket Constructor (Int32, Byte[], Timeval)" Url="html/M_SharpPcap_Packets_UDPPacket__ctor_1.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="UDPPacket Fields" Url="html/Fields_T_SharpPcap_Packets_UDPPacket.htm" />
-      <HelpTOCNode Id="460ded32-cf7b-41cf-b75d-4a49be0500e5" Title="UDPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_UDPPacket.htm">
+      <HelpTOCNode Id="a4d67847-a892-438e-bca6-6a83448b9981" Title="UDPPacket Methods " Url="html/Methods_T_SharpPcap_Packets_UDPPacket.htm">
         <HelpTOCNode Title="ComputeIPChecksum Method " Url="html/Overload_SharpPcap_Packets_UDPPacket_ComputeIPChecksum.htm" />
-        <HelpTOCNode Id="210b65ba-495e-4c1c-a483-6d95b7e8265b" Title="ComputeUDPChecksum Method " Url="html/Overload_SharpPcap_Packets_UDPPacket_ComputeUDPChecksum.htm">
+        <HelpTOCNode Id="cc74e838-3eb4-458b-b108-5fbe1cedde7b" Title="ComputeUDPChecksum Method " Url="html/Overload_SharpPcap_Packets_UDPPacket_ComputeUDPChecksum.htm">
           <HelpTOCNode Title="ComputeUDPChecksum Method " Url="html/M_SharpPcap_Packets_UDPPacket_ComputeUDPChecksum.htm" />
           <HelpTOCNode Title="ComputeUDPChecksum Method (Boolean)" Url="html/M_SharpPcap_Packets_UDPPacket_ComputeUDPChecksum_1.htm" />
         </HelpTOCNode>
@@ -1683,7 +1685,7 @@
         <HelpTOCNode Title="ToColoredString Method " Url="html/M_SharpPcap_Packets_UDPPacket_ToColoredString.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_UDPPacket_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="eae7b152-f135-483d-bea9-7927bf9ed08d" Title="UDPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_UDPPacket.htm">
+      <HelpTOCNode Id="d6dcb687-43b3-4c2a-83a7-1aa4b0e51e8d" Title="UDPPacket Properties " Url="html/Properties_T_SharpPcap_Packets_UDPPacket.htm">
         <HelpTOCNode Title="Checksum Property " Url="html/P_SharpPcap_Packets_UDPPacket_Checksum.htm" />
         <HelpTOCNode Title="Color Property " Url="html/P_SharpPcap_Packets_UDPPacket_Color.htm" />
         <HelpTOCNode Title="Data Property " Url="html/P_SharpPcap_Packets_UDPPacket_Data.htm" />
@@ -1703,11 +1705,11 @@
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="0364a496-2650-438e-88bd-3f6b057d7020" Title="SharpPcap.Packets.Util Namespace" Url="html/N_SharpPcap_Packets_Util.htm">
+  <HelpTOCNode Id="dd072f88-ced6-47fa-b87a-3fa3f8c0cd0e" Title="SharpPcap.Packets.Util Namespace" Url="html/N_SharpPcap_Packets_Util.htm">
     <HelpTOCNode Title="AnsiEscapeSequences Interface" Url="html/T_SharpPcap_Packets_Util_AnsiEscapeSequences.htm" />
-    <HelpTOCNode Id="52f61905-556f-49ee-9f9a-9e6e02e7d668" Title="AnsiEscapeSequences_Fields Structure" Url="html/T_SharpPcap_Packets_Util_AnsiEscapeSequences_Fields.htm">
+    <HelpTOCNode Id="2b7b65b1-6d7d-4ccb-ae27-b813a0d7f799" Title="AnsiEscapeSequences_Fields Structure" Url="html/T_SharpPcap_Packets_Util_AnsiEscapeSequences_Fields.htm">
       <HelpTOCNode Title="AnsiEscapeSequences_Fields Members" Url="html/AllMembers_T_SharpPcap_Packets_Util_AnsiEscapeSequences_Fields.htm" />
-      <HelpTOCNode Id="ca1b6f44-ca1d-406f-8b61-03d402efda9e" Title="AnsiEscapeSequences_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_Util_AnsiEscapeSequences_Fields.htm">
+      <HelpTOCNode Id="b6e6c0c1-9599-4f74-a3d5-47f5cd6af7ab" Title="AnsiEscapeSequences_Fields Fields" Url="html/Fields_T_SharpPcap_Packets_Util_AnsiEscapeSequences_Fields.htm">
         <HelpTOCNode Title="BLACK Field" Url="html/F_SharpPcap_Packets_Util_AnsiEscapeSequences_Fields_BLACK.htm" />
         <HelpTOCNode Title="BLUE Field" Url="html/F_SharpPcap_Packets_Util_AnsiEscapeSequences_Fields_BLUE.htm" />
         <HelpTOCNode Title="BLUE_BACKGROUND Field" Url="html/F_SharpPcap_Packets_Util_AnsiEscapeSequences_Fields_BLUE_BACKGROUND.htm" />
@@ -1740,11 +1742,11 @@
       </HelpTOCNode>
       <HelpTOCNode Title="AnsiEscapeSequences_Fields Methods " Url="html/Methods_T_SharpPcap_Packets_Util_AnsiEscapeSequences_Fields.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a293286c-9a4d-43ab-90fd-bf71cb371e66" Title="ArrayHelper Class" Url="html/T_SharpPcap_Packets_Util_ArrayHelper.htm">
+    <HelpTOCNode Id="9f5f099d-85c9-44d3-a431-fbb1fdbf2d10" Title="ArrayHelper Class" Url="html/T_SharpPcap_Packets_Util_ArrayHelper.htm">
       <HelpTOCNode Title="ArrayHelper Members" Url="html/AllMembers_T_SharpPcap_Packets_Util_ArrayHelper.htm" />
       <HelpTOCNode Title="ArrayHelper Constructor " Url="html/M_SharpPcap_Packets_Util_ArrayHelper__ctor.htm" />
-      <HelpTOCNode Id="499de774-7b61-4999-83c3-65388b0729c7" Title="ArrayHelper Methods " Url="html/Methods_T_SharpPcap_Packets_Util_ArrayHelper.htm">
-        <HelpTOCNode Id="c7586137-834d-4640-8221-ab9fe46560b7" Title="copy Method " Url="html/Overload_SharpPcap_Packets_Util_ArrayHelper_copy.htm">
+      <HelpTOCNode Id="529f7819-445b-4ab9-89e0-5f5e8d77931c" Title="ArrayHelper Methods " Url="html/Methods_T_SharpPcap_Packets_Util_ArrayHelper.htm">
+        <HelpTOCNode Id="7104d798-3d5d-46eb-940c-69ae0958f5ce" Title="copy Method " Url="html/Overload_SharpPcap_Packets_Util_ArrayHelper_copy.htm">
           <HelpTOCNode Title="copy Method (Byte[])" Url="html/M_SharpPcap_Packets_Util_ArrayHelper_copy.htm" />
           <HelpTOCNode Title="copy Method (Byte[], Int32)" Url="html/M_SharpPcap_Packets_Util_ArrayHelper_copy_1.htm" />
           <HelpTOCNode Title="copy Method (Byte[], Int32, Int32)" Url="html/M_SharpPcap_Packets_Util_ArrayHelper_copy_2.htm" />
@@ -1762,58 +1764,58 @@
         <HelpTOCNode Title="toBytesLittleEndian Method " Url="html/M_SharpPcap_Packets_Util_ArrayHelper_toBytesLittleEndian.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="387c136e-948e-49fe-bcbc-1062abdf2704" Title="HexHelper Class" Url="html/T_SharpPcap_Packets_Util_HexHelper.htm">
+    <HelpTOCNode Id="2e4cfe9a-bc68-4e36-ae2e-ec2212b167b2" Title="HexHelper Class" Url="html/T_SharpPcap_Packets_Util_HexHelper.htm">
       <HelpTOCNode Title="HexHelper Members" Url="html/AllMembers_T_SharpPcap_Packets_Util_HexHelper.htm" />
       <HelpTOCNode Title="HexHelper Constructor " Url="html/M_SharpPcap_Packets_Util_HexHelper__ctor.htm" />
-      <HelpTOCNode Id="80811637-6d60-4fea-9460-aa1e5ae1c680" Title="HexHelper Methods " Url="html/Methods_T_SharpPcap_Packets_Util_HexHelper.htm">
+      <HelpTOCNode Id="48c8fa8f-20e5-444f-8ab4-da33e07b931f" Title="HexHelper Methods " Url="html/Methods_T_SharpPcap_Packets_Util_HexHelper.htm">
         <HelpTOCNode Title="nibbleToDigit Method " Url="html/M_SharpPcap_Packets_Util_HexHelper_nibbleToDigit.htm" />
         <HelpTOCNode Title="toQuadString Method " Url="html/M_SharpPcap_Packets_Util_HexHelper_toQuadString.htm" />
-        <HelpTOCNode Id="d5c68651-cd78-4588-894b-c54141597261" Title="toString Method " Url="html/Overload_SharpPcap_Packets_Util_HexHelper_toString.htm">
+        <HelpTOCNode Id="3cee51f3-a1fc-4677-b9b5-b9f26cf44634" Title="toString Method " Url="html/Overload_SharpPcap_Packets_Util_HexHelper_toString.htm">
           <HelpTOCNode Title="toString Method (Byte)" Url="html/M_SharpPcap_Packets_Util_HexHelper_toString.htm" />
           <HelpTOCNode Title="toString Method (Byte[])" Url="html/M_SharpPcap_Packets_Util_HexHelper_toString_1.htm" />
           <HelpTOCNode Title="toString Method (Int32)" Url="html/M_SharpPcap_Packets_Util_HexHelper_toString_2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="79b0827e-04d1-4ea8-b341-a0fbe4ab4b73" Title="Timeval Class" Url="html/T_SharpPcap_Packets_Util_Timeval.htm">
+    <HelpTOCNode Id="ff6e63f1-efa7-4b37-b513-b845be272c7c" Title="Timeval Class" Url="html/T_SharpPcap_Packets_Util_Timeval.htm">
       <HelpTOCNode Title="Timeval Members" Url="html/AllMembers_T_SharpPcap_Packets_Util_Timeval.htm" />
       <HelpTOCNode Title="Timeval Constructor " Url="html/M_SharpPcap_Packets_Util_Timeval__ctor.htm" />
-      <HelpTOCNode Id="bdfefe4e-e6d2-4be9-9076-a42489ba17e9" Title="Timeval Methods " Url="html/Methods_T_SharpPcap_Packets_Util_Timeval.htm">
+      <HelpTOCNode Id="90494f40-80a4-4a27-a624-c2aed8720641" Title="Timeval Methods " Url="html/Methods_T_SharpPcap_Packets_Util_Timeval.htm">
         <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Packets_Util_Timeval_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="570c32a0-6f8d-4fd4-a99a-a90891a7f340" Title="Timeval Properties " Url="html/Properties_T_SharpPcap_Packets_Util_Timeval.htm">
+      <HelpTOCNode Id="2fad1665-5918-46d4-a7fd-3bbe9e6f0343" Title="Timeval Properties " Url="html/Properties_T_SharpPcap_Packets_Util_Timeval.htm">
         <HelpTOCNode Title="Date Property " Url="html/P_SharpPcap_Packets_Util_Timeval_Date.htm" />
         <HelpTOCNode Title="MicroSeconds Property " Url="html/P_SharpPcap_Packets_Util_Timeval_MicroSeconds.htm" />
         <HelpTOCNode Title="Seconds Property " Url="html/P_SharpPcap_Packets_Util_Timeval_Seconds.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="eb99a24c-620a-40d1-a0b8-eda08c9897c7" Title="SharpPcap.Protocols Namespace" Url="html/N_SharpPcap_Protocols.htm">
-    <HelpTOCNode Id="3fbce216-1562-45bc-8d01-3a4cde1cf764" Title="ARP Class" Url="html/T_SharpPcap_Protocols_ARP.htm">
+  <HelpTOCNode Id="fa717018-8883-4d09-8426-8283a45469b9" Title="SharpPcap.Protocols Namespace" Url="html/N_SharpPcap_Protocols.htm">
+    <HelpTOCNode Id="7a1caf3a-a576-4c17-83c9-a8c9ba373c7a" Title="ARP Class" Url="html/T_SharpPcap_Protocols_ARP.htm">
       <HelpTOCNode Title="ARP Members" Url="html/AllMembers_T_SharpPcap_Protocols_ARP.htm" />
-      <HelpTOCNode Id="46527b50-872a-456f-a287-d4351ec1aec5" Title="ARP Constructor " Url="html/Overload_SharpPcap_Protocols_ARP__ctor.htm">
+      <HelpTOCNode Id="f89d56a6-45d5-43ac-b2cc-b47c0a070888" Title="ARP Constructor " Url="html/Overload_SharpPcap_Protocols_ARP__ctor.htm">
         <HelpTOCNode Title="ARP Constructor " Url="html/M_SharpPcap_Protocols_ARP__ctor.htm" />
         <HelpTOCNode Title="ARP Constructor (String)" Url="html/M_SharpPcap_Protocols_ARP__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2c971730-207e-4cd0-bb2c-c5371472493e" Title="ARP Methods " Url="html/Methods_T_SharpPcap_Protocols_ARP.htm">
-        <HelpTOCNode Id="02e0a5cb-4c4d-4295-9719-6955790b6c06" Title="Resolve Method " Url="html/Overload_SharpPcap_Protocols_ARP_Resolve.htm">
+      <HelpTOCNode Id="10216876-846b-44ce-90a5-18b1d8054f0c" Title="ARP Methods " Url="html/Methods_T_SharpPcap_Protocols_ARP.htm">
+        <HelpTOCNode Id="7e8beae5-d9fd-4005-b2a4-52b291f8d42f" Title="Resolve Method " Url="html/Overload_SharpPcap_Protocols_ARP_Resolve.htm">
           <HelpTOCNode Title="Resolve Method (IPAddress)" Url="html/M_SharpPcap_Protocols_ARP_Resolve.htm" />
           <HelpTOCNode Title="Resolve Method (IPAddress, String)" Url="html/M_SharpPcap_Protocols_ARP_Resolve_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="daefdf08-f4a7-4e6d-9cc7-d323fe06114e" Title="ARP Properties " Url="html/Properties_T_SharpPcap_Protocols_ARP.htm">
+      <HelpTOCNode Id="cfb3c1b3-0c69-4e60-8955-1bddaa5a8183" Title="ARP Properties " Url="html/Properties_T_SharpPcap_Protocols_ARP.htm">
         <HelpTOCNode Title="DeviceName Property " Url="html/P_SharpPcap_Protocols_ARP_DeviceName.htm" />
         <HelpTOCNode Title="LocalIP Property " Url="html/P_SharpPcap_Protocols_ARP_LocalIP.htm" />
         <HelpTOCNode Title="LocalMAC Property " Url="html/P_SharpPcap_Protocols_ARP_LocalMAC.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="ed083368-7774-4620-b50c-64a5fd89cb78" Title="SharpPcap.Util Namespace" Url="html/N_SharpPcap_Util.htm">
-    <HelpTOCNode Id="4c2e9558-fb94-4217-af06-11293ab396da" Title="Convert Class" Url="html/T_SharpPcap_Util_Convert.htm">
+  <HelpTOCNode Id="1433a426-7514-4994-9a7f-bc5d01def487" Title="SharpPcap.Util Namespace" Url="html/N_SharpPcap_Util.htm">
+    <HelpTOCNode Id="d66f9d30-927b-4789-bc44-ea6d7483fc9c" Title="Convert Class" Url="html/T_SharpPcap_Util_Convert.htm">
       <HelpTOCNode Title="Convert Members" Url="html/AllMembers_T_SharpPcap_Util_Convert.htm" />
       <HelpTOCNode Title="Convert Constructor " Url="html/M_SharpPcap_Util_Convert__ctor.htm" />
-      <HelpTOCNode Id="c52b9d2e-4174-4d1a-8c3d-6357d623e014" Title="Convert Methods " Url="html/Methods_T_SharpPcap_Util_Convert.htm">
-        <HelpTOCNode Id="27536594-2ebb-4049-8e60-ba85b11db7cc" Title="BytesToHex Method " Url="html/Overload_SharpPcap_Util_Convert_BytesToHex.htm">
+      <HelpTOCNode Id="3a5cbc44-5aed-4fe3-975b-207ed5e3a05b" Title="Convert Methods " Url="html/Methods_T_SharpPcap_Util_Convert.htm">
+        <HelpTOCNode Id="4e39f529-c451-447a-9df7-8c55365b1aa3" Title="BytesToHex Method " Url="html/Overload_SharpPcap_Util_Convert_BytesToHex.htm">
           <HelpTOCNode Title="BytesToHex Method (Byte[])" Url="html/M_SharpPcap_Util_Convert_BytesToHex.htm" />
           <HelpTOCNode Title="BytesToHex Method (Byte[], Int32, Int32)" Url="html/M_SharpPcap_Util_Convert_BytesToHex_1.htm" />
         </HelpTOCNode>
@@ -1822,28 +1824,28 @@
         <HelpTOCNode Title="Time_T2DateTime Method " Url="html/M_SharpPcap_Util_Convert_Time_T2DateTime.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="28e2e041-af35-4f74-9a67-b1fe7725b9c3" Title="Int64Range Class" Url="html/T_SharpPcap_Util_Int64Range.htm">
+    <HelpTOCNode Id="5ab76e11-b202-4359-b7cc-380d29e801e2" Title="Int64Range Class" Url="html/T_SharpPcap_Util_Int64Range.htm">
       <HelpTOCNode Title="Int64Range Members" Url="html/AllMembers_T_SharpPcap_Util_Int64Range.htm" />
-      <HelpTOCNode Id="32f4d5d4-10f9-4880-8505-ffda550b2bdc" Title="Int64Range Constructor " Url="html/Overload_SharpPcap_Util_Int64Range__ctor.htm">
+      <HelpTOCNode Id="b1176d2e-90fc-4df6-b42c-19a4c50c4f25" Title="Int64Range Constructor " Url="html/Overload_SharpPcap_Util_Int64Range__ctor.htm">
         <HelpTOCNode Title="Int64Range Constructor " Url="html/M_SharpPcap_Util_Int64Range__ctor.htm" />
         <HelpTOCNode Title="Int64Range Constructor (Int64, Int64)" Url="html/M_SharpPcap_Util_Int64Range__ctor_1.htm" />
         <HelpTOCNode Title="Int64Range Constructor (Int64, Int64, Boolean)" Url="html/M_SharpPcap_Util_Int64Range__ctor_2.htm" />
         <HelpTOCNode Title="Int64Range Constructor (Int64, Int64, Int64)" Url="html/M_SharpPcap_Util_Int64Range__ctor_3.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Int64Range Fields" Url="html/Fields_T_SharpPcap_Util_Int64Range.htm" />
-      <HelpTOCNode Id="19e954ff-c402-4119-98d6-8706ded87aad" Title="Int64Range Methods " Url="html/Methods_T_SharpPcap_Util_Int64Range.htm">
+      <HelpTOCNode Id="69b95bd1-0f79-45fc-8796-500dc1178234" Title="Int64Range Methods " Url="html/Methods_T_SharpPcap_Util_Int64Range.htm">
         <HelpTOCNode Title="checkBoundries Method " Url="html/Overload_SharpPcap_Util_Int64Range_checkBoundries.htm" />
         <HelpTOCNode Title="GetEnumerator Method " Url="html/M_SharpPcap_Util_Int64Range_GetEnumerator.htm" />
         <HelpTOCNode Title="MoveNext Method " Url="html/M_SharpPcap_Util_Int64Range_MoveNext.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/M_SharpPcap_Util_Int64Range_Reset.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b49935f4-ab6a-4d38-a27a-f685e78b83b4" Title="Int64Range Properties " Url="html/Properties_T_SharpPcap_Util_Int64Range.htm">
+      <HelpTOCNode Id="589686f2-72e8-40cf-8706-48e69f5135a2" Title="Int64Range Properties " Url="html/Properties_T_SharpPcap_Util_Int64Range.htm">
         <HelpTOCNode Title="Current Property " Url="html/P_SharpPcap_Util_Int64Range_Current.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="884fe807-bdd5-4104-b9f1-8681a37bdfc0" Title="IPAddressRange Class" Url="html/T_SharpPcap_Util_IPAddressRange.htm">
+    <HelpTOCNode Id="7fe4bf64-1002-4de7-8e07-e49b4944ae35" Title="IPAddressRange Class" Url="html/T_SharpPcap_Util_IPAddressRange.htm">
       <HelpTOCNode Title="IPAddressRange Members" Url="html/AllMembers_T_SharpPcap_Util_IPAddressRange.htm" />
-      <HelpTOCNode Id="6fc8de13-c0dd-48eb-bdfc-6722c65a582f" Title="IPAddressRange Constructor " Url="html/Overload_SharpPcap_Util_IPAddressRange__ctor.htm">
+      <HelpTOCNode Id="cc41d45f-a37b-4ad4-84b3-ffeeea271867" Title="IPAddressRange Constructor " Url="html/Overload_SharpPcap_Util_IPAddressRange__ctor.htm">
         <HelpTOCNode Title="IPAddressRange Constructor " Url="html/M_SharpPcap_Util_IPAddressRange__ctor.htm" />
         <HelpTOCNode Title="IPAddressRange Constructor (Int64, Int64)" Url="html/M_SharpPcap_Util_IPAddressRange__ctor_1.htm" />
         <HelpTOCNode Title="IPAddressRange Constructor (String, String)" Url="html/M_SharpPcap_Util_IPAddressRange__ctor_6.htm" />
@@ -1857,7 +1859,7 @@
         <HelpTOCNode Title="IPAddressRange Constructor (String, String, Int64, Int64, Int64)" Url="html/M_SharpPcap_Util_IPAddressRange__ctor_10.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="IPAddressRange Fields" Url="html/Fields_T_SharpPcap_Util_IPAddressRange.htm" />
-      <HelpTOCNode Id="34c811cf-1d72-42c0-8c8d-9ade52a3af4e" Title="IPAddressRange Methods " Url="html/Methods_T_SharpPcap_Util_IPAddressRange.htm">
+      <HelpTOCNode Id="4bd96f5c-9703-42b1-879a-304b5c8d8fde" Title="IPAddressRange Methods " Url="html/Methods_T_SharpPcap_Util_IPAddressRange.htm">
         <HelpTOCNode Title="checkBoundries Method " Url="html/Overload_SharpPcap_Util_IPAddressRange_checkBoundries.htm" />
         <HelpTOCNode Title="fromString Method " Url="html/M_SharpPcap_Util_IPAddressRange_fromString.htm" />
         <HelpTOCNode Title="GetEnumerator Method " Url="html/M_SharpPcap_Util_IPAddressRange_GetEnumerator.htm" />
@@ -1866,58 +1868,58 @@
         <HelpTOCNode Title="Reset Method " Url="html/M_SharpPcap_Util_IPAddressRange_Reset.htm" />
         <HelpTOCNode Title="size Method " Url="html/M_SharpPcap_Util_IPAddressRange_size.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="45298f4e-5bb8-4022-a4fa-ea460f9affa8" Title="IPAddressRange Properties " Url="html/Properties_T_SharpPcap_Util_IPAddressRange.htm">
+      <HelpTOCNode Id="02bcc745-5d62-4c69-a9a1-53cfce350894" Title="IPAddressRange Properties " Url="html/Properties_T_SharpPcap_Util_IPAddressRange.htm">
         <HelpTOCNode Title="Current Property " Url="html/P_SharpPcap_Util_IPAddressRange_Current.htm" />
         <HelpTOCNode Title="CurrentIPAddress Property " Url="html/P_SharpPcap_Util_IPAddressRange_CurrentIPAddress.htm" />
         <HelpTOCNode Title="FisrtIPAddress Property " Url="html/P_SharpPcap_Util_IPAddressRange_FisrtIPAddress.htm" />
         <HelpTOCNode Title="LastIPAddress Property " Url="html/P_SharpPcap_Util_IPAddressRange_LastIPAddress.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4ee743bd-8430-40ef-bc03-edc509c960d9" Title="IPSubnet Class" Url="html/T_SharpPcap_Util_IPSubnet.htm">
+    <HelpTOCNode Id="a72d5ef8-9d59-451f-a82d-72a07611ee93" Title="IPSubnet Class" Url="html/T_SharpPcap_Util_IPSubnet.htm">
       <HelpTOCNode Title="IPSubnet Members" Url="html/AllMembers_T_SharpPcap_Util_IPSubnet.htm" />
-      <HelpTOCNode Id="22cd67b3-c67c-4538-ab35-335c4cb4f117" Title="IPSubnet Constructor " Url="html/Overload_SharpPcap_Util_IPSubnet__ctor.htm">
+      <HelpTOCNode Id="b21a2b16-5e70-4a8b-83ea-3dfe747a7eaa" Title="IPSubnet Constructor " Url="html/Overload_SharpPcap_Util_IPSubnet__ctor.htm">
         <HelpTOCNode Title="IPSubnet Constructor (String)" Url="html/M_SharpPcap_Util_IPSubnet__ctor_2.htm" />
         <HelpTOCNode Title="IPSubnet Constructor (Int64, Int32)" Url="html/M_SharpPcap_Util_IPSubnet__ctor.htm" />
         <HelpTOCNode Title="IPSubnet Constructor (Int64, Int64)" Url="html/M_SharpPcap_Util_IPSubnet__ctor_1.htm" />
         <HelpTOCNode Title="IPSubnet Constructor (String, Int32)" Url="html/M_SharpPcap_Util_IPSubnet__ctor_3.htm" />
         <HelpTOCNode Title="IPSubnet Constructor (String, String)" Url="html/M_SharpPcap_Util_IPSubnet__ctor_4.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="11518f18-db07-4b4d-a94e-25ffbc94a525" Title="IPSubnet Fields" Url="html/Fields_T_SharpPcap_Util_IPSubnet.htm">
+      <HelpTOCNode Id="c0519d6d-ed0c-4e21-9056-661af8180172" Title="IPSubnet Fields" Url="html/Fields_T_SharpPcap_Util_IPSubnet.htm">
         <HelpTOCNode Title="mask Field" Url="html/F_SharpPcap_Util_IPSubnet_mask.htm" />
         <HelpTOCNode Title="net Field" Url="html/F_SharpPcap_Util_IPSubnet_net.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c9f7ca0d-b628-461e-80ba-5d6483abf89f" Title="IPSubnet Methods " Url="html/Methods_T_SharpPcap_Util_IPSubnet.htm">
+      <HelpTOCNode Id="bbaca045-0602-4030-9c04-7b32b4b70e91" Title="IPSubnet Methods " Url="html/Methods_T_SharpPcap_Util_IPSubnet.htm">
         <HelpTOCNode Title="checkBoundries Method " Url="html/Overload_SharpPcap_Util_IPSubnet_checkBoundries.htm" />
         <HelpTOCNode Title="includeBroadcastAddress Method " Url="html/M_SharpPcap_Util_IPSubnet_includeBroadcastAddress.htm" />
         <HelpTOCNode Title="includeNetworkAddress Method " Url="html/M_SharpPcap_Util_IPSubnet_includeNetworkAddress.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8c3a7f7b-0d8a-4b53-826a-ea82a9eb4c0c" Title="IPSubnet Properties " Url="html/Properties_T_SharpPcap_Util_IPSubnet.htm">
+      <HelpTOCNode Id="67791552-0f4c-42e6-9cba-dc179daaabb8" Title="IPSubnet Properties " Url="html/Properties_T_SharpPcap_Util_IPSubnet.htm">
         <HelpTOCNode Title="BroadcastAddress Property " Url="html/P_SharpPcap_Util_IPSubnet_BroadcastAddress.htm" />
         <HelpTOCNode Title="NetworkAddress Property " Url="html/P_SharpPcap_Util_IPSubnet_NetworkAddress.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="483f5fcb-0377-4f6e-8a84-b8509e2fdfb4" Title="IPUtil Class" Url="html/T_SharpPcap_Util_IPUtil.htm">
+    <HelpTOCNode Id="35180c9e-086e-4e49-b7b2-804a5b713557" Title="IPUtil Class" Url="html/T_SharpPcap_Util_IPUtil.htm">
       <HelpTOCNode Title="IPUtil Members" Url="html/AllMembers_T_SharpPcap_Util_IPUtil.htm" />
       <HelpTOCNode Title="IPUtil Constructor " Url="html/M_SharpPcap_Util_IPUtil__ctor.htm" />
-      <HelpTOCNode Id="dd91898f-c8ab-4d10-a2ee-6b878979e0b0" Title="IPUtil Fields" Url="html/Fields_T_SharpPcap_Util_IPUtil.htm">
+      <HelpTOCNode Id="710e752d-539f-43e1-8147-7fea010040ff" Title="IPUtil Fields" Url="html/Fields_T_SharpPcap_Util_IPUtil.htm">
         <HelpTOCNode Title="REGEX_IP_ADDR Field" Url="html/F_SharpPcap_Util_IPUtil_REGEX_IP_ADDR.htm" />
         <HelpTOCNode Title="REGEX_IP_AND_MASK_BITS Field" Url="html/F_SharpPcap_Util_IPUtil_REGEX_IP_AND_MASK_BITS.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e264b590-7313-4575-a1f3-19f561ccb88f" Title="IPUtil Methods " Url="html/Methods_T_SharpPcap_Util_IPUtil.htm">
+      <HelpTOCNode Id="8fce6160-3708-4951-913a-a890f78b23b5" Title="IPUtil Methods " Url="html/Methods_T_SharpPcap_Util_IPUtil.htm">
         <HelpTOCNode Title="ApplyMask Method " Url="html/M_SharpPcap_Util_IPUtil_ApplyMask.htm" />
         <HelpTOCNode Title="ExtractIp Method " Url="html/M_SharpPcap_Util_IPUtil_ExtractIp.htm" />
         <HelpTOCNode Title="ExtractMaskBits Method " Url="html/M_SharpPcap_Util_IPUtil_ExtractMaskBits.htm" />
-        <HelpTOCNode Id="60f47ed5-9d23-4205-aada-879b3ccfe5e4" Title="Hton Method " Url="html/Overload_SharpPcap_Util_IPUtil_Hton.htm">
+        <HelpTOCNode Id="87cc51fc-9437-4ab1-9463-32ee65289e37" Title="Hton Method " Url="html/Overload_SharpPcap_Util_IPUtil_Hton.htm">
           <HelpTOCNode Title="Hton Method (Int16)" Url="html/M_SharpPcap_Util_IPUtil_Hton.htm" />
           <HelpTOCNode Title="Hton Method (Int32)" Url="html/M_SharpPcap_Util_IPUtil_Hton_1.htm" />
           <HelpTOCNode Title="Hton Method (Int64)" Url="html/M_SharpPcap_Util_IPUtil_Hton_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="aee90420-d14b-41b0-b32e-17cda79ba521" Title="IpToBytes Method " Url="html/Overload_SharpPcap_Util_IPUtil_IpToBytes.htm">
+        <HelpTOCNode Id="d3d47653-466b-4ec0-89d1-4c9588cc703d" Title="IpToBytes Method " Url="html/Overload_SharpPcap_Util_IPUtil_IpToBytes.htm">
           <HelpTOCNode Title="IpToBytes Method (Int64)" Url="html/M_SharpPcap_Util_IPUtil_IpToBytes.htm" />
           <HelpTOCNode Title="IpToBytes Method (String)" Url="html/M_SharpPcap_Util_IPUtil_IpToBytes_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="IpToLong Method " Url="html/M_SharpPcap_Util_IPUtil_IpToLong.htm" />
-        <HelpTOCNode Id="32f81dd0-b3a9-4027-9de5-44087f8077c4" Title="IpToString Method " Url="html/Overload_SharpPcap_Util_IPUtil_IpToString.htm">
+        <HelpTOCNode Id="d0b543dd-3228-40f6-9e56-9260328cfd47" Title="IpToString Method " Url="html/Overload_SharpPcap_Util_IPUtil_IpToString.htm">
           <HelpTOCNode Title="IpToString Method (Byte[])" Url="html/M_SharpPcap_Util_IPUtil_IpToString.htm" />
           <HelpTOCNode Title="IpToString Method (Int64)" Url="html/M_SharpPcap_Util_IPUtil_IpToString_1.htm" />
         </HelpTOCNode>
@@ -1927,38 +1929,38 @@
         <HelpTOCNode Title="IsRangeWithMaskBits Method " Url="html/M_SharpPcap_Util_IPUtil_IsRangeWithMaskBits.htm" />
         <HelpTOCNode Title="MacFormat Method " Url="html/M_SharpPcap_Util_IPUtil_MacFormat.htm" />
         <HelpTOCNode Title="MacToLong Method " Url="html/M_SharpPcap_Util_IPUtil_MacToLong.htm" />
-        <HelpTOCNode Id="4cbf64c9-f521-449f-838c-b87d3a95b57a" Title="MacToString Method " Url="html/Overload_SharpPcap_Util_IPUtil_MacToString.htm">
+        <HelpTOCNode Id="1683170e-b1c7-4616-8258-75f6e16a504a" Title="MacToString Method " Url="html/Overload_SharpPcap_Util_IPUtil_MacToString.htm">
           <HelpTOCNode Title="MacToString Method (Byte[])" Url="html/M_SharpPcap_Util_IPUtil_MacToString.htm" />
           <HelpTOCNode Title="MacToString Method (Int64)" Url="html/M_SharpPcap_Util_IPUtil_MacToString_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f06d7e65-2025-43f3-9114-58053f981124" Title="MaskToBits Method " Url="html/Overload_SharpPcap_Util_IPUtil_MaskToBits.htm">
+        <HelpTOCNode Id="c3286516-d6d2-49a7-a522-ae7256ccb89c" Title="MaskToBits Method " Url="html/Overload_SharpPcap_Util_IPUtil_MaskToBits.htm">
           <HelpTOCNode Title="MaskToBits Method (Byte[])" Url="html/M_SharpPcap_Util_IPUtil_MaskToBits.htm" />
           <HelpTOCNode Title="MaskToBits Method (Int64)" Url="html/M_SharpPcap_Util_IPUtil_MaskToBits_1.htm" />
           <HelpTOCNode Title="MaskToBits Method (String)" Url="html/M_SharpPcap_Util_IPUtil_MaskToBits_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="7e49e3d2-6fc4-459b-b5c1-50e9ccfb8b03" Title="MaskToLong Method " Url="html/Overload_SharpPcap_Util_IPUtil_MaskToLong.htm">
+        <HelpTOCNode Id="acbaa8dd-1e88-4def-98d2-476f25dcf373" Title="MaskToLong Method " Url="html/Overload_SharpPcap_Util_IPUtil_MaskToLong.htm">
           <HelpTOCNode Title="MaskToLong Method (Int32)" Url="html/M_SharpPcap_Util_IPUtil_MaskToLong.htm" />
           <HelpTOCNode Title="MaskToLong Method (String)" Url="html/M_SharpPcap_Util_IPUtil_MaskToLong_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="MaskToString Method " Url="html/M_SharpPcap_Util_IPUtil_MaskToString.htm" />
-        <HelpTOCNode Id="6721f5e5-ad93-4c8d-b09a-cf637fd6a734" Title="Ntoh Method " Url="html/Overload_SharpPcap_Util_IPUtil_Ntoh.htm">
+        <HelpTOCNode Id="c39a96de-c98f-415d-af27-d207c1888a9b" Title="Ntoh Method " Url="html/Overload_SharpPcap_Util_IPUtil_Ntoh.htm">
           <HelpTOCNode Title="Ntoh Method (Int16)" Url="html/M_SharpPcap_Util_IPUtil_Ntoh.htm" />
           <HelpTOCNode Title="Ntoh Method (Int32)" Url="html/M_SharpPcap_Util_IPUtil_Ntoh_1.htm" />
           <HelpTOCNode Title="Ntoh Method (Int64)" Url="html/M_SharpPcap_Util_IPUtil_Ntoh_2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="533f88a7-bfc5-40c4-8352-eb743d3e898d" Title="NumberRange Class" Url="html/T_SharpPcap_Util_NumberRange.htm">
+    <HelpTOCNode Id="8d31c5ed-4482-4cd6-ab2e-4bfc582bb16b" Title="NumberRange Class" Url="html/T_SharpPcap_Util_NumberRange.htm">
       <HelpTOCNode Title="NumberRange Members" Url="html/AllMembers_T_SharpPcap_Util_NumberRange.htm" />
-      <HelpTOCNode Id="027b6fad-0caa-41ff-b5ed-e1c4db267d5d" Title="NumberRange Constructor " Url="html/Overload_SharpPcap_Util_NumberRange__ctor.htm">
+      <HelpTOCNode Id="f23843dd-1960-4720-a0dd-49d728ed5db7" Title="NumberRange Constructor " Url="html/Overload_SharpPcap_Util_NumberRange__ctor.htm">
         <HelpTOCNode Title="NumberRange Constructor (Int64, Int64, Boolean, Int64, Int64)" Url="html/M_SharpPcap_Util_NumberRange__ctor.htm" />
         <HelpTOCNode Title="NumberRange Constructor (Int64, Int64, Int64, Int64, Int64)" Url="html/M_SharpPcap_Util_NumberRange__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3903ed8e-9f1e-4645-a5fd-1bf7d756d72b" Title="NumberRange Fields" Url="html/Fields_T_SharpPcap_Util_NumberRange.htm">
+      <HelpTOCNode Id="897db7a5-104e-41db-8aba-a395fbc32997" Title="NumberRange Fields" Url="html/Fields_T_SharpPcap_Util_NumberRange.htm">
         <HelpTOCNode Title="random Field" Url="html/F_SharpPcap_Util_NumberRange_random.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="07640c21-c682-4ea5-8647-290921fe398e" Title="NumberRange Methods " Url="html/Methods_T_SharpPcap_Util_NumberRange.htm">
-        <HelpTOCNode Id="67b3e188-e5d8-4d9b-9141-6eea5de0f168" Title="checkBoundries Method " Url="html/Overload_SharpPcap_Util_NumberRange_checkBoundries.htm">
+      <HelpTOCNode Id="dd0083b1-85dd-4131-a7ed-1b4329809e30" Title="NumberRange Methods " Url="html/Methods_T_SharpPcap_Util_NumberRange.htm">
+        <HelpTOCNode Id="b65526f5-360b-46a2-8ae3-ae1d3f1be1e2" Title="checkBoundries Method " Url="html/Overload_SharpPcap_Util_NumberRange_checkBoundries.htm">
           <HelpTOCNode Title="checkBoundries Method (Int64)" Url="html/M_SharpPcap_Util_NumberRange_checkBoundries.htm" />
           <HelpTOCNode Title="checkBoundries Method (Int64, Int64, Int64)" Url="html/M_SharpPcap_Util_NumberRange_checkBoundries_1.htm" />
         </HelpTOCNode>
@@ -1980,37 +1982,106 @@
         <HelpTOCNode Title="uint16Range Method " Url="html/M_SharpPcap_Util_NumberRange_uint16Range.htm" />
         <HelpTOCNode Title="uint32Range Method " Url="html/M_SharpPcap_Util_NumberRange_uint32Range.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="895c07d3-49b1-497f-9426-f1c4568c0e34" Title="NumberRange Properties " Url="html/Properties_T_SharpPcap_Util_NumberRange.htm">
+      <HelpTOCNode Id="35634d02-7f24-45b5-b995-b6824275c535" Title="NumberRange Properties " Url="html/Properties_T_SharpPcap_Util_NumberRange.htm">
         <HelpTOCNode Title="CurrentNumber Property " Url="html/P_SharpPcap_Util_NumberRange_CurrentNumber.htm" />
         <HelpTOCNode Title="Max Property " Url="html/P_SharpPcap_Util_NumberRange_Max.htm" />
         <HelpTOCNode Title="Min Property " Url="html/P_SharpPcap_Util_NumberRange_Min.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2c81886b-5a44-4597-89e8-1efce2324fc9" Title="Rand Class" Url="html/T_SharpPcap_Util_Rand.htm">
+    <HelpTOCNode Id="022fc29e-3755-4ba8-bf88-36a194c950ac" Title="Rand Class" Url="html/T_SharpPcap_Util_Rand.htm">
       <HelpTOCNode Title="Rand Members" Url="html/AllMembers_T_SharpPcap_Util_Rand.htm" />
       <HelpTOCNode Title="Rand Constructor " Url="html/M_SharpPcap_Util_Rand__ctor.htm" />
-      <HelpTOCNode Id="69e1628d-01fb-4adf-a5e7-064e0ffcb21b" Title="Rand Methods " Url="html/Methods_T_SharpPcap_Util_Rand.htm">
+      <HelpTOCNode Id="483bfb7b-719c-4f98-a825-e7b6b32e55ca" Title="Rand Methods " Url="html/Methods_T_SharpPcap_Util_Rand.htm">
         <HelpTOCNode Title="CreateInstance Method " Url="html/M_SharpPcap_Util_Rand_CreateInstance.htm" />
-        <HelpTOCNode Id="d016196c-6348-4013-824e-27b7637efc3a" Title="GetBytes Method " Url="html/Overload_SharpPcap_Util_Rand_GetBytes.htm">
+        <HelpTOCNode Id="7c646552-eac1-4d9e-bb81-1c74a33b4ba6" Title="GetBytes Method " Url="html/Overload_SharpPcap_Util_Rand_GetBytes.htm">
           <HelpTOCNode Title="GetBytes Method (Byte[])" Url="html/M_SharpPcap_Util_Rand_GetBytes.htm" />
           <HelpTOCNode Title="GetBytes Method (Int32)" Url="html/M_SharpPcap_Util_Rand_GetBytes_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetDouble Method " Url="html/M_SharpPcap_Util_Rand_GetDouble.htm" />
-        <HelpTOCNode Id="8acf53f1-f5e5-426e-9222-7c7c45959052" Title="GetInt Method " Url="html/Overload_SharpPcap_Util_Rand_GetInt.htm">
+        <HelpTOCNode Id="b3efded1-2f95-4497-b8c9-64d4b7bcb3ac" Title="GetInt Method " Url="html/Overload_SharpPcap_Util_Rand_GetInt.htm">
           <HelpTOCNode Title="GetInt Method " Url="html/M_SharpPcap_Util_Rand_GetInt.htm" />
           <HelpTOCNode Title="GetInt Method (Int32)" Url="html/M_SharpPcap_Util_Rand_GetInt_1.htm" />
           <HelpTOCNode Title="GetInt Method (Int32, Int32)" Url="html/M_SharpPcap_Util_Rand_GetInt_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="de8f4a54-8049-406a-9aa8-9f40b42ad7d3" Title="GetLong Method " Url="html/Overload_SharpPcap_Util_Rand_GetLong.htm">
+        <HelpTOCNode Id="3a922be5-843a-4456-bb1d-ba635d6a02cd" Title="GetLong Method " Url="html/Overload_SharpPcap_Util_Rand_GetLong.htm">
           <HelpTOCNode Title="GetLong Method " Url="html/M_SharpPcap_Util_Rand_GetLong.htm" />
           <HelpTOCNode Title="GetLong Method (Int64)" Url="html/M_SharpPcap_Util_Rand_GetLong_1.htm" />
           <HelpTOCNode Title="GetLong Method (Int64, Int64)" Url="html/M_SharpPcap_Util_Rand_GetLong_2.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetSeed Method " Url="html/M_SharpPcap_Util_Rand_GetSeed.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="98b01baf-4f5e-499d-9f83-0b6b4e11a926" Title="Rand Properties " Url="html/Properties_T_SharpPcap_Util_Rand.htm">
+      <HelpTOCNode Id="4fd1be47-cbff-47ff-b713-735f8f9fcba0" Title="Rand Properties " Url="html/Properties_T_SharpPcap_Util_Rand.htm">
         <HelpTOCNode Title="Instance Property " Url="html/P_SharpPcap_Util_Rand_Instance.htm" />
       </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c2510c25-d7e5-4882-995f-214b07c85169" Title="SharpPcap.Win32 Namespace" Url="html/N_SharpPcap_Win32.htm">
+    <HelpTOCNode Id="adf4f4a1-4e6e-4db0-b37a-d546a142b729" Title="IPHelper Class" Url="html/T_SharpPcap_Win32_IPHelper.htm">
+      <HelpTOCNode Title="IPHelper Members" Url="html/AllMembers_T_SharpPcap_Win32_IPHelper.htm" />
+      <HelpTOCNode Title="IPHelper Constructor " Url="html/M_SharpPcap_Win32_IPHelper__ctor.htm" />
+      <HelpTOCNode Id="aac21edf-b0ba-4768-b2e8-1e1cc8ed939d" Title="IPHelper Fields" Url="html/Fields_T_SharpPcap_Win32_IPHelper.htm">
+        <HelpTOCNode Title="MIB_IF_ADMIN_STATUS_DOWN Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_ADMIN_STATUS_DOWN.htm" />
+        <HelpTOCNode Title="MIB_IF_ADMIN_STATUS_TESTING Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_ADMIN_STATUS_TESTING.htm" />
+        <HelpTOCNode Title="MIB_IF_ADMIN_STATUS_UP Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_ADMIN_STATUS_UP.htm" />
+        <HelpTOCNode Title="MIB_IF_OPER_STATUS_CONNECTED Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_CONNECTED.htm" />
+        <HelpTOCNode Title="MIB_IF_OPER_STATUS_CONNECTING Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_CONNECTING.htm" />
+        <HelpTOCNode Title="MIB_IF_OPER_STATUS_DISCONNECTED Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_DISCONNECTED.htm" />
+        <HelpTOCNode Title="MIB_IF_OPER_STATUS_NON_OPERATIONAL Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_NON_OPERATIONAL.htm" />
+        <HelpTOCNode Title="MIB_IF_OPER_STATUS_OPERATIONAL Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_OPERATIONAL.htm" />
+        <HelpTOCNode Title="MIB_IF_OPER_STATUS_UNREACHABLE Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_OPER_STATUS_UNREACHABLE.htm" />
+        <HelpTOCNode Title="MIB_IF_TYPE_ETHERNET Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_ETHERNET.htm" />
+        <HelpTOCNode Title="MIB_IF_TYPE_FDDI Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_FDDI.htm" />
+        <HelpTOCNode Title="MIB_IF_TYPE_LOOPBACK Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_LOOPBACK.htm" />
+        <HelpTOCNode Title="MIB_IF_TYPE_OTHER Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_OTHER.htm" />
+        <HelpTOCNode Title="MIB_IF_TYPE_PPP Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_PPP.htm" />
+        <HelpTOCNode Title="MIB_IF_TYPE_SLIP Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_SLIP.htm" />
+        <HelpTOCNode Title="MIB_IF_TYPE_TOKENRING Field" Url="html/F_SharpPcap_Win32_IPHelper_MIB_IF_TYPE_TOKENRING.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a2ea397c-250c-4937-935f-98cadc409729" Title="IPHelper Methods " Url="html/Methods_T_SharpPcap_Win32_IPHelper.htm">
+        <HelpTOCNode Title="GetAdminStatus Method " Url="html/M_SharpPcap_Win32_IPHelper_GetAdminStatus.htm" />
+        <HelpTOCNode Title="GetAllDevices Method " Url="html/M_SharpPcap_Win32_IPHelper_GetAllDevices.htm" />
+        <HelpTOCNode Title="GetOperStatus Method " Url="html/M_SharpPcap_Win32_IPHelper_GetOperStatus.htm" />
+        <HelpTOCNode Title="SetAdminStatus Method " Url="html/M_SharpPcap_Win32_IPHelper_SetAdminStatus.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="873926af-d5e8-4ba3-a8ed-4c443e94e373" Title="IPHelper_DeviceDoesntExistsException Class" Url="html/T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm">
+      <HelpTOCNode Title="IPHelper_DeviceDoesntExistsException Members" Url="html/AllMembers_T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+      <HelpTOCNode Title="IPHelper_DeviceDoesntExistsException Constructor " Url="html/M_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException__ctor.htm" />
+      <HelpTOCNode Title="IPHelper_DeviceDoesntExistsException Methods " Url="html/Methods_T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+      <HelpTOCNode Title="IPHelper_DeviceDoesntExistsException Properties " Url="html/Properties_T_SharpPcap_Win32_IPHelper_DeviceDoesntExistsException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="729b6581-2b4f-41c9-b58b-35307fa562d4" Title="NetworkDevice Class" Url="html/T_SharpPcap_Win32_NetworkDevice.htm">
+      <HelpTOCNode Title="NetworkDevice Members" Url="html/AllMembers_T_SharpPcap_Win32_NetworkDevice.htm" />
+      <HelpTOCNode Id="b8afb4b7-6dac-4255-8859-d3f673d0d01d" Title="NetworkDevice Methods " Url="html/Methods_T_SharpPcap_Win32_NetworkDevice.htm">
+        <HelpTOCNode Title="Dump Method " Url="html/Overload_SharpPcap_Win32_NetworkDevice_Dump.htm" />
+        <HelpTOCNode Title="GetNextPacket Method " Url="html/Overload_SharpPcap_Win32_NetworkDevice_GetNextPacket.htm" />
+        <HelpTOCNode Title="Open Method " Url="html/Overload_SharpPcap_Win32_NetworkDevice_Open.htm" />
+        <HelpTOCNode Title="SendPacket Method " Url="html/Overload_SharpPcap_Win32_NetworkDevice_SendPacket.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_SharpPcap_Win32_NetworkDevice_ToString.htm" />
+        <HelpTOCNode Title="ToStringDetailed Method " Url="html/M_SharpPcap_Win32_NetworkDevice_ToStringDetailed.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f80b7acd-7d34-4992-85a3-ec41b0962d78" Title="NetworkDevice Properties " Url="html/Properties_T_SharpPcap_Win32_NetworkDevice.htm">
+        <HelpTOCNode Title="AdminStatus Property " Url="html/P_SharpPcap_Win32_NetworkDevice_AdminStatus.htm" />
+        <HelpTOCNode Title="DefaultGateway Property " Url="html/P_SharpPcap_Win32_NetworkDevice_DefaultGateway.htm" />
+        <HelpTOCNode Title="DefaultGatewayList Property " Url="html/P_SharpPcap_Win32_NetworkDevice_DefaultGatewayList.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/P_SharpPcap_Win32_NetworkDevice_Description.htm" />
+        <HelpTOCNode Title="DhcpEnabled Property " Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpEnabled.htm" />
+        <HelpTOCNode Title="DhcpLeaseExpires Property " Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpLeaseExpires.htm" />
+        <HelpTOCNode Title="DhcpLeaseObtained Property " Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpLeaseObtained.htm" />
+        <HelpTOCNode Title="DhcpServer Property " Url="html/P_SharpPcap_Win32_NetworkDevice_DhcpServer.htm" />
+        <HelpTOCNode Title="Index Property " Url="html/P_SharpPcap_Win32_NetworkDevice_Index.htm" />
+        <HelpTOCNode Title="IpAddress Property " Url="html/P_SharpPcap_Win32_NetworkDevice_IpAddress.htm" />
+        <HelpTOCNode Title="IpAddressList Property " Url="html/P_SharpPcap_Win32_NetworkDevice_IpAddressList.htm" />
+        <HelpTOCNode Title="IpMaskList Property " Url="html/P_SharpPcap_Win32_NetworkDevice_IpMaskList.htm" />
+        <HelpTOCNode Title="MacAddress Property " Url="html/P_SharpPcap_Win32_NetworkDevice_MacAddress.htm" />
+        <HelpTOCNode Title="MacAddressBytes Property " Url="html/P_SharpPcap_Win32_NetworkDevice_MacAddressBytes.htm" />
+        <HelpTOCNode Title="MediaState Property " Url="html/P_SharpPcap_Win32_NetworkDevice_MediaState.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_SharpPcap_Win32_NetworkDevice_Name.htm" />
+        <HelpTOCNode Title="SubnetMask Property " Url="html/P_SharpPcap_Win32_NetworkDevice_SubnetMask.htm" />
+        <HelpTOCNode Title="WinsServerPrimary Property " Url="html/P_SharpPcap_Win32_NetworkDevice_WinsServerPrimary.htm" />
+        <HelpTOCNode Title="WinsServerSecondary Property " Url="html/P_SharpPcap_Win32_NetworkDevice_WinsServerSecondary.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="NetworkDevice Events" Url="html/Events_T_SharpPcap_Win32_NetworkDevice.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
 </HelpTOC>
